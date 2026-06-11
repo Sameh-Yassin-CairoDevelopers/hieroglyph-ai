@@ -1,0 +1,9 @@
+torch
+transformers
+sentencepiece
+datasets
+supabase
+python-dotenv
+pandas
+requests
+beautifulsoup4
