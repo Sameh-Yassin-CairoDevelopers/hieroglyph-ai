@@ -1,0 +1,26 @@
+[
+  {
+    "transliteration": "ym",
+    "meaning_en": "sea",
+    "meaning_ar": "بحر",
+    "hieroglyphs_raw": "ym𓇌𓈗𓈘𓏤𓈅𓇌𓍢𓅓𓂝𓈗𓈘𓈇seaبحر",
+    "phnid": 31,
+    "page": 1
+  },
+  {
+    "transliteration": "yhy",
+    "meaning_en": "oho !",
+    "meaning_ar": "تعبير للدهشة",
+    "hieroglyphs_raw": "yhy𓇋𓀁𓇌𓉔𓇌𓀁𓇋𓉔𓇋oho !تعبير للدهشة",
+    "phnid": 31,
+    "page": 1
+  },
+  {
+    "transliteration": "yH",
+    "meaning_en": "hey!",
+    "meaning_ar": "اسرع!",
+    "hieroglyphs_raw": "yH𓇌𓎛𓂻hey!اسرع!",
+    "phnid": 31,
+    "page": 1
+  }
+]

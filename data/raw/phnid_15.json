@@ -1,0 +1,873 @@
+[
+  {
+    "transliteration": "Xpn",
+    "meaning_en": "Fat",
+    "meaning_ar": "سمين",
+    "hieroglyphs_raw": "Xpn,xpn𓄡𓊪𓈖𓃾𓄡𓊪𓈖𓄀Fatسمين",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAA",
+    "meaning_en": "Resolute",
+    "meaning_ar": "مصمم، عازم",
+    "hieroglyphs_raw": "XAA𓆞𓄿𓄿𓏛Resoluteمصمم، عازم",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAA",
+    "meaning_en": "Clothes-peg",
+    "meaning_ar": "شماعة الملابس",
+    "hieroglyphs_raw": "XAA𓆞𓄿𓄿𓆱Clothes-pegشماعة الملابس",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAy",
+    "meaning_en": "Thwart, refuse, detonate",
+    "meaning_ar": "يحبط، يعصي، يثور",
+    "hieroglyphs_raw": "XAy𓆞𓄿𓇌𓀜𓆞𓄿𓇌𓀁Thwart, refuse, detonateيحبط، يعصي، يثور",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAyt",
+    "meaning_en": "Heap of corpses",
+    "meaning_ar": "كوم من الجثث",
+    "hieroglyphs_raw": "XAyt𓆞𓄿𓇌𓏏𓐎𓏥𓆞𓄿𓏏𓏪Heap of corpsesكوم من الجثث",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAb",
+    "meaning_en": "Stickle",
+    "meaning_ar": "أَثار، جادل",
+    "hieroglyphs_raw": "XAb𓆞𓄿𓃀𓌳𓆱Stickleأَثار، جادل",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAb",
+    "meaning_en": "Clavicle",
+    "meaning_ar": "عظم الترقوة",
+    "hieroglyphs_raw": "XAb𓆞𓄿𓃀𓌳𓆞𓄿𓃀𓇹𓄹Clavicleعظم الترقوة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAbt",
+    "meaning_en": "Curl, the bend wire in the red crown which  ended with spiraling circle",
+    "meaning_ar": "ينحني، يتجعد، السلك المنحني الذي في التاج الأحمر وينتهي طرفه بدائرة حلزونية",
+    "hieroglyphs_raw": "XAbt𓆞𓄿𓃀𓏏𓍢𓆞𓃀𓍢Curl, the bend wire in the red crown which  ended with spiraling circleينحني، يتجعد، السلك المنحني الذي في التاج الأحمر وينتهي طرفه بدائرة حلزونية",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XApt",
+    "meaning_en": "Storm",
+    "meaning_ar": "عاصفة",
+    "hieroglyphs_raw": "XApt𓆞𓄿𓊪𓏏𓇯Stormعاصفة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAm",
+    "meaning_en": "Bend down (the arms for respect), adjoined",
+    "meaning_ar": "يحني الأذرع احترامًا",
+    "hieroglyphs_raw": "XAm𓆞𓄿𓅓𓂘Bend down (the arms for respect), adjoinedيحني الأذرع احترامًا",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAm-xt",
+    "meaning_en": "Kind of offerings",
+    "meaning_ar": "نوع من القرابين",
+    "hieroglyphs_raw": "XAm-xt𓆞𓄿𓐍𓏏𓏛𓏥Kind of offeringsنوع من القرابين",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAr",
+    "meaning_en": "Sack , leather bag, measure (64,72 liter = 16 heqat)",
+    "meaning_ar": "كيس، حقيبة جلدية،  مكيال للغلال (72,64 لتر أي ما يعادل 16 حقات)",
+    "hieroglyphs_raw": "XAr𓆞𓂋𓎅𓎅𓆞𓄿𓂋𓎅𓏤Sack , leather bag, measure (64,72 liter = 16 heqat)كيس، حقيبة جلدية،  مكيال للغلال (72,64 لتر أي ما يعادل 16 حقات)",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XArt",
+    "meaning_en": "Widow",
+    "meaning_ar": "أرملة",
+    "hieroglyphs_raw": "XArt𓆞𓄿𓂋𓏏𓁸𓁐𓆞𓄿𓂋𓏏𓁐𓆞𓄿𓂋𓏏𓅪𓁐Widowأرملة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAXAti",
+    "meaning_en": "storm",
+    "meaning_ar": "عاصفة",
+    "hieroglyphs_raw": "XAXAti𓆞𓄿𓆞𓄿𓍘𓇲𓆞𓄿𓍘𓃩𓇯stormعاصفة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAsw",
+    "meaning_en": "marsh",
+    "meaning_ar": "مستنقع",
+    "hieroglyphs_raw": "XAsw𓆞𓄿𓋴𓅱𓎺𓏥marshمستنقع",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAk-ib",
+    "meaning_en": "rebel",
+    "meaning_ar": "متمرد",
+    "hieroglyphs_raw": "XAk-ib𓆞𓄿𓎡𓄣𓏤rebelمتمرد",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAkw-ib",
+    "meaning_en": "Disaffected persons",
+    "meaning_ar": "سيئ النية، مخادع، ماكر",
+    "hieroglyphs_raw": "XAkw-ib𓅂𓄿𓎡𓅱𓄣𓏤𓏪Disaffected personsسيئ النية، مخادع، ماكر",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAt",
+    "meaning_en": "Quarry, mine",
+    "meaning_ar": "محجر، منجم",
+    "hieroglyphs_raw": "XAt𓆞𓏏𓊌Quarry, mineمحجر، منجم",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAt",
+    "meaning_en": "Marsh",
+    "meaning_ar": "مستنقع",
+    "hieroglyphs_raw": "XAt𓆞𓄿𓏏𓈇Marshمستنقع",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAt",
+    "meaning_en": "Disease",
+    "meaning_ar": "مرض",
+    "hieroglyphs_raw": "XAt𓆞𓄿𓏏𓐎𓏰𓏰𓏰Diseaseمرض",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAt",
+    "meaning_en": "Corpse",
+    "meaning_ar": "جثة",
+    "hieroglyphs_raw": "XAt𓆞𓏏𓐎𓆞𓏏𓄿𓀐Corpseجثة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XAt",
+    "meaning_en": "Oxyrhynchus (mormyrus  kannume)",
+    "meaning_ar": "سمكة القنوم",
+    "hieroglyphs_raw": "XAt𓆞𓏏𓏤𓆛𓆞𓏏𓏤Oxyrhynchus (mormyrus  kannume)سمكة القنوم",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xaaw",
+    "meaning_en": "Measure (?) , allowance (of milk) (?)",
+    "meaning_ar": "مقياس (؟)، حصة، نصيب )من اللبن) (؟)",
+    "hieroglyphs_raw": "Xaaw𓄡𓂝𓂝𓅱𓈒𓏥Measure (?) , allowance (of milk) (?)مقياس (؟)، حصة، نصيب )من اللبن) (؟)",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xam",
+    "meaning_en": "Approach",
+    "meaning_ar": "اقترب من",
+    "hieroglyphs_raw": "Xam𓄡𓂝𓅓𓂻𓄡𓅓𓂝𓂻𓈍𓂝𓅓𓂻Approachاقترب من",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xaq",
+    "meaning_en": "barber",
+    "meaning_ar": "حلاق",
+    "hieroglyphs_raw": "Xaq𓄡𓂝𓈎𓀜𓀀barberحلاق",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xaq",
+    "meaning_en": "shave",
+    "meaning_ar": "يحلق",
+    "hieroglyphs_raw": "Xaq𓄡𓂝𓈎𓍜shaveيحلق",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xaqw",
+    "meaning_en": "Barber",
+    "meaning_ar": "حلاق",
+    "hieroglyphs_raw": "Xaqw𓄡𓂝𓈎𓍢𓍜𓀜Barberحلاق",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XpA",
+    "meaning_en": "Navel-string, navel",
+    "meaning_ar": "سُرة، حبل سُري",
+    "hieroglyphs_raw": "XpA𓄡𓊪𓅯𓄿𓐎𓄡𓊪𓅮𓄿𓄹Navel-string, navelسُرة، حبل سُري",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "XpAw",
+    "meaning_en": "Navel-string, navel",
+    "meaning_ar": "سُرة، حبل سُري",
+    "hieroglyphs_raw": "XpAw𓄡𓊪𓅯𓄿𓅱𓐎𓄹𓄡𓊪𓄿𓄛𓄡𓊪𓐎Navel-string, navelسُرة، حبل سُري",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xpa",
+    "meaning_en": "chew",
+    "meaning_ar": "مضغ",
+    "hieroglyphs_raw": "Xpa𓄡𓊪𓂝𓀁chewمضغ",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xpw",
+    "meaning_en": "Figures (inlaid in metal)",
+    "meaning_ar": "أشكال (مطعمة بالمعدن)",
+    "hieroglyphs_raw": "Xpw𓄡𓊪𓅱𓐎𓏥𓐎𓏥Figures (inlaid in metal)أشكال (مطعمة بالمعدن)",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xpt",
+    "meaning_en": "decease",
+    "meaning_ar": "يفارق الحياة",
+    "hieroglyphs_raw": "Xpt𓐍𓊪𓏏𓁀deceaseيفارق الحياة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xms",
+    "meaning_en": "Wheat  spike",
+    "meaning_ar": "متقرح",
+    "hieroglyphs_raw": "Xms𓄡𓄟𓋴𓇣𓈙𓅓𓊃𓆰Wheat  spikeمتقرح",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xms",
+    "meaning_en": "Bend (the back  in respect)",
+    "meaning_ar": "ينحني (للاحترام)",
+    "hieroglyphs_raw": "Xms𓄡𓅓𓋴𓂢Bend (the back  in respect)ينحني (للاحترام)",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xn",
+    "meaning_en": "Approach",
+    "meaning_ar": "يقترب",
+    "hieroglyphs_raw": "Xn𓄚𓈖𓂻Approachيقترب",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xn",
+    "meaning_en": "Come near",
+    "meaning_ar": "يقترب",
+    "hieroglyphs_raw": "Xn𓄚𓈖𓂻Come nearيقترب",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xn",
+    "meaning_en": "Tent",
+    "meaning_ar": "خيمة",
+    "hieroglyphs_raw": "Xn𓄚𓈖𓋳Tentخيمة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xn-aH",
+    "meaning_en": "Royal residency",
+    "meaning_ar": "المقر الملكي",
+    "hieroglyphs_raw": "Xn-aH𓄚𓈖𓂝𓎛𓉥Royal residencyالمقر الملكي",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xni",
+    "meaning_en": "Row, convey by water (sail)",
+    "meaning_ar": "تجديف، تنقل بواسطة الماء (أبحر)",
+    "hieroglyphs_raw": "Xni𓂙𓈖𓊛𓂙𓈖𓊛𓀜𓂙𓈖𓂡Row, convey by water (sail)تجديف، تنقل بواسطة الماء (أبحر)",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnyt",
+    "meaning_en": "Sailors",
+    "meaning_ar": "بحَّارة",
+    "hieroglyphs_raw": "Xnyt𓂙𓈖𓇌𓏏𓀀𓏥𓂙𓈖𓇌𓏏𓂡𓀀𓏥Sailorsبحَّارة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnw",
+    "meaning_en": "Tumult, uproar",
+    "meaning_ar": "اضطراب، اهتياج",
+    "hieroglyphs_raw": "Xnw𓂙𓈖𓈖𓏌𓅱𓂡𓏥𓂙𓈖𓈖𓏌𓃫𓂡𓏥𓂙𓈖𓈖𓏌𓅱𓇲𓂡𓏥Tumult, uproarاضطراب، اهتياج",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnw",
+    "meaning_en": "Brook, canal, well, water spring",
+    "meaning_ar": "جدول ماء، قناة، بئر، عين ماء",
+    "hieroglyphs_raw": "Xnw𓄚𓈖𓏌𓅱𓈗𓈘Brook, canal, well, water springجدول ماء، قناة، بئر، عين ماء",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnw",
+    "meaning_en": "Interior, home, abode, royal residence",
+    "meaning_ar": "جوفي، داخلي، منزل، مسكن، المقر الملكي",
+    "hieroglyphs_raw": "Xnw𓄚𓈖𓏌𓅱𓉐𓄚𓈖𓉐𓄚𓏌𓏤𓉐𓄚𓏌Interior, home, abode, royal residenceجوفي، داخلي، منزل، مسكن، المقر الملكي",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnw",
+    "meaning_en": "Sailors",
+    "meaning_ar": "بحَّارة",
+    "hieroglyphs_raw": "Xnw𓂙𓈖𓏌𓅱𓀀𓂙𓏌𓀀Sailorsبحَّارة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnw-awy",
+    "meaning_en": "Embrace",
+    "meaning_ar": "عناق، معانقة",
+    "hieroglyphs_raw": "Xnw-awy𓄚𓏌𓂝𓂝𓄚𓏌𓂝𓏭𓅱Embraceعناق، معانقة",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnwtyw",
+    "meaning_en": "Skin-clad people",
+    "meaning_ar": "أناس يرتدون الجلد",
+    "hieroglyphs_raw": "XnwtywSkin-clad peopleأناس يرتدون الجلد",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnbb",
+    "meaning_en": "step on",
+    "meaning_ar": "وطأ",
+    "hieroglyphs_raw": "Xnbb𓄚𓈖𓃀𓃀𓂻step onوطأ",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnm",
+    "meaning_en": "Basin",
+    "meaning_ar": "حوض",
+    "hieroglyphs_raw": "XnmBasinحوض",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnm",
+    "meaning_en": "Herd",
+    "meaning_ar": "قطيع",
+    "hieroglyphs_raw": "Xnm𓎸𓅓𓄛𓏥𓎸𓅓𓃲𓏥Herdقطيع",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnm",
+    "meaning_en": "Join, unite with, enclose, enfold, protect, receive, enrich, endue, associated, be provided, endowed",
+    "meaning_ar": "ينضم، يتحد مع، طوق، أحاط، حضن، دافع عن، يستلم، خصب، زخرف، منح، وهب، مرتبط، تَمَوَن، موهوب",
+    "hieroglyphs_raw": "Xnm𓎸𓅓𓏛𓎸Join, unite with, enclose, enfold, protect, receive, enrich, endue, associated, be provided, endowedينضم، يتحد مع، طوق، أحاط، حضن، دافع عن، يستلم، خصب، زخرف، منح، وهب، مرتبط، تَمَوَن، موهوب",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnmw",
+    "meaning_en": "Khnum",
+    "meaning_ar": "خنوم",
+    "hieroglyphs_raw": "Xnmw𓎸𓅓𓍢𓅆𓎸𓅱𓎸𓅓𓍢𓃝𓎸𓃞𓎸𓅓𓍢𓁠𓎸𓅓𓍢𓄅Khnumخنوم",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnmw",
+    "meaning_en": "Citizens, dependents",
+    "meaning_ar": "أهل، سكان، المعالين",
+    "hieroglyphs_raw": "Xnmw𓎸𓍢𓀀𓁐𓏥𓎸𓈖𓌰𓅓𓀀𓏥𓎸𓈖𓅓𓀀𓏥𓎸𓀀𓏥Citizens, dependentsأهل، سكان، المعالين",
+    "phnid": 15,
+    "page": 1
+  },
+  {
+    "transliteration": "Xnmt",
+    "meaning_en": "Well, cistern",
+    "meaning_ar": "بئر، حوض، صهريج",
+    "hieroglyphs_raw": "Xnmt𓎸𓅓𓏏𓈙𓎸𓏏𓈗𓎸𓏏𓈘𓎸𓏏𓈟𓈗𓎸𓅓𓏏𓈖𓎸𓏏𓈞Well, cisternبئر، حوض، صهريج",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnm(t)",
+    "meaning_en": "(dry)-nurse",
+    "meaning_ar": "حاضنة",
+    "hieroglyphs_raw": "Xnm(t)𓎸𓁐(dry)-nurseحاضنة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnn",
+    "meaning_en": "Disturb, interfere, confound, inflamed, irritated",
+    "meaning_ar": "يزعج، يضايق،  يتدخل، يربك، خلط بين شيئين، يشعل، يسخط، يثير",
+    "hieroglyphs_raw": "Xnn𓂙𓈖𓈖𓀜𓂙𓈖𓈖𓃫𓀜𓂙𓈖𓈖𓃩𓂙𓈖𓈖𓏌𓂦Disturb, interfere, confound, inflamed, irritatedيزعج، يضايق،  يتدخل، يربك، خلط بين شيئين، يشعل، يسخط، يثير",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnnw",
+    "meaning_en": "Brawlers",
+    "meaning_ar": "مشاكسين",
+    "hieroglyphs_raw": "XnnwBrawlersمشاكسين",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnrtt",
+    "meaning_en": "conspiracy",
+    "meaning_ar": "مؤامرة",
+    "hieroglyphs_raw": "Xnrtt𓐍𓋔𓂋𓏏𓏏𓀐conspiracyمؤامرة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "XnXn",
+    "meaning_en": "Clash, meet with",
+    "meaning_ar": "التحم بـ، التقى بـ",
+    "hieroglyphs_raw": "XnXn𓄚𓈖𓄚𓈖𓂻Clash, meet withالتحم بـ، التقى بـ",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnsyt",
+    "meaning_en": "scurf",
+    "meaning_ar": "قشرة الرأس",
+    "hieroglyphs_raw": "Xnsyt𓐍𓈖𓋴𓇌𓏏𓐎𓏥scurfقشرة الرأس",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnt",
+    "meaning_en": "Water-procession",
+    "meaning_ar": "انبثاق الماء، تقدم الماء",
+    "hieroglyphs_raw": "Xnt𓂙𓈖𓏏𓊛𓂙𓏏𓊛𓂙𓏏𓏛𓏥Water-processionانبثاق الماء، تقدم الماء",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnt",
+    "meaning_en": "Burial chamber",
+    "meaning_ar": "حجرة دفن",
+    "hieroglyphs_raw": "Xnt𓄚𓈖𓏏𓉐Burial chamberحجرة دفن",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnt",
+    "meaning_en": "Hide, animal skin,  skin bottle",
+    "meaning_ar": "يخفي، قربة، جلد حيوان",
+    "hieroglyphs_raw": "Xnt𓄚𓈖𓏏𓄛Hide, animal skin,  skin bottleيخفي، قربة، جلد حيوان",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xnty",
+    "meaning_en": "Statue",
+    "meaning_ar": "تمثال",
+    "hieroglyphs_raw": "Xnty𓂙𓈖𓍘𓀚𓂙𓈖𓏏𓀚𓂙𓏏𓏭𓀾𓂙𓀾𓂙𓈖𓏏𓏭𓀙Statueتمثال",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr",
+    "meaning_en": "Under, carrying, holding, possessing, through, subject to",
+    "meaning_ar": "تحت، يحمل، ممسك، سيطر على، بين، خلال، عرضة لـ، مستهدف",
+    "hieroglyphs_raw": "Xr𓌨𓂋Under, carrying, holding, possessing, through, subject toتحت، يحمل، ممسك، سيطر على، بين، خلال، عرضة لـ، مستهدف",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr-a",
+    "meaning_en": "Under the hand of, in the charge of",
+    "meaning_ar": "تحت يد، تحت مسئولية",
+    "hieroglyphs_raw": "Xr-a𓌨𓂋𓂝𓏤𓌨𓂝Under the hand of, in the charge ofتحت يد، تحت مسئولية",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr-a",
+    "meaning_en": "under the supervisory of",
+    "meaning_ar": "تحت رقابة، تحت إدارة",
+    "hieroglyphs_raw": "Xr-a𓌨𓂋𓂝𓏤under the supervisory ofتحت رقابة، تحت إدارة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr-HAt",
+    "meaning_en": "before, in front of, at the front, superior to, formerly (adv.)",
+    "meaning_ar": "قبل، أمام، في المقدمة، متفوق على، قبلاً (فيما مضى)",
+    "hieroglyphs_raw": "Xr-HAt𓌨𓂋𓄂𓏏𓏤before, in front of, at the front, superior to, formerly (adv.)قبل، أمام، في المقدمة، متفوق على، قبلاً (فيما مضى)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr Hr",
+    "meaning_en": "under the control (supervision) of",
+    "meaning_ar": "تجت اشراف",
+    "hieroglyphs_raw": "Xr Hr𓌨𓂋𓁷𓏤under the control (supervision) ofتجت اشراف",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry",
+    "meaning_en": "Which is under, lower, having possessing, suffering from (illness)",
+    "meaning_ar": "تحت، أسفل، سيطرة، يعانى من (مرض)",
+    "hieroglyphs_raw": "Xry𓌨𓂋𓏭Which is under, lower, having possessing, suffering from (illness)تحت، أسفل، سيطرة، يعانى من (مرض)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr(y) iw",
+    "meaning_en": "victim of wrong",
+    "meaning_ar": "ضحية الخطأ",
+    "hieroglyphs_raw": "Xr(y) iwvictim of wrongضحية الخطأ",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr(y)-a",
+    "meaning_en": "Halliard",
+    "meaning_ar": "حبل لرفع الشراع",
+    "hieroglyphs_raw": "Xr(y)-a𓌨𓂋𓂝𓏤𓍢Halliardحبل لرفع الشراع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xr(y)-a",
+    "meaning_en": "Apprentice, assistant",
+    "meaning_ar": "تلميذ، مبتدئ، مساعد",
+    "hieroglyphs_raw": "Xr(y)-a𓌨𓂋𓂝𓏤𓀀Apprentice, assistantتلميذ، مبتدئ، مساعد",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-aHa",
+    "meaning_en": "Fight yard",
+    "meaning_ar": "ساحة المعركة",
+    "hieroglyphs_raw": "Xry-aHa𓌨𓂋𓂚𓊖Fight yardساحة المعركة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-mdw",
+    "meaning_en": "The staff bearer (title)",
+    "meaning_ar": "حامل العصا (لقب)",
+    "hieroglyphs_raw": "Xry-mdw𓌨𓌃The staff bearer (title)حامل العصا (لقب)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-Hbt",
+    "meaning_en": "Lector",
+    "meaning_ar": "مرتل، القارئ كمهنة",
+    "hieroglyphs_raw": "Xry-Hbt𓎛𓌨𓃀𓌨𓂋𓎛𓃀𓎱𓇳𓎴Lectorمرتل، القارئ كمهنة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-Hbt",
+    "meaning_en": "lector priest",
+    "meaning_ar": "كاهن مرتل",
+    "hieroglyphs_raw": "Xry-Hbt𓎛𓌨𓃀𓌨𓂋𓎛𓃀𓎱𓇳𓀀𓌨𓎱𓎱𓌨𓀀lector priestكاهن مرتل",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-Hbt Hry-tp",
+    "meaning_en": "chief lector",
+    "meaning_ar": "كبير الكهنة المرتلين",
+    "hieroglyphs_raw": "Xry-Hbt Hry-tp𓎛𓌨𓃀𓁷𓁶chief lectorكبير الكهنة المرتلين",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-Xt",
+    "meaning_en": "Abdomen, under side (of sky)",
+    "meaning_ar": "بطن، جوف، تحت جانب (السماء)",
+    "hieroglyphs_raw": "Xry-Xt𓌨𓂋𓏭𓄡𓏏𓏤Abdomen, under side (of sky)بطن، جوف، تحت جانب (السماء)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-sA",
+    "meaning_en": "Who is behind, the hindermost",
+    "meaning_ar": "الذى في الخلف، يعرقل، يمنع",
+    "hieroglyphs_raw": "Xry-sA𓌨𓂋𓐟𓏤Who is behind, the hindermostالذى في الخلف، يعرقل، يمنع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-tb-ra",
+    "meaning_en": "Who attend Re",
+    "meaning_ar": "الذي يلازم رع",
+    "hieroglyphs_raw": "Xry-tb-ra𓌨𓁶𓇳Who attend Reالذي يلازم رع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-tp",
+    "meaning_en": "Dependent",
+    "meaning_ar": "خاضع",
+    "hieroglyphs_raw": "Xry-tp𓌨𓁶Dependentخاضع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-tp-nsw",
+    "meaning_en": "Chamberlain",
+    "meaning_ar": "حاجب الملك",
+    "hieroglyphs_raw": "Xry-tp-nsw𓇓𓁶𓌨𓇓𓌨𓁶Chamberlainحاجب الملك",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-tp-sS-nsw",
+    "meaning_en": "The closer  employee to the king (his  secret  hide)",
+    "meaning_ar": "أقرب موظفي الملك (كاتم أسراره)",
+    "hieroglyphs_raw": "Xry-tp-sS-nsw𓇓𓏟𓌨𓁶The closer  employee to the king (his  secret  hide)أقرب موظفي الملك (كاتم أسراره)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xry-dmt",
+    "meaning_en": "sick",
+    "meaning_ar": "مريض",
+    "hieroglyphs_raw": "Xry-dmt𓌨𓂋𓏭𓏏𓏤sickمريض",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrw",
+    "meaning_en": "Base, lower part",
+    "meaning_ar": "قاعدة، جزء سفلي",
+    "hieroglyphs_raw": "Xrw𓌨𓂋𓅱𓈇𓏤𓌨𓂋𓈇𓏥Base, lower partقاعدة، جزء سفلي",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrw",
+    "meaning_en": "men",
+    "meaning_ar": "رجال",
+    "hieroglyphs_raw": "Xrw𓌨𓂋𓅱𓀀𓏥menرجال",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrw",
+    "meaning_en": "Relatives (of family), underlings, inhabitants (of land )",
+    "meaning_ar": "أقارب (العائلة)، أتباع، مرؤوسون، مستوطنين (أرض)",
+    "hieroglyphs_raw": "Xrw𓌨𓂋𓀀𓁐𓏥𓌨𓀀𓁐𓏥Relatives (of family), underlings, inhabitants (of land )أقارب (العائلة)، أتباع، مرؤوسون، مستوطنين (أرض)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrwy",
+    "meaning_en": "Testicles",
+    "meaning_ar": "خصيتين",
+    "hieroglyphs_raw": "XrwyTesticlesخصيتين",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt",
+    "meaning_en": "Content",
+    "meaning_ar": "محتوى",
+    "hieroglyphs_raw": "Xrt𓌨𓂋𓏏Contentمحتوى",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt",
+    "meaning_en": "Possessions, belongings, share, portion, requirements, duty",
+    "meaning_ar": "ممتلكات، يشارك، يقاسم، يشطر، حاجات، مطالب، ضريبة",
+    "hieroglyphs_raw": "Xrt𓌨𓂋𓏏𓏛𓏥Possessions, belongings, share, portion, requirements, dutyممتلكات، يشارك، يقاسم، يشطر، حاجات، مطالب، ضريبة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt-a",
+    "meaning_en": "Writing materials",
+    "meaning_ar": "مواد كتابة",
+    "hieroglyphs_raw": "Xrt-a𓌨𓂋𓏏𓂝𓏤𓏛𓏥Writing materialsمواد كتابة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt-a",
+    "meaning_en": "Deceit",
+    "meaning_ar": "خداع",
+    "hieroglyphs_raw": "Xrt-a𓌨𓂋𓏏𓂝𓅪𓏥Deceitخداع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt-nTr",
+    "meaning_en": "Necropolis",
+    "meaning_ar": "جبانة",
+    "hieroglyphs_raw": "Xrt-nTr𓊹𓌨𓂋𓈉𓊻𓊹𓈉Necropolisجبانة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrt-hrw",
+    "meaning_en": "daily course",
+    "meaning_ar": "وقت اليوم",
+    "hieroglyphs_raw": "Xrt-hrw𓌨𓏏𓇳daily courseوقت اليوم",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrty",
+    "meaning_en": "A god in a ram head, in litopolis (one of the dead gods)",
+    "meaning_ar": "معبود في هيئة الكبش في ليتوبوليس (من آلهة الموتى)",
+    "hieroglyphs_raw": "Xrty𓌨𓏏𓇋𓅆A god in a ram head, in litopolis (one of the dead gods)معبود في هيئة الكبش في ليتوبوليس (من آلهة الموتى)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrty-nTr",
+    "meaning_en": "workman in the Necropolis",
+    "meaning_ar": "عامل من عمال الجبانة",
+    "hieroglyphs_raw": "Xrty-nTr𓊻𓏏𓏭𓊻𓌨𓂋𓏏𓏭𓂡workman in the Necropolisعامل من عمال الجبانة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrd",
+    "meaning_en": "Calf (of gazelle)",
+    "meaning_ar": "عِجل",
+    "hieroglyphs_raw": "Xrd𓄡𓂋𓂧𓅪Calf (of gazelle)عِجل",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrd",
+    "meaning_en": "Child, become a childe",
+    "meaning_ar": "طفل، يصبح طفل",
+    "hieroglyphs_raw": "Xrd𓄡𓂋𓂧𓀔𓀀𓀔𓀀Child, become a childeطفل، يصبح طفل",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrd n kAp",
+    "meaning_en": "child of nursery",
+    "meaning_ar": "طفل الحضانة",
+    "hieroglyphs_raw": "Xrd n kAp𓄡𓂋𓂧𓀔𓈖𓊷𓊪𓉐child of nurseryطفل الحضانة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrdw",
+    "meaning_en": "Childhood",
+    "meaning_ar": "طفولة",
+    "hieroglyphs_raw": "Xrdw𓄡𓂋𓂧𓅱𓀔𓏪𓄡𓂋𓂧𓀔𓏪Childhoodطفولة",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrdw n mH",
+    "meaning_en": "small chidren (?)",
+    "meaning_ar": "أطفال صغار (؟)",
+    "hieroglyphs_raw": "Xrdw n mH𓀔𓏥𓈖𓂣small chidren (?)أطفال صغار (؟)",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xrdt",
+    "meaning_en": "Children",
+    "meaning_ar": "أطفال",
+    "hieroglyphs_raw": "Xrdt𓄡𓂋𓂧𓏏𓀔𓏥Childrenأطفال",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xs(y)",
+    "meaning_en": "Weak, feeble, humble, mean",
+    "hieroglyphs_raw": "Xs(y)𓄡𓊃𓅪𓄡𓊃𓏭𓅪Weak, feeble, humble, mean",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xs(y)",
+    "meaning_en": "Weak, feeble, humble, mean",
+    "meaning_ar": "ضعيف، متذلل، ذليل، وضيع",
+    "hieroglyphs_raw": "Xs(y)𓄡𓊃𓅪𓄡𓊃𓏭𓅪Weak, feeble, humble, meanضعيف، متذلل، ذليل، وضيع",
+    "phnid": 15,
+    "page": 2
+  },
+  {
+    "transliteration": "Xkrt nsw watt",
+    "meaning_en": "sole king's concubine",
+    "meaning_ar": "محظية الملك الوحيدة",
+    "hieroglyphs_raw": "Xkrt nsw wattsole king's concubineمحظية الملك الوحيدة",
+    "phnid": 15,
+    "page": 3
+  },
+  {
+    "transliteration": "Xt",
+    "meaning_en": "Body (of gods or men) generation, people , group",
+    "meaning_ar": "جسد (آلهة أو رجال)، جيل، ناس، فريق، جماعة",
+    "hieroglyphs_raw": "Xt𓄡𓏏𓏤𓀀𓁐𓏥𓄡𓏏𓏥Body (of gods or men) generation, people , groupجسد (آلهة أو رجال)، جيل، ناس، فريق، جماعة",
+    "phnid": 15,
+    "page": 3
+  },
+  {
+    "transliteration": "Xt",
+    "meaning_en": "Belly, body, sole (of foot)",
+    "meaning_ar": "بطن، جسد",
+    "hieroglyphs_raw": "Xt𓄡𓏏𓏤𓄡Belly, body, sole (of foot)بطن، جسد",
+    "phnid": 15,
+    "page": 3
+  },
+  {
+    "transliteration": "Xt-nbt",
+    "meaning_en": "Every person",
+    "meaning_ar": "كل شخص",
+    "hieroglyphs_raw": "Xt-nbt𓄡𓏏𓏤𓎟𓏏Every personكل شخص",
+    "phnid": 15,
+    "page": 3
+  },
+  {
+    "transliteration": "Xt-tp",
+    "meaning_en": "Under the head of, beside",
+    "meaning_ar": "تحت رأس، بجانب",
+    "hieroglyphs_raw": "Xt-tp𓌨𓂋𓁶𓏤Under the head of, besideتحت رأس، بجانب",
+    "phnid": 15,
+    "page": 3
+  }
+]

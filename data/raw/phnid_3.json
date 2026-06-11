@@ -1,0 +1,5040 @@
+[
+  {
+    "transliteration": "i",
+    "meaning_en": "suffix pronoun 1st person singular: I, me, myself, my",
+    "meaning_ar": "ضمير شخصي للشخص الأول المفرد: أنا، لي",
+    "hieroglyphs_raw": "i𓀀𓅆𓀭𓀻𓇋𓇋𓀀suffix pronoun 1st person singular: I, me, myself, myضمير شخصي للشخص الأول المفرد: أنا، لي",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "i",
+    "meaning_en": "reeds, leaves (of reeds)",
+    "meaning_ar": "نبات البوص، أوراق (نبات البوص)",
+    "hieroglyphs_raw": "i𓇋𓆰𓏥𓇋𓏤𓆰𓏥reeds, leaves (of reeds)نبات البوص، أوراق (نبات البوص)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "i",
+    "meaning_en": "O! (interjection), say (vb.), utterance (n.)",
+    "meaning_ar": "أوه (تعجب)، يقول، نُطق",
+    "hieroglyphs_raw": "i𓇋𓀞𓇋𓀁O! (interjection), say (vb.), utterance (n.)أوه (تعجب)، يقول، نُطق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iA",
+    "meaning_en": "praise, adoration",
+    "meaning_ar": "مديح، تهليل",
+    "hieroglyphs_raw": "iA𓇋𓄿𓀢praise, adorationمديح، تهليل",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAA",
+    "meaning_en": "mounds of rubble",
+    "meaning_ar": "تل من الحطام",
+    "hieroglyphs_raw": "iAA𓇋𓄿𓄿𓈅𓏥mounds of rubbleتل من الحطام",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAAyt",
+    "meaning_en": "rod",
+    "meaning_ar": "عود، عصا، صولجان",
+    "hieroglyphs_raw": "iAAyt𓇋𓄿𓄿𓇌𓏏𓆰𓇋𓄿𓄿𓏏𓆱𓇋𓄿𓄿𓏏𓆰𓇋𓄿𓄿𓏏𓌂𓇋𓄿𓄿𓏏𓇣rodعود، عصا، صولجان",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAi",
+    "meaning_en": "adore",
+    "meaning_ar": "يتعبد",
+    "hieroglyphs_raw": "iAi𓇋𓄿𓀢adoreيتعبد",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAyt",
+    "meaning_en": "old woman",
+    "meaning_ar": "امرأة مسنة، امرأة عجوز",
+    "hieroglyphs_raw": "iAyt𓇋𓄿𓇌𓏏𓁐𓇋𓄿𓇌𓏏𓀗𓁐𓇋𓄿𓏏𓀗old womanامرأة مسنة، امرأة عجوز",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAw",
+    "meaning_en": "adoration",
+    "meaning_ar": "تعبُد",
+    "hieroglyphs_raw": "iAw𓇋𓄿𓅱𓀢𓇋𓄿𓅱𓀢𓏛𓏥𓇋𓄿𓀢𓇋𓄿𓀢𓏛𓏪𓇋𓀢𓏪𓀢adorationتعبُد",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAw",
+    "meaning_en": "old man",
+    "meaning_ar": "عجوز، هَرِم",
+    "hieroglyphs_raw": "iAw𓇋𓄿𓅱𓀗𓀀𓇋𓄿𓀗old manعجوز، هَرِم",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAwi",
+    "meaning_en": "be aged, old age, attain old age",
+    "meaning_ar": "يشيخ، يهرم، شيخوخة",
+    "hieroglyphs_raw": "iAwi𓇋𓄿𓅱𓀗𓇋𓄿𓅱𓏭𓀗𓀗be aged, old age, attain old ageيشيخ، يهرم، شيخوخة",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAwt",
+    "meaning_en": "herds",
+    "meaning_ar": "قطعان",
+    "hieroglyphs_raw": "iAwt𓇋𓄿𓏏𓅱𓊑𓄛𓏥herdsقطعان",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAwt",
+    "meaning_en": "old age",
+    "meaning_ar": "شيخوخة",
+    "hieroglyphs_raw": "iAwt𓇋𓄿𓅱𓏏𓀗𓀗𓏏old ageشيخوخة",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAwt",
+    "meaning_en": "offices, functions",
+    "meaning_ar": "مناصب، مهام، وظائف",
+    "hieroglyphs_raw": "iAwt𓇋𓄿𓅱𓏏𓊑𓏛𓏥offices, functionsمناصب، مهام، وظائف",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAb",
+    "meaning_en": "the east wind",
+    "meaning_ar": "رياح الشرق",
+    "hieroglyphs_raw": "iAb𓋁𓊡𓇋𓄿𓃀𓊡the east windرياح الشرق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAby",
+    "meaning_en": "left (hand), the left side of, east, eastern",
+    "meaning_ar": "(اليد) اليسرى، الشرق، شرقي، الجانب الايسر من",
+    "hieroglyphs_raw": "iAby𓋁𓃀𓏭𓂣𓋁𓃀𓈉𓋁𓋁𓃀𓂢𓍋𓃀𓏭𓂢left (hand), the left side of, east, eastern(اليد) اليسرى، الشرق، شرقي، الجانب الايسر من",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbt",
+    "meaning_en": "the east wind",
+    "meaning_ar": "رياح الشرق",
+    "hieroglyphs_raw": "iAbt𓋁𓃀𓏏𓊡𓋁𓊡𓏏the east windرياح الشرق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbt",
+    "meaning_en": "the East",
+    "meaning_ar": "الشرق",
+    "hieroglyphs_raw": "iAbt𓋁𓃀𓏏𓈉𓋁𓏏𓇋𓄿𓃀𓏏𓋁𓏏𓃀𓊖𓏏𓏤the Eastالشرق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbty",
+    "meaning_en": "east, eastern, left-hand, the East",
+    "meaning_ar": "شرق، واقع إلى اليسار، شرقي، الشرق",
+    "hieroglyphs_raw": "iAbty𓋁𓃀𓏏𓏭𓇋𓄿𓃀𓍘𓋁𓃀𓏏𓏭𓈉𓋁𓃀𓏏𓏭𓈙𓋁𓃀𓏏𓏭𓈇𓏏𓋁𓏭east, eastern, left-hand, the Eastشرق، واقع إلى اليسار، شرقي، الشرق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbtyw",
+    "meaning_en": "the east of",
+    "meaning_ar": "الى الشرق من",
+    "hieroglyphs_raw": "iAbtyw𓋁𓃀𓏏𓅂𓈇𓏤𓋁𓃀𓅂𓈉𓋁𓅂𓈅𓏤the east ofالى الشرق من",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbtyw",
+    "meaning_en": "Easterners",
+    "meaning_ar": "الشرقيون",
+    "hieroglyphs_raw": "iAbtyw𓋁𓃀𓅂𓀀𓁐𓏥𓋁𓅂𓏥Easternersالشرقيون",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbtt",
+    "meaning_en": "snare (?)",
+    "meaning_ar": "مصيدة (؟)",
+    "hieroglyphs_raw": "iAbtt𓋁𓃀𓏏𓏏𓆱snare (?)مصيدة (؟)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAbtt",
+    "meaning_en": "the East",
+    "meaning_ar": "الشرق",
+    "hieroglyphs_raw": "iAbtt𓋁𓃀𓏏𓏏𓈉𓋁𓃀𓏏𓏏𓈇𓋁𓏏𓏏the Eastالشرق",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "imA",
+    "meaning_en": "Kind (to), gentle (to), well-disposed (to a temple), pleasing (to), be gracious (to) (of goddess), be delighted (with), charmed (with)",
+    "meaning_ar": "لطيف (مع)، ودود (مع)، سار لـ، لطيف مع (للألهات)، مُبتهج (بـ)، مفتون (بـ)",
+    "hieroglyphs_raw": "imA,iAm𓇋𓌳𓆭𓇋𓄿𓌳𓆭𓅓𓇋𓄿𓅓𓆭𓆭𓅓𓏛𓇋𓄿𓆭𓅓𓇋𓌳𓆭𓅓𓇋𓌳𓅓𓆭Kind (to), gentle (to), well-disposed (to a temple), pleasing (to), be gracious (to) (of goddess), be delighted (with), charmed (with)لطيف (مع)، ودود (مع)، سار لـ، لطيف مع (للألهات)، مُبتهج (بـ)، مفتون (بـ)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "imA",
+    "meaning_en": "a tree (not date-palm)",
+    "meaning_ar": "شجرة (ليست نخيل)",
+    "hieroglyphs_raw": "imA,iAm𓇋𓌳𓆭𓇋𓄿𓆭𓅓𓇋𓌳𓄿𓆭𓆭𓅓𓆭a tree (not date-palm)شجرة (ليست نخيل)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAm",
+    "meaning_en": "offer (to)",
+    "meaning_ar": "يعرض (لـ)",
+    "hieroglyphs_raw": "iAm𓇋𓄿𓅓𓌂offer (to)يعرض (لـ)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAm",
+    "meaning_en": "bind (the sacrifice)",
+    "meaning_ar": "يربط (الأضحية)",
+    "hieroglyphs_raw": "iAm𓇋𓄿𓅓𓍢bind (the sacrifice)يربط (الأضحية)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iArw",
+    "meaning_en": "rushes",
+    "meaning_ar": "نبات الأسل (في الاحراش)",
+    "hieroglyphs_raw": "iArw𓇋𓄿𓂋𓅱𓆰𓏥rushesنبات الأسل (في الاحراش)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iArr",
+    "meaning_en": "be dim (of eye), be weak (?) (of heart)",
+    "meaning_ar": "يكون مغشي (العين)، يكون ضعيف (؟) (القلب)",
+    "hieroglyphs_raw": "iArr𓇋𓄿𓂋𓂋𓁼𓇋𓄿𓂋𓂋𓁹𓅪be dim (of eye), be weak (?) (of heart)يكون مغشي (العين)، يكون ضعيف (؟) (القلب)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iArrt",
+    "meaning_en": "grapes",
+    "meaning_ar": "عنب",
+    "hieroglyphs_raw": "iArrt𓇋𓄿𓂋𓂋𓏏𓁺𓈒𓏥grapesعنب",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iArrt",
+    "meaning_en": "vine",
+    "meaning_ar": "كَرْمَة",
+    "hieroglyphs_raw": "iArrt𓇋𓄿𓂋𓂋𓏏𓇭𓇋𓁹𓂋𓏏𓇭vineكَرْمَة",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAxw",
+    "meaning_en": "suunshine, radiance  (as god - earlier form ofAxw)",
+    "meaning_ar": "نور الشمس، سطوع ( للإله مثلا - الشكل القديم  لـAxw)",
+    "hieroglyphs_raw": "iAxw𓇋𓄿𓐍𓅱𓇶𓇋𓄿𓐍𓅱𓀭𓇶𓅱𓀭suunshine, radiance  (as god - earlier form ofAxw)نور الشمس، سطوع ( للإله مثلا - الشكل القديم  لـAxw)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAs",
+    "meaning_en": "bald",
+    "meaning_ar": "أصلع",
+    "hieroglyphs_raw": "iAs𓇋𓄿𓋴𓀠𓄿𓊃𓐎𓇋𓋴𓐎𓇋𓋴𓀠baldأصلع",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAS",
+    "meaning_en": "call, summon (someone)",
+    "meaning_ar": "ينادي، يستدعي",
+    "hieroglyphs_raw": "iAS𓇋𓄿𓈙𓀁call, summon (someone)ينادي، يستدعي",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAq",
+    "meaning_en": "leap (vb.)",
+    "meaning_ar": "يقفز",
+    "hieroglyphs_raw": "iAqleap (vb.)يقفز",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAqt",
+    "meaning_en": "leeks, vegetables (in general)",
+    "meaning_ar": "كُرَّاث، خضروات (بشكل عام)",
+    "hieroglyphs_raw": "iAqt𓇋𓄿𓈎𓏏𓆰𓏥leeks, vegetables (in general)كُرَّاث، خضروات (بشكل عام)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAkw",
+    "meaning_en": "the aged",
+    "meaning_ar": "المُسِن",
+    "hieroglyphs_raw": "iAkw𓇋𓄿𓎡𓅱𓀗𓏪the agedالمُسِن",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAkb",
+    "meaning_en": "mourning, wailings",
+    "meaning_ar": "حِداد، نواح",
+    "hieroglyphs_raw": "iAkb𓇋𓄿𓎡𓃀𓁸𓇋𓀁𓎡𓃀𓁸𓀁mourning, wailingsحِداد، نواح",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAkby",
+    "meaning_en": "mourners",
+    "meaning_ar": "نادبين، نائحين",
+    "hieroglyphs_raw": "iAkby𓇋𓄿𓎡𓃀𓇌𓁸𓏥mournersنادبين، نائحين",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAkbyt",
+    "meaning_en": "mourning woman",
+    "meaning_ar": "نادبة، نائحة",
+    "hieroglyphs_raw": "iAkbyt𓇋𓄿𓎡𓃀𓇌𓏏𓁸𓁐mourning womanنادبة، نائحة",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt",
+    "meaning_en": "Name of divine: A milk goddess",
+    "meaning_ar": "اسم معبودة: إلهة اللبن",
+    "hieroglyphs_raw": "iAt𓇋𓄿𓏏𓅐Name of divine: A milk goddessاسم معبودة: إلهة اللبن",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt",
+    "meaning_en": "mound, ruin",
+    "meaning_ar": "تل، حطام",
+    "hieroglyphs_raw": "iAt𓇋𓄿𓏏𓈏𓈏𓏏𓏤𓈇𓇋𓏏𓈏mound, ruinتل، حطام",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt",
+    "meaning_en": "standard (for cult object)",
+    "meaning_ar": "ساري (لشيء معبود)",
+    "hieroglyphs_raw": "iAt𓇋𓄿𓏏𓊾standard (for cult object)ساري (لشيء معبود)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt",
+    "meaning_en": "back (of man, of animal), middle (of river, of lake)",
+    "meaning_ar": "ظهر (رجُل، حيوان)، منتصف (نهر أو بحيرة)",
+    "hieroglyphs_raw": "iAt𓇋𓄿𓏏𓄦𓄦𓏏𓏤𓇋𓄿𓏏𓄦𓄹𓇋𓄿𓏏𓄦𓏏𓏤back (of man, of animal), middle (of river, of lake)ظهر (رجُل، حيوان)، منتصف (نهر أو بحيرة)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt",
+    "meaning_en": "office, function",
+    "meaning_ar": "وظيفة، عمل",
+    "hieroglyphs_raw": "iAt𓊑𓏏𓏤𓇋𓄿𓏏𓏯𓏛𓏥office, functionوظيفة، عمل",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAt nbt",
+    "meaning_en": "every office, every official",
+    "meaning_ar": "كل وظيفة، كل موظف",
+    "hieroglyphs_raw": "iAt nbt𓊑𓏏𓏤𓎟𓏏every office, every officialكل وظيفة، كل موظف",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAtyw",
+    "meaning_en": "mutilation",
+    "meaning_ar": "بتر",
+    "hieroglyphs_raw": "iAtyw𓇋𓄿𓏏𓅂𓂿mutilationبتر",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAtyw",
+    "meaning_en": "office-holders",
+    "meaning_ar": "شاغل منصب",
+    "hieroglyphs_raw": "iAtyw𓊑𓏏𓄿𓀀𓏪office-holdersشاغل منصب",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAtt",
+    "meaning_en": "milk, cream",
+    "meaning_ar": "لبن، قشدة",
+    "hieroglyphs_raw": "iAtt𓌀𓏏𓏏𓏌𓋆𓏏𓏏𓏌𓏏𓏏𓏌milk, creamلبن، قشدة",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAT",
+    "meaning_en": "be injured, be distorted, be missing (from), abate (of fever)",
+    "meaning_ar": "مجروح، مشوه، مفقود، خفّ (من الحمى)",
+    "hieroglyphs_raw": "iAT𓇋𓄿𓍿𓂿𓅪𓇋𓄿𓏏𓂿be injured, be distorted, be missing (from), abate (of fever)مجروح، مشوه، مفقود، خفّ (من الحمى)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iATw",
+    "meaning_en": "shambles",
+    "meaning_ar": "فوضى",
+    "hieroglyphs_raw": "iATw𓇋𓄿𓍿𓅱𓂿𓉐𓏥𓇋𓄿𓏏𓅱𓂿𓉐𓏥𓇋𓄿𓏏𓅂𓉐𓏥shamblesفوضى",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAdt",
+    "meaning_en": "tract (of land)",
+    "meaning_ar": "قطعة (من الأرض)",
+    "hieroglyphs_raw": "iAdt𓇋𓄿𓂧𓏏𓈀𓈇𓏤tract (of land)قطعة (من الأرض)",
+    "phnid": 3,
+    "page": 1
+  },
+  {
+    "transliteration": "iAdt",
+    "meaning_en": "net",
+    "meaning_ar": "شبكة",
+    "hieroglyphs_raw": "iAdt𓇋𓄿𓂧𓏏𓏯𓍢netشبكة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iAdt",
+    "meaning_en": "dew, pouring rain (in thunderstorm), pestilence, affliction, influence",
+    "meaning_ar": "طل، امطار غزيرة (في عاصفة رعدية)، وباء، محنة، تأثير",
+    "hieroglyphs_raw": "iAdt𓇋𓄿𓂧𓏏𓏯𓇲𓇲𓇋𓂧𓏏𓇲𓇋𓄿𓂧𓏏𓈗dew, pouring rain (in thunderstorm), pestilence, affliction, influenceطل، امطار غزيرة (في عاصفة رعدية)، وباء، محنة، تأثير",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ii",
+    "meaning_en": "old negation part.",
+    "meaning_ar": "أداة نفى قديمة",
+    "hieroglyphs_raw": "ii𓂜𓇋𓇋old negation part.أداة نفى قديمة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ii",
+    "meaning_en": "come (of persons, of things, of old ege, of time, of future events), return",
+    "meaning_ar": "يأتي (للأشخاص)، يحدث (للأشياء)، يعود، يبلغ(السن الكبير)، يقترب (للوقت)",
+    "hieroglyphs_raw": "ii𓇍𓇋𓂻𓇍𓏭𓂻𓇍𓇋𓏮𓂻𓇍𓇍𓇌𓂻come (of persons, of things, of old ege, of time, of future events), returnيأتي (للأشخاص)، يحدث (للأشياء)، يعود، يبلغ(السن الكبير)، يقترب (للوقت)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ii m Htp",
+    "meaning_en": "come in peace, return safely",
+    "meaning_ar": "يأتي في سلام، يعود سالم",
+    "hieroglyphs_raw": "ii m Htp𓇍𓇋𓂻𓅓𓊵𓏏𓊪come in peace, return safelyيأتي في سلام، يعود سالم",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iiwi",
+    "meaning_en": "welcome, hail",
+    "meaning_ar": "مرحبًا، تحية",
+    "hieroglyphs_raw": "iiwi𓇍𓇋𓅱𓇍𓅱𓇍𓇋𓏭𓂻𓍘𓇋𓇍𓇋𓂻𓅱𓏭welcome, hailمرحبًا، تحية",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iiwi m Htp",
+    "meaning_en": "welcome",
+    "meaning_ar": "مرحبًا",
+    "hieroglyphs_raw": "iiwi m Htpwelcomeمرحبًا",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iiwi sp.f",
+    "meaning_en": "him in whom fault had occured",
+    "meaning_ar": "هو الذي وقع به الخطأ",
+    "hieroglyphs_raw": "iiwi sp.f𓇍𓅱𓊃𓊪𓊗𓆑him in whom fault had occuredهو الذي وقع به الخطأ",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iyt",
+    "meaning_en": "mishap, trouble, harm, wrong (which is done)",
+    "meaning_ar": "حظ عاثر، حادث، ورطة، ضرر، خطأ (تم)",
+    "hieroglyphs_raw": "iyt𓇍𓇌𓏏𓅪𓏥𓇍𓇌𓏏𓅪𓇍𓇌𓏏𓂻𓅪𓏥𓇍𓇌𓏏𓂻mishap, trouble, harm, wrong (which is done)حظ عاثر، حادث، ورطة، ضرر، خطأ (تم)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ia",
+    "meaning_en": "ascend, arise (of royal dignity)",
+    "meaning_ar": "يصعد، يرتفع (جلال الملك)",
+    "hieroglyphs_raw": "ia𓇋𓂝𓉵ascend, arise (of royal dignity)يصعد، يرتفع (جلال الملك)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ia",
+    "meaning_en": "tomb",
+    "meaning_ar": "مقبرة",
+    "hieroglyphs_raw": "ia𓇋𓂝𓉵tombمقبرة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iai",
+    "meaning_en": "wash, wash (for gold), wash out (an inscription)",
+    "meaning_ar": "يغسل، يُبهت (نقش)، يغسل (لاستخلاص الذهب)",
+    "hieroglyphs_raw": "iai𓇋𓂝𓈗𓇋𓂝𓈗𓂡wash, wash (for gold), wash out (an inscription)يغسل، يُبهت (نقش)، يغسل (لاستخلاص الذهب)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iai ib",
+    "meaning_en": "satisfy someone, slake one's ardour, vent one's feelings",
+    "meaning_ar": "يُرضي شخص ما، يُخمِد حماسته، ينفس عن مشاعره",
+    "hieroglyphs_raw": "iai ibsatisfy someone, slake one's ardour, vent one's feelingsيُرضي شخص ما، يُخمِد حماسته، ينفس عن مشاعره",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iai Hr",
+    "meaning_en": "wash the face, be vengeful",
+    "meaning_ar": "يغسل الوجه، يكون مُنتقِم",
+    "hieroglyphs_raw": "iai Hrwash the face, be vengefulيغسل الوجه، يكون مُنتقِم",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaaw",
+    "meaning_en": "cover up (an inscription)",
+    "meaning_ar": "يُخفي (نقش)",
+    "hieroglyphs_raw": "iaaw𓇋𓂝𓂝𓅱𓂡cover up (an inscription)يُخفي (نقش)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaw",
+    "meaning_en": "breakfast",
+    "meaning_ar": "وجبة الافطار",
+    "hieroglyphs_raw": "iaw𓇋𓂝𓅱𓏏𓏊𓈀𓇋𓂝𓏲𓈗𓇳breakfastوجبة الافطار",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaw",
+    "meaning_en": "washing",
+    "meaning_ar": "غسل",
+    "hieroglyphs_raw": "iaw𓇋𓂝𓅱𓈗washingغسل",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaw n ib",
+    "meaning_en": "angry speech",
+    "meaning_ar": "خطاب غاضب",
+    "hieroglyphs_raw": "iaw n ibangry speechخطاب غاضب",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaw-r",
+    "meaning_en": "breakfast (lit. 'mouth wash')",
+    "meaning_ar": "غسل الفم (وجبة الافطار)",
+    "hieroglyphs_raw": "iaw-r𓇋𓂝𓅱𓈗𓂋𓏤breakfast (lit. 'mouth wash')غسل الفم (وجبة الافطار)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iab",
+    "meaning_en": "be united (with), assemble (of persons), join (someone), unite (limbs, bones of deceased), present (to)",
+    "meaning_ar": "يتحد (مع)، يجمع (اشخاص)، ينضم (لشخص)، يجمع معًا (أطراف، عظام المتوفى)، يمنح",
+    "hieroglyphs_raw": "iab𓇋𓂝𓎺𓃀𓏛𓇋𓂝𓃀𓎺𓂝𓃀𓄏𓏛𓂝𓎺𓃀be united (with), assemble (of persons), join (someone), unite (limbs, bones of deceased), present (to)يتحد (مع)، يجمع (اشخاص)، ينضم (لشخص)، يجمع معًا (أطراف، عظام المتوفى)، يمنح",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iab",
+    "meaning_en": "heap up (corn with a pitchfork)",
+    "meaning_ar": "يكوم (الذرة باستخدام مذراة)",
+    "hieroglyphs_raw": "iab𓇋𓂝𓃀𓄏heap up (corn with a pitchfork)يكوم (الذرة باستخدام مذراة)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iab",
+    "meaning_en": "bowl",
+    "meaning_ar": "سلطانية",
+    "hieroglyphs_raw": "iab𓇋𓂝𓃀𓎺bowlسلطانية",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaf",
+    "meaning_en": "wring out (clothes), squeeze out (grape-juice), squeeze out (moisture)",
+    "meaning_ar": "يعصر (ملابس)، يعصر للتجفيف، يستخرج بالعصر (عصير العنب)",
+    "hieroglyphs_raw": "iaf𓇋𓂝𓆑𓂝𓂝𓆑𓂡𓂝𓂝𓆑𓍢𓂡wring out (clothes), squeeze out (grape-juice), squeeze out (moisture)يعصر (ملابس)، يعصر للتجفيف، يستخرج بالعصر (عصير العنب)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ian",
+    "meaning_en": "baboon",
+    "meaning_ar": "قرد البابون",
+    "hieroglyphs_raw": "ian𓇋𓂝𓈖𓂝𓃷𓂝𓂝𓈖𓂝𓃷𓂝𓈖𓂝𓃷baboonقرد البابون",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "ianw",
+    "meaning_en": "greeting (?), greeting to, hail to, woe",
+    "meaning_ar": "تحية (؟)، ضراء",
+    "hieroglyphs_raw": "ianw𓇋𓂝𓈖𓏌𓅱𓀁𓇋𓂝𓈖𓏌𓏤𓏛greeting (?), greeting to, hail to, woeتحية (؟)، ضراء",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iart",
+    "meaning_en": "abode (of god)",
+    "meaning_ar": "مقر (إله)",
+    "hieroglyphs_raw": "iart𓇋𓂝𓂋𓏏𓉐abode (of god)مقر (إله)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iart",
+    "meaning_en": "uraeus",
+    "meaning_ar": "صل",
+    "hieroglyphs_raw": "iarturaeusصل",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iaH",
+    "meaning_en": "moon (as satellite), moon (as god)",
+    "meaning_ar": "قمر، إله القمر",
+    "hieroglyphs_raw": "iaH𓇹𓇋𓂝𓎛𓌤𓇹𓇋𓂝𓎛𓇹𓇺𓀭𓇋𓎛𓇺𓅆moon (as satellite), moon (as god)قمر، إله القمر",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "welcome!",
+    "meaning_ar": "مرحبًا",
+    "hieroglyphs_raw": "iw𓂻𓅱welcome!مرحبًا",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "hump-back",
+    "meaning_ar": "أحدب",
+    "hieroglyphs_raw": "iwhump-backأحدب",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "is, are",
+    "meaning_ar": "يكون، يكونون",
+    "hieroglyphs_raw": "iw𓇋𓅱is, areيكون، يكونون",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "wrongdoing, injustice",
+    "meaning_ar": "إثم، ظلم",
+    "hieroglyphs_raw": "iw𓃛𓅱𓅪𓃛𓅪wrongdoing, injusticeإثم، ظلم",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "dog",
+    "meaning_ar": "كلب",
+    "hieroglyphs_raw": "iw𓃛𓅱𓃡dogكلب",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "lament, cry out",
+    "meaning_ar": "ينوح، يصرخ",
+    "hieroglyphs_raw": "iw𓃛𓅱𓀁lament, cry outينوح، يصرخ",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "island",
+    "meaning_ar": "جزيرة",
+    "hieroglyphs_raw": "iw𓈀𓈇𓏤islandجزيرة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "come (of persons and living creatures), come (of things, of time, of future events), come (of abstracts, e.g. truth), return",
+    "meaning_ar": "يأتي (للأشخاص والكائنات الحية)، يحدث (للاشياء، الاحداث المستقبلية)، يقترب (للوقت)، يحدث (اشياء معنوية مثل العدالة....الخ)، يعود",
+    "hieroglyphs_raw": "iw𓂻𓅱come (of persons and living creatures), come (of things, of time, of future events), come (of abstracts, e.g. truth), returnيأتي (للأشخاص والكائنات الحية)، يحدث (للاشياء، الاحداث المستقبلية)، يقترب (للوقت)، يحدث (اشياء معنوية مثل العدالة....الخ)، يعود",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw",
+    "meaning_en": "see",
+    "meaning_ar": "انظر",
+    "hieroglyphs_raw": "iw𓇋𓅱seeانظر",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw pn n kA",
+    "meaning_en": "this phantom island",
+    "meaning_ar": "هذه الجزيرة الشبحية",
+    "hieroglyphs_raw": "iw pn n kA𓈀𓈇𓏤𓊪𓈖𓈖𓂓𓏤this phantom islandهذه الجزيرة الشبحية",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw.f aA.f",
+    "meaning_en": "a rising man",
+    "meaning_ar": "رجل صاعد",
+    "hieroglyphs_raw": "iw.f aA.fa rising manرجل صاعد",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw.f pw",
+    "meaning_en": "It’s finished (at end of text)",
+    "meaning_ar": "تم (تأتى في نهاية النص)",
+    "hieroglyphs_raw": "iw.f pw𓂻𓅱𓆑𓊪𓅱It’s finished (at end of text)تم (تأتى في نهاية النص)",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw m Htp",
+    "meaning_en": "come in peace, arrive safely",
+    "meaning_ar": "يأتي في سلام، يصل بسلام",
+    "hieroglyphs_raw": "iw m Htp𓂻𓅱𓅓𓊵𓏏𓊪come in peace, arrive safelyيأتي في سلام، يصل بسلام",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iw n nTr",
+    "meaning_en": "sin against god",
+    "meaning_ar": "خطيئة ضد الإله",
+    "hieroglyphs_raw": "iw n nTrsin against godخطيئة ضد الإله",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwA",
+    "meaning_en": "beef",
+    "meaning_ar": "لحم البقر",
+    "hieroglyphs_raw": "iwA𓇋𓍯𓄿𓄹beefلحم البقر",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwA",
+    "meaning_en": "ox, (in plural) long-horned cattle",
+    "meaning_ar": "ثور",
+    "hieroglyphs_raw": "iwA𓇋𓍯𓄿𓃒𓇋𓍯𓃒ox, (in plural) long-horned cattleثور",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwA n wADt",
+    "meaning_en": "raw beef",
+    "meaning_ar": "لحم  غير مطهي",
+    "hieroglyphs_raw": "iwA n wADtraw beefلحم  غير مطهي",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwAyt",
+    "meaning_en": "female representative, female substitute, female helper",
+    "meaning_ar": "عاملة بديلة، عاملة معاونة",
+    "hieroglyphs_raw": "iwAyt𓇋𓍯𓄿𓇌𓏏𓁐female representative, female substitute, female helperعاملة بديلة، عاملة معاونة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwAw",
+    "meaning_en": "long horned cattle",
+    "meaning_ar": "ماشية ذات قرون طويلة",
+    "hieroglyphs_raw": "iwAwlong horned cattleماشية ذات قرون طويلة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwAw",
+    "meaning_en": "cattle",
+    "meaning_ar": "قطيع ماشية",
+    "hieroglyphs_raw": "iwAw𓃒𓏥cattleقطيع ماشية",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwi",
+    "meaning_en": "be boatless, strand, leave boatless",
+    "meaning_ar": "يكون بلا قارب، يرحل بلا قارب، يترك قاربه",
+    "hieroglyphs_raw": "iwi𓃛𓅱𓊛𓇋𓅱𓇌𓊛be boatless, strand, leave boatlessيكون بلا قارب، يرحل بلا قارب، يترك قاربه",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwiw",
+    "meaning_en": "dog",
+    "meaning_ar": "كلب",
+    "hieroglyphs_raw": "iwiw𓃛𓅱𓃛𓅱𓃡𓃛𓅱𓊗𓏮𓄛dogكلب",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwit",
+    "meaning_en": "wrongdoing",
+    "meaning_ar": "إثم، شر",
+    "hieroglyphs_raw": "iwit𓃛𓅱𓇋𓏏wrongdoingإثم، شر",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwywt",
+    "meaning_en": "public places",
+    "meaning_ar": "اماكن عامة",
+    "hieroglyphs_raw": "iwywtpublic placesاماكن عامة",
+    "phnid": 3,
+    "page": 2
+  },
+  {
+    "transliteration": "iwyt",
+    "meaning_en": "house, sanctuary, quarter (of town)",
+    "meaning_ar": "منزل، مكان مقدس، حي (في مدينة صغيرة)",
+    "hieroglyphs_raw": "iwyt𓃛𓅱𓇌𓏏𓉐house, sanctuary, quarter (of town)منزل، مكان مقدس، حي (في مدينة صغيرة)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwyt",
+    "meaning_en": "wrongdoing",
+    "meaning_ar": "إثم، فعل الشر",
+    "hieroglyphs_raw": "iwyt𓃛𓅱𓇌𓏏𓅪𓏥𓃛𓏏𓅱𓃛𓏏𓅪𓏥wrongdoingإثم، فعل الشر",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwa",
+    "meaning_en": "reward (vb.)",
+    "meaning_ar": "يكافئ",
+    "hieroglyphs_raw": "iwa𓃛𓅱𓂝𓂡reward (vb.)يكافئ",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwa",
+    "meaning_en": "inherit, inherit from (someone), succeed (someone), act as heir (perform his funerary duties)",
+    "meaning_ar": "يرث، يرث من (شخص)، يخلُف (شخص)، يتصرف كوريث (يؤدي واجباته الجنائزية)",
+    "hieroglyphs_raw": "iwa𓃛𓂝𓄯𓃛𓂝𓅱𓄯𓇋𓅱𓂝𓄯𓅱𓂝𓄯inherit, inherit from (someone), succeed (someone), act as heir (perform his funerary duties)يرث، يرث من (شخص)، يخلُف (شخص)، يتصرف كوريث (يؤدي واجباته الجنائزية)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwayt",
+    "meaning_en": "troops",
+    "meaning_ar": "قوات عسكرية، كتيبة",
+    "hieroglyphs_raw": "iwayt𓃛𓂝𓇌𓏏𓄯𓀀𓏥𓃛𓂝𓏏𓀀𓏥𓇋𓂝𓇌𓏏𓀀𓏥troopsقوات عسكرية، كتيبة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwaw",
+    "meaning_en": "heirs",
+    "meaning_ar": "ورثة",
+    "hieroglyphs_raw": "iwaw𓃛𓅱𓂝𓅱𓀀𓁐𓏥heirsورثة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwaw",
+    "meaning_en": "ring",
+    "meaning_ar": "خاتم، حلقة",
+    "hieroglyphs_raw": "iwaw𓃛𓅱𓂝𓅱𓋪𓋪ringخاتم، حلقة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwaw",
+    "meaning_en": "heir (of endowed stela and statue)",
+    "meaning_ar": "وارث (لوحة أو تمثال موهوب)",
+    "hieroglyphs_raw": "iwaw𓃛𓂝𓅱𓄯𓀀𓃛𓅱𓂝𓄯𓇋𓂝𓄯heir (of endowed stela and statue)وارث (لوحة أو تمثال موهوب)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwaw",
+    "meaning_en": "thigh (of man), leg (of beef)",
+    "meaning_ar": "فخذ (رجُل)، فخذ (بقر)",
+    "hieroglyphs_raw": "iwaw𓃛𓅱𓂝𓅱𓄯𓄹𓃛𓂝𓄯thigh (of man), leg (of beef)فخذ (رجُل)، فخذ (بقر)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwat",
+    "meaning_en": "inheritance, heritage",
+    "meaning_ar": "ميراث",
+    "hieroglyphs_raw": "iwat𓃛𓂝𓏏𓄯𓏛𓏥𓄯𓏏𓏛𓏥𓃛𓂝𓏏𓏯𓏛𓏥𓃛𓅱𓂝𓂝𓏏𓄯𓏛𓏥𓃛𓏏𓅱𓄯𓃛𓏏𓄯𓏛𓃛𓂝𓏏𓄯inheritance, heritageميراث",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwat",
+    "meaning_en": "heiress",
+    "meaning_ar": "وريثة",
+    "hieroglyphs_raw": "iwat𓃛𓂝𓏏𓄯heiressوريثة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iww",
+    "meaning_en": "boatless person",
+    "meaning_ar": "شخص بدون مركب",
+    "hieroglyphs_raw": "iww𓃛𓃛boatless personشخص بدون مركب",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwbt",
+    "meaning_en": "crumb (of bread i.e not crust)",
+    "meaning_ar": "كسرة خبز (لُب)",
+    "hieroglyphs_raw": "iwbt𓇋𓅱𓃀𓏏𓈀crumb (of bread i.e not crust)كسرة خبز (لُب)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwf",
+    "meaning_en": "flesh (of man), meat, meat (of fish)",
+    "meaning_ar": "لحم (انسان)، لحم (طعام)، لحم (سمك)",
+    "hieroglyphs_raw": "iwf,if𓇋𓅱𓆑𓄹𓄹𓄹𓇋𓆑𓄹𓇋𓍢𓆑𓄹𓏥𓇋𓆑𓄹𓏥flesh (of man), meat, meat (of fish)لحم (انسان)، لحم (طعام)، لحم (سمك)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwms",
+    "meaning_en": "misstatement",
+    "meaning_ar": "بيان غير صحيح",
+    "hieroglyphs_raw": "iwms𓇋𓅱𓄟𓋴𓀁𓇋𓄟𓋴𓀁𓄿𓄟𓋴𓅪𓏥misstatementبيان غير صحيح",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwn",
+    "meaning_en": "complexion, colour, nature, disposition",
+    "meaning_ar": "لون بشرة، طبيعة، استعداد، طبع",
+    "hieroglyphs_raw": "iwn𓇋𓃹𓈖𓁸𓇋𓃹𓈖𓄛𓇋𓃹𓈖𓁸𓏛complexion, colour, nature, dispositionلون بشرة، طبيعة، استعداد، طبع",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwn",
+    "meaning_en": "pillar",
+    "meaning_ar": "عمود",
+    "hieroglyphs_raw": "iwn𓉺pillarعمود",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwn mwt.f",
+    "meaning_en": "pillar of his mother (epithet of the young horus and a priestly title)",
+    "meaning_ar": "عامود أمه (نعت لحورس الصغير ولقب كهنوتي)",
+    "hieroglyphs_raw": "iwn mwt.fpillar of his mother (epithet of the young horus and a priestly title)عامود أمه (نعت لحورس الصغير ولقب كهنوتي)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwn n fnD",
+    "meaning_en": "the nasal bone",
+    "meaning_ar": "عظم الأنف",
+    "hieroglyphs_raw": "iwn n fnDthe nasal boneعظم الأنف",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwn knmwt",
+    "meaning_en": "a priestly title (support of the kenmut - people of the leopard skin (?))",
+    "meaning_ar": "لقب كهنوتي",
+    "hieroglyphs_raw": "iwn knmwta priestly title (support of the kenmut - people of the leopard skin (?))لقب كهنوتي",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwni",
+    "meaning_en": "Hermonthis (name of location - Armant)",
+    "meaning_ar": "هيرمونثيس (مدينة ارمنت)",
+    "hieroglyphs_raw": "iwni𓉺𓈖𓇋𓊖𓉺𓈖𓏭𓊖Hermonthis (name of location - Armant)هيرمونثيس (مدينة ارمنت)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnyt",
+    "meaning_en": "Latopolis (name of location - Esna)",
+    "meaning_ar": "لاتوبوليس  (مدينة إسنا)",
+    "hieroglyphs_raw": "iwnyt𓉺𓇌𓏏𓊖Latopolis (name of location - Esna)لاتوبوليس  (مدينة إسنا)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnyt",
+    "meaning_en": "pillared hall",
+    "meaning_ar": "صالة معمدة",
+    "hieroglyphs_raw": "iwnyt𓉺𓉺𓉺𓏏𓉐𓉺𓏌𓇌𓏏𓉐𓃛𓅱𓈖𓇋𓇋𓏏𓉐pillared hallصالة معمدة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnw",
+    "meaning_en": "Heliopolis",
+    "meaning_ar": "عين شمس",
+    "hieroglyphs_raw": "iwnw𓉺𓏌𓊖Heliopolisعين شمس",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnw Sma",
+    "meaning_en": "Thebes (southern Heliopolis)",
+    "meaning_ar": "طيبة (عين شمس الجنوبية)",
+    "hieroglyphs_raw": "iwnw SmaThebes (southern Heliopolis)طيبة (عين شمس الجنوبية)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnn",
+    "meaning_en": "sanctuary",
+    "meaning_ar": "قُدس، حرم",
+    "hieroglyphs_raw": "iwnn𓃛𓅱𓈖𓈖𓉐𓃛𓈖𓈖𓉐sanctuaryقُدس، حرم",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnt",
+    "meaning_en": "Denderah",
+    "meaning_ar": "دندرة",
+    "hieroglyphs_raw": "iwnt𓉺𓈖𓏏𓊖Denderahدندرة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwnt",
+    "meaning_en": "bow",
+    "meaning_ar": "قوس",
+    "hieroglyphs_raw": "iwnt𓉺𓏏𓏤𓉺𓏏𓌔bowقوس",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwntyw",
+    "meaning_en": "tribesmen (literally bowmen)",
+    "meaning_ar": "رجال القبائل (رجال الأقواس)",
+    "hieroglyphs_raw": "iwntyw𓉺𓏤𓏥𓌙𓀏𓏥𓉺𓏏𓏤𓏪𓉺𓉺𓉺𓉺tribesmen (literally bowmen)رجال القبائل (رجال الأقواس)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwr",
+    "meaning_en": "conceive (a child), become pregnant",
+    "meaning_ar": "تحمل (طفل)، تصبح حامل",
+    "hieroglyphs_raw": "iwr𓃛𓅱𓅨𓂋𓁑𓃛𓂋𓁑𓃛𓅱𓅨𓂋𓏯conceive (a child), become pregnantتحمل (طفل)، تصبح حامل",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwryt",
+    "meaning_en": "beans, cowpea",
+    "meaning_ar": "فاصوليا، لوبيا",
+    "hieroglyphs_raw": "iwryt𓃛𓂋𓇌𓏏𓈒𓏥beans, cowpeaفاصوليا، لوبيا",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwh",
+    "meaning_en": "load (vb.)",
+    "meaning_ar": "يملأ، يُعبئ",
+    "hieroglyphs_raw": "iwh𓃛𓏲𓉔𓂢𓂡load (vb.)يملأ، يُعبئ",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwH",
+    "meaning_en": "moisten, water(field-plots), inject (a liquid remedy)",
+    "meaning_ar": "يُرَطِّب، يروي (الحقل)، يحقن (بدواء سائل)",
+    "hieroglyphs_raw": "iwH𓃛𓅱𓎛𓈗𓃛𓎛𓈗moisten, water(field-plots), inject (a liquid remedy)يُرَطِّب، يروي (الحقل)، يحقن (بدواء سائل)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwHw",
+    "meaning_en": "inundation",
+    "meaning_ar": "فيضان",
+    "hieroglyphs_raw": "iwHw𓃛𓅱𓎛𓅱𓈗inundationفيضان",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwsw",
+    "meaning_en": "balance",
+    "meaning_ar": "ميزان",
+    "hieroglyphs_raw": "iwsw𓃛𓅱𓇓𓅱𓆱balanceميزان",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwSS",
+    "meaning_en": "gruel",
+    "meaning_ar": "ثريد، عصيدة",
+    "hieroglyphs_raw": "iwSS𓃛𓅱𓈙𓈙𓈒gruelثريد، عصيدة",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwgrt",
+    "meaning_en": "realm of the dead",
+    "meaning_ar": "عالم (مملكة) الأموات",
+    "hieroglyphs_raw": "iwgrt𓇋𓅱𓎼𓂋𓏏𓈉realm of the deadعالم (مملكة) الأموات",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwty",
+    "meaning_en": "who … not, which … not",
+    "meaning_ar": "الذى لا .....",
+    "hieroglyphs_raw": "iwty𓂜𓏏𓏭𓅪𓂜𓅱𓏏𓇋𓅱𓂜𓍘𓇋𓇋𓅱𓂜𓏏who … not, which … notالذى لا .....",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwty.f",
+    "meaning_en": "possessory",
+    "meaning_ar": "تَمَلُّكِيّ، مُتَمَلّك",
+    "hieroglyphs_raw": "iwty.fpossessoryتَمَلُّكِيّ، مُتَمَلّك",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwty n.f",
+    "meaning_en": "possessionless, he who has nothing",
+    "meaning_ar": "الذي لا يمتلك شيء",
+    "hieroglyphs_raw": "iwty n.fpossessionless, he who has nothingالذي لا يمتلك شيء",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwty sw",
+    "meaning_en": "who is nothing",
+    "meaning_ar": "الذي هو لاشيء",
+    "hieroglyphs_raw": "iwty swwho is nothingالذي هو لاشيء",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtyw",
+    "meaning_en": "corruption",
+    "meaning_ar": "فساد",
+    "hieroglyphs_raw": "iwtyw𓃛𓅱𓏏𓅂𓐎𓏥corruptionفساد",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtn",
+    "meaning_en": "ground, floor, flooring",
+    "meaning_ar": "أرض، أرضية",
+    "hieroglyphs_raw": "iwtn𓃛𓏏𓈖𓈅𓏤ground, floor, flooringأرض، أرضية",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtn n pr",
+    "meaning_en": "ground of a house (on which it is built)",
+    "meaning_ar": "أرض المنزل (التي بني عليها)",
+    "hieroglyphs_raw": "iwtn n prground of a house (on which it is built)أرض المنزل (التي بني عليها)",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtt",
+    "meaning_en": "who .... not (fem.), whis ..... not (fem.)",
+    "meaning_ar": "التي لا .....",
+    "hieroglyphs_raw": "iwtt𓂜𓏏𓏏𓅪who .... not (fem.), whis ..... not (fem.)التي لا .....",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtt",
+    "meaning_en": "What is not, does not exist",
+    "meaning_ar": "الذى لا، غير موجود",
+    "hieroglyphs_raw": "iwtt𓂜𓏏𓏏𓅪𓏥𓇋𓅱𓂜𓏏𓏏𓂜𓅱𓏏𓏏What is not, does not existالذى لا، غير موجود",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwtt",
+    "meaning_en": "Who …. Not, which …. Not",
+    "meaning_ar": "التي ..... لا",
+    "hieroglyphs_raw": "iwtt𓂜𓏏𓏏𓅪Who …. Not, which …. Notالتي ..... لا",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwd",
+    "meaning_en": "separate (vb.)",
+    "meaning_ar": "يفصِل",
+    "hieroglyphs_raw": "iwd𓃛𓅱𓂧𓂻separate (vb.)يفصِل",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "iwdt",
+    "meaning_en": "separation",
+    "meaning_ar": "فصْل، تفريق",
+    "hieroglyphs_raw": "iwdt𓃛𓅱𓂧𓏏𓂻separationفصْل، تفريق",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "ib",
+    "meaning_en": "young goat",
+    "meaning_ar": "ماعز صغير",
+    "hieroglyphs_raw": "ibyoung goatماعز صغير",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "ib",
+    "meaning_en": "think, suppose",
+    "meaning_ar": "يعتقد، يفترض",
+    "hieroglyphs_raw": "ib𓇋𓃀𓃙𓇋𓃀𓃙𓀁𓇋𓃀𓀁think, supposeيعتقد، يفترض",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "ib",
+    "meaning_en": "thirsty man",
+    "meaning_ar": "رجل عطشان",
+    "hieroglyphs_raw": "ib𓇋𓃀𓃙𓈗𓀁𓀀𓇋𓃀𓃙𓀁𓀀thirsty manرجل عطشان",
+    "phnid": 3,
+    "page": 3
+  },
+  {
+    "transliteration": "ib",
+    "meaning_en": "heart (physical), heart (seat of thoughts and emotions), mind, understanding, intelligence, will, desire, mood, wish (vb.)",
+    "meaning_ar": "قلب، قلب (مقر الأفكار والمشاعر)، عقل، فَهم، ذكاء، إرادة، رغبة، مزاج، يرغب",
+    "hieroglyphs_raw": "ib𓄣𓏤heart (physical), heart (seat of thoughts and emotions), mind, understanding, intelligence, will, desire, mood, wish (vb.)قلب، قلب (مقر الأفكار والمشاعر)، عقل، فَهم، ذكاء، إرادة، رغبة، مزاج، يرغب",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ib.f mH",
+    "meaning_en": "his heart is drown (weak in action)",
+    "meaning_ar": "قلبه غارق (ضعيف الحركة)",
+    "hieroglyphs_raw": "ib.f mH𓄣𓏤𓆑𓎔𓎛𓈗his heart is drown (weak in action)قلبه غارق (ضعيف الحركة)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ib n nsw",
+    "meaning_en": "mind of the king (title)",
+    "meaning_ar": "عقل الملك (لقب)",
+    "hieroglyphs_raw": "ib n nswmind of the king (title)عقل الملك (لقب)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ib.k m a.k",
+    "meaning_en": "with self-possession",
+    "meaning_ar": "برباطة جأش",
+    "hieroglyphs_raw": "ib.k m a.kwith self-possessionبرباطة جأش",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibA",
+    "meaning_en": "dance",
+    "meaning_ar": "يرقص",
+    "hieroglyphs_raw": "ibA𓇋𓃀𓀤𓇋𓃀𓈒𓀤𓇋𓃀𓄿𓏡𓇋𓃀𓏡𓏡𓇋𓃀𓅱𓀤danceيرقص",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibA",
+    "meaning_en": "Draughtsman",
+    "meaning_ar": "رسام، كاتب",
+    "hieroglyphs_raw": "ibA𓇋𓃀𓃙𓏡𓏡Draughtsmanرسام، كاتب",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibAyt",
+    "meaning_en": "praying mantis, dancer (a bird) (?)",
+    "meaning_ar": "حشرة فرس النبي، طائر راقص (؟)",
+    "hieroglyphs_raw": "ibAytpraying mantis, dancer (a bird) (?)حشرة فرس النبي، طائر راقص (؟)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibAw",
+    "meaning_en": "barbary sheep",
+    "meaning_ar": "أغنام بربرية (من الصحراء الكبرى)",
+    "hieroglyphs_raw": "ibAw𓇋𓃀𓄫𓅱𓄛𓏤𓇋𓃀𓅡𓄿𓅱𓃲𓇋𓃀𓏡𓅱𓃲barbary sheepأغنام بربرية (من الصحراء الكبرى)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibi",
+    "meaning_en": "be thirsty, thirst after something",
+    "meaning_ar": "يعطش، متعطش لـ",
+    "hieroglyphs_raw": "ibi𓇋𓃀𓃙𓈗𓀁𓇋𓃀𓃙𓀁𓇋𓃀𓃙𓈗𓀜𓇋𓃀𓇋𓈗𓇋𓃀𓀁be thirsty, thirst after somethingيعطش، متعطش لـ",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibw",
+    "meaning_en": "tent of purification",
+    "meaning_ar": "خيمة التطهير",
+    "hieroglyphs_raw": "ibwtent of purificationخيمة التطهير",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibw",
+    "meaning_en": "refuge, shelter",
+    "meaning_ar": "مأوى، ملجأ",
+    "hieroglyphs_raw": "ibw𓇋𓃀𓃙𓍢𓉐𓇋𓃀𓅱𓉐𓇋𓃀𓉐refuge, shelterمأوى، ملجأ",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibwy",
+    "meaning_en": "halyards (?) (of ship)",
+    "meaning_ar": "حبال لرفع (؟) (أشرعة السفن)",
+    "hieroglyphs_raw": "ibwy𓇋𓃀𓅱𓏭𓍢𓏥𓇋𓃀𓅱𓍢𓇋𓃀𓅱𓅱𓍢𓏥halyards (?) (of ship)حبال لرفع (؟) (أشرعة السفن)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibnw",
+    "meaning_en": "alum (?)",
+    "meaning_ar": "حجر الشب (؟)",
+    "hieroglyphs_raw": "ibnw𓇋𓃀𓈖𓏌𓅱𓈒𓏥alum (?)حجر الشب (؟)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibr",
+    "meaning_en": "stallion",
+    "meaning_ar": "فحل الخيل",
+    "hieroglyphs_raw": "ibrstallionفحل الخيل",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibr",
+    "meaning_en": "ladanum (?)",
+    "meaning_ar": "عصارة نباتية لزجة لصناعة العطور والبخور (؟)",
+    "hieroglyphs_raw": "ibr𓇋𓃀𓂋𓎯𓏊𓏥𓇋𓃀𓂋𓇋𓈒𓏥𓇋𓃀𓃔𓇋𓏊ladanum (?)عصارة نباتية لزجة لصناعة العطور والبخور (؟)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibht",
+    "meaning_en": "name of location (a Nubian locality)",
+    "meaning_ar": "اسم منطقة في النوبة",
+    "hieroglyphs_raw": "ibht𓇋𓃀𓉔𓏏𓈉𓇋𓃀𓄿𓏏𓈉name of location (a Nubian locality)اسم منطقة في النوبة",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibhty",
+    "meaning_en": "Ibhet-stone (anorthosite)",
+    "meaning_ar": "حجر الآنورثوسايت (الحجر المصنوع منه تمثال خفرع بالمتحف المصري)",
+    "hieroglyphs_raw": "ibhty𓇋𓃀𓉔𓏏𓏭𓊌Ibhet-stone (anorthosite)حجر الآنورثوسايت (الحجر المصنوع منه تمثال خفرع بالمتحف المصري)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibH",
+    "meaning_en": "stream (with liquid), be stuffed (with blood)",
+    "meaning_ar": "يتدفق (بسائل)، ممتلئ (بالدماء)",
+    "hieroglyphs_raw": "ibH𓇋𓃀𓃙𓎛𓈗𓀜𓇋𓃀𓃙𓎛𓄑𓏥stream (with liquid), be stuffed (with blood)يتدفق (بسائل)، ممتلئ (بالدماء)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibH",
+    "meaning_en": "tooth, tusk",
+    "meaning_ar": "سن، ناب (خنزير بري، فيل)",
+    "hieroglyphs_raw": "ibH𓄑𓏤𓇋𓃀𓎛𓄑𓏤tooth, tuskسن، ناب (خنزير بري، فيل)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibHw",
+    "meaning_en": "libationer",
+    "meaning_ar": "الساكب (للسوائل)",
+    "hieroglyphs_raw": "ibHw𓇋𓃀𓃙𓎛𓅱𓈗𓇋𓃀𓎛𓈗libationerالساكب (للسوائل)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibs",
+    "meaning_en": "head dress  (of king)",
+    "meaning_ar": "لباس الرأس (للملك)",
+    "hieroglyphs_raw": "ibshead dress  (of king)لباس الرأس (للملك)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibt",
+    "meaning_en": "thirst",
+    "meaning_ar": "العطش",
+    "hieroglyphs_raw": "ibt𓇋𓃀𓃙𓏏𓈗𓇋𓃀𓃙𓏏𓀁𓇋𓃀𓏏𓃙𓇋𓃀𓏏𓈗𓀁𓇋𓏏𓃀𓈗𓇋𓃀𓏏𓃙𓈗𓀁thirstالعطش",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ibT",
+    "meaning_en": "bird-trap",
+    "meaning_ar": "مصيدة للطيور",
+    "hieroglyphs_raw": "ibT𓇋𓃀𓏏𓌦bird-trapمصيدة للطيور",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ip",
+    "meaning_en": "count, Accounting, estimation, reckon up, make reckoning, assess (dues), pay, allot (to), exact (from), detail (someone for work), claim, examine (persons, things), revise (schedules), take heed of, set in order (bones of deceased), recognize (someone), muster, assemble (of persons)",
+    "meaning_ar": "يحصى، يعد، يصفى حساب، يُثمن، يقيم (حق)، يدفع، يخصص، يتنزع، يروى بتفصيل (شخص للعمل)، يدعى، يختبر  (أشخاص)، يراجع، يعدل (جداول زمنية).، يُجمع، يحشد (أشخاص)",
+    "hieroglyphs_raw": "ip𓇋𓊪𓏛count, Accounting, estimation, reckon up, make reckoning, assess (dues), pay, allot (to), exact (from), detail (someone for work), claim, examine (persons, things), revise (schedules), take heed of, set in order (bones of deceased), recognize (someone), muster, assemble (of persons)يحصى، يعد، يصفى حساب، يُثمن، يقيم (حق)، يدفع، يخصص، يتنزع، يروى بتفصيل (شخص للعمل)، يدعى، يختبر  (أشخاص)، يراجع، يعدل (جداول زمنية).، يُجمع، يحشد (أشخاص)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ip",
+    "meaning_en": "count, inspect",
+    "meaning_ar": "يحصي، يفحص",
+    "hieroglyphs_raw": "ip𓇋𓊪𓏝count, inspectيحصي، يفحص",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ip Dt",
+    "meaning_en": "collect one's wits (recover one's senses)",
+    "meaning_ar": "يسترد حواسه",
+    "hieroglyphs_raw": "ip Dtcollect one's wits (recover one's senses)يسترد حواسه",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipA",
+    "meaning_en": "private office",
+    "meaning_ar": "غرفة عمل خاصة",
+    "hieroglyphs_raw": "ipA𓇋𓊪𓅮𓄿𓉐𓏤private officeغرفة عمل خاصة",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipAt",
+    "meaning_en": "private office",
+    "meaning_ar": "غرفة عمل خاصة",
+    "hieroglyphs_raw": "ipAt𓇋𓅮𓏏𓉐private officeغرفة عمل خاصة",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipw",
+    "meaning_en": "these (demonstrative adjective masculine plural)",
+    "meaning_ar": "هؤلاء (اسم إشارة للجمع المذكر)",
+    "hieroglyphs_raw": "ipw𓇋𓊪𓅱these (demonstrative adjective masculine plural)هؤلاء (اسم إشارة للجمع المذكر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipw",
+    "meaning_en": "Ekhmim (name of location)",
+    "meaning_ar": "مدينة أخميم",
+    "hieroglyphs_raw": "ipw𓇋𓊪𓅱𓊖𓈘𓈇𓊪𓏲𓊖Ekhmim (name of location)مدينة أخميم",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipw",
+    "meaning_en": "payments",
+    "meaning_ar": "مدفوعات",
+    "hieroglyphs_raw": "ipw𓇋𓊪𓅱𓏛𓏥paymentsمدفوعات",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipwy",
+    "meaning_en": "these (Demonstrative adjective masculine dual)",
+    "meaning_ar": "هذان (صفة إشارة للمثنى المذكر)",
+    "hieroglyphs_raw": "ipwy𓇋𓊪𓅱𓏭𓇋𓊪𓅱these (Demonstrative adjective masculine dual)هذان (صفة إشارة للمثنى المذكر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipwty",
+    "meaning_en": "messenger, agent, commissioner, bystander",
+    "meaning_ar": "رسول، وكيل، مُفوض، شخص عابر",
+    "hieroglyphs_raw": "ipwty,wpwty𓄋𓊪𓅱𓏏𓏭𓂻𓀀𓄋𓊪𓏏𓏭𓂻𓀀𓄋𓊪𓏏𓏭𓏴𓄋𓊪𓏏𓀀𓇋𓊪𓄋𓅱𓍘𓅆𓇋𓄋𓊪𓏏𓏝𓅆𓇋𓊪𓄋𓅱𓍘𓄋𓊪𓅱𓏏𓏭messenger, agent, commissioner, bystanderرسول، وكيل، مُفوض، شخص عابر",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipf",
+    "meaning_en": "those (demonstrative adjective masculine plural)",
+    "meaning_ar": "أولئك (اسم إشارة للجمع المذكر)",
+    "hieroglyphs_raw": "ipf𓇋𓊪𓆑𓊪𓆑those (demonstrative adjective masculine plural)أولئك (اسم إشارة للجمع المذكر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipn",
+    "meaning_en": "these (demonstrative adjective masculine plural)",
+    "meaning_ar": "هؤلاء (اسم إشارة للجمع المذكر)",
+    "hieroglyphs_raw": "ipn𓇋𓊪𓈖𓊪𓈖these (demonstrative adjective masculine plural)هؤلاء (اسم إشارة للجمع المذكر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt",
+    "meaning_en": "name and festival of the 12th month",
+    "meaning_ar": "اسم الشهر الـ12 والاحتفال الخاص به",
+    "hieroglyphs_raw": "iptname and festival of the 12th monthاسم الشهر الـ12 والاحتفال الخاص به",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt",
+    "meaning_en": "secret chamber (of temple)",
+    "meaning_ar": "حجرة سرية (لمعبد)",
+    "hieroglyphs_raw": "ipt𓇋𓊪𓏏𓊒𓉐𓇋𓊪𓏏𓋩𓉐secret chamber (of temple)حجرة سرية (لمعبد)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt",
+    "meaning_en": "harem, secret chamber (of temple)",
+    "meaning_ar": "حجرة سرية (لمعبد)، الحرم",
+    "hieroglyphs_raw": "ipt𓇋𓊪𓏏𓊒𓊒𓏏𓉐𓎼𓏏𓉐harem, secret chamber (of temple)حجرة سرية (لمعبد)، الحرم",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt",
+    "meaning_en": "grain-measure of 4HqAt",
+    "meaning_ar": "مكيال للحبوب (حوالي  18 لتر)",
+    "hieroglyphs_raw": "ipt𓇋𓊪𓏏𓌽grain-measure of 4HqAtمكيال للحبوب (حوالي  18 لتر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt",
+    "meaning_en": "census",
+    "meaning_ar": "إحصاء، تعداد",
+    "hieroglyphs_raw": "ipt𓇋𓊪𓏏𓏛censusإحصاء، تعداد",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt rst",
+    "meaning_en": "the southern Harem (temple of Luxor)",
+    "meaning_ar": "الحرم الجنوبي (معبد الأقصر)",
+    "hieroglyphs_raw": "ipt rst,ipt rsytthe southern Harem (temple of Luxor)الحرم الجنوبي (معبد الأقصر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipt-swt",
+    "meaning_en": "temple of Karnak",
+    "meaning_ar": "معبد الكرنك",
+    "hieroglyphs_raw": "ipt-swt𓇋𓊪𓏏𓊨𓏏𓏥𓊖temple of Karnakمعبد الكرنك",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptw",
+    "meaning_en": "these (Demonstrative adjective masculine plural)",
+    "meaning_ar": "هؤلاء (اسم إشارة للجمع المذكر)",
+    "hieroglyphs_raw": "iptw𓇋𓊪𓏏𓅱these (Demonstrative adjective masculine plural)هؤلاء (اسم إشارة للجمع المذكر)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptwy",
+    "meaning_en": "Demonstrative adjective masculine dual: These",
+    "meaning_ar": "صفة إشارة للمثنى المذكر: هذان",
+    "hieroglyphs_raw": "iptwy𓇋𓊪𓏏𓅱𓇋𓊪𓏏𓅱𓏭Demonstrative adjective masculine dual: Theseصفة إشارة للمثنى المذكر: هذان",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptwt",
+    "meaning_en": "these (demonstrative adjective feminine plural)",
+    "meaning_ar": "تلك (صفة إشارة للجمع المؤنث)",
+    "hieroglyphs_raw": "iptwt𓇋𓊪𓏏𓅱𓏏these (demonstrative adjective feminine plural)تلك (صفة إشارة للجمع المؤنث)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptwty",
+    "meaning_en": "Demonstrative adjective feminine dual: These",
+    "meaning_ar": "صفة إشارة للمثنى المؤنث: هاتان",
+    "hieroglyphs_raw": "iptwty𓇋𓊪𓏏𓅱𓏏𓏭𓇋𓊪𓏏𓅱𓏏Demonstrative adjective feminine dual: Theseصفة إشارة للمثنى المؤنث: هاتان",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptf",
+    "meaning_en": "those (demonstrative adjective feminine plural)",
+    "meaning_ar": "تلك (اسم إشارة للجمع المؤنث)",
+    "hieroglyphs_raw": "iptf𓇋𓊪𓏏𓆑those (demonstrative adjective feminine plural)تلك (اسم إشارة للجمع المؤنث)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptn",
+    "meaning_en": "these (demonstrative adjective feminine plural)",
+    "meaning_ar": "تلك (اسم إشارة للجمع المؤنث)",
+    "hieroglyphs_raw": "iptn𓇋𓊪𓏏𓈖𓊪𓏏𓈖these (demonstrative adjective feminine plural)تلك (اسم إشارة للجمع المؤنث)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "iptny",
+    "meaning_en": "these (demonstrative adjective feminine dual)",
+    "meaning_ar": "هاتان (اسم إشارة للمثنى المؤنث)",
+    "hieroglyphs_raw": "iptny𓇋𓊪𓏏𓈖𓏭𓇋𓊪𓏏𓈖𓊪𓏏𓈖𓇋𓊪𓏏𓈖𓏏𓏭these (demonstrative adjective feminine dual)هاتان (اسم إشارة للمثنى المؤنث)",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ipdw",
+    "meaning_en": "furniture",
+    "meaning_ar": "أثاث",
+    "hieroglyphs_raw": "ipdw𓇋𓊪𓂧𓅱𓆱𓏥𓄿𓊪𓂧𓆱𓏥furnitureأثاث",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ifd",
+    "meaning_en": "flee",
+    "meaning_ar": "يفر، يهرب",
+    "hieroglyphs_raw": "ifd𓇋𓆑𓂧𓂻𓇋𓆑𓂧𓏭𓂢𓂾𓂻fleeيفر، يهرب",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ifd",
+    "meaning_en": "cloth",
+    "meaning_ar": "قماش",
+    "hieroglyphs_raw": "ifd𓇋𓆑𓂧𓊌𓋳clothقماش",
+    "phnid": 3,
+    "page": 4
+  },
+  {
+    "transliteration": "ifd",
+    "meaning_en": "rectangular",
+    "meaning_ar": "مستطيل",
+    "hieroglyphs_raw": "ifd𓇋𓆑𓂧𓊌rectangularمستطيل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "ifd",
+    "meaning_en": "quadruple (vb.)",
+    "meaning_ar": "يضاعف إلى أربع مرات",
+    "hieroglyphs_raw": "ifd𓇋𓆑𓂧𓂢𓏤𓏤𓏤𓏤quadruple (vb.)يضاعف إلى أربع مرات",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "ifdy",
+    "meaning_en": "couch",
+    "meaning_ar": "أريكة",
+    "hieroglyphs_raw": "ifdy𓇋𓆑𓂧𓏭𓂢𓋳𓇋𓆑𓂧𓏭𓂢𓍱𓆱𓏏𓏤couchأريكة",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "ifdt",
+    "meaning_en": "a four, quartette",
+    "meaning_ar": "أربعة، رباعية",
+    "hieroglyphs_raw": "ifdt𓇋𓆑𓂧𓏏𓏥a four, quartetteأربعة، رباعية",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im",
+    "meaning_en": "gesso (?)",
+    "meaning_ar": "جبس للنقش وعمل التماثيل (؟)",
+    "hieroglyphs_raw": "im𓇋𓐝𓅓𓈒𓏥𓏤gesso (?)جبس للنقش وعمل التماثيل (؟)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im",
+    "meaning_en": "moan (vb.), complain (vb.), wail (vb.)",
+    "meaning_ar": "ينوح، يشكو",
+    "hieroglyphs_raw": "im𓇋𓐝𓅓𓀁𓇋𓐝𓈗𓀁moan (vb.), complain (vb.), wail (vb.)ينوح، يشكو",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im",
+    "meaning_en": "form, shape, side",
+    "meaning_ar": "شكل، هيئة، جانب",
+    "hieroglyphs_raw": "im𓇋𓅓𓐝𓇋𓐝𓅓𓄹𓐝𓏤form, shape, sideشكل، هيئة، جانب",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im",
+    "meaning_en": "there, therein, therewith, therefrom",
+    "meaning_ar": "هناك، في ذلك، بذلك، من ذلك",
+    "hieroglyphs_raw": "im𓇋𓅓there, therein, therewith, therefromهناك، في ذلك، بذلك، من ذلك",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imA",
+    "meaning_en": "gracious, charming",
+    "meaning_ar": "فاتن، جذاب، رقيق",
+    "hieroglyphs_raw": "imA𓇋𓌳𓆭𓅓gracious, charmingفاتن، جذاب، رقيق",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imA Hr",
+    "meaning_en": "gracious of countenance",
+    "meaning_ar": "لطيف الملامح",
+    "hieroglyphs_raw": "imA Hr𓆭𓏛𓁷𓏤gracious of countenanceلطيف الملامح",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im(A)w",
+    "meaning_en": "tent, hut",
+    "meaning_ar": "خيمة، كوخ",
+    "hieroglyphs_raw": "im(A)w𓆭𓅓𓅱𓉐𓆭𓅓𓉐𓆭𓅱𓉐𓇋𓆭𓐝𓅱𓉐𓇋𓌳𓄿𓅓𓉐tent, hutخيمة، كوخ",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "im(A)w",
+    "meaning_en": "brilliance, splendour",
+    "meaning_ar": "إشراق، لمعان، تألق",
+    "hieroglyphs_raw": "im(A)w𓆭𓅓𓅱𓇶𓏥𓆭𓅱𓇶𓆭𓅓𓅱𓐝𓇶𓆭𓐝𓇶𓏥𓇋𓆭𓏥𓅱𓇳brilliance, splendourإشراق، لمعان، تألق",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAx",
+    "meaning_en": "honour, veneration, the blessed state (of dead)",
+    "meaning_ar": "كرامة، تبجيل، الحالة المباركة (للمتوفى)",
+    "hieroglyphs_raw": "imAx𓇋𓌳𓐍𓄪𓏤𓄪𓏤honour, veneration, the blessed state (of dead)كرامة، تبجيل، الحالة المباركة (للمتوفى)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAx",
+    "meaning_en": "spinal cord",
+    "meaning_ar": "الحبل الشوكي",
+    "hieroglyphs_raw": "imAx𓇋𓌳𓐍𓄪𓏤𓄪𓏤spinal cordالحبل الشوكي",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAx",
+    "meaning_en": "reverence",
+    "meaning_ar": "تبجيل",
+    "hieroglyphs_raw": "imAx𓇋𓌳𓐍𓄪reverenceتبجيل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxy",
+    "meaning_en": "be honoured",
+    "meaning_ar": "مُبَجَّل",
+    "hieroglyphs_raw": "imAxy𓇋𓌳𓄪𓐍𓇌𓇋𓄪𓐍𓇋𓄪𓐍𓇌𓇋𓌳𓄪𓐍be honouredمُبَجَّل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxy",
+    "meaning_en": "revered one",
+    "meaning_ar": "المبجل",
+    "hieroglyphs_raw": "imAxy𓇋𓄪𓇋𓇋revered oneالمبجل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxy xr",
+    "meaning_en": "be honoured by",
+    "meaning_ar": "مُبَجَّل لدى",
+    "hieroglyphs_raw": "imAxy xrbe honoured byمُبَجَّل لدى",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxyw",
+    "meaning_en": "revered ones (of the blessed deads)",
+    "meaning_ar": "المبجَّلين (الموتى المباركين)، المبجَّلين (الأحياء المتقدمين في العمر)",
+    "hieroglyphs_raw": "imAxyw𓄪𓇌𓅱𓀼𓏪𓇋𓌴𓐍𓇌𓄪𓏴𓏛𓀀revered ones (of the blessed deads)المبجَّلين (الموتى المباركين)، المبجَّلين (الأحياء المتقدمين في العمر)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxyt",
+    "meaning_en": "revered on (of dead woman)",
+    "meaning_ar": "المبجلة (للمرأة المتوفاة)",
+    "hieroglyphs_raw": "imAxyt𓄪𓐍𓇌𓏏𓇋𓄪𓐍𓏏revered on (of dead woman)المبجلة (للمرأة المتوفاة)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxw",
+    "meaning_en": "revered one (of the blessed dead), revered one (of the aged living)",
+    "meaning_ar": "المُبَجَّل (المتوفى المبارك)، المُبَجَّل (للأحياء المتقدمين في العمر)",
+    "hieroglyphs_raw": "imAxw𓇋𓌳𓄪𓐍𓅱𓅆𓇋𓄪𓐍revered one (of the blessed dead), revered one (of the aged living)المُبَجَّل (المتوفى المبارك)، المُبَجَّل (للأحياء المتقدمين في العمر)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxw",
+    "meaning_en": "revered one",
+    "meaning_ar": "المبجل",
+    "hieroglyphs_raw": "imAxw𓇋𓄪𓐍𓅱𓄪𓐍revered oneالمبجل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAxt",
+    "meaning_en": "honour",
+    "meaning_ar": "تبجيل، توقير",
+    "hieroglyphs_raw": "imAxt𓄪𓏏𓏤honourتبجيل، توقير",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAt",
+    "meaning_en": "charm, kindliness, graciousness, favour (toward someone)",
+    "meaning_ar": "جاذبية، عطف، رقة",
+    "hieroglyphs_raw": "imAt𓇋𓌳𓅓𓏏𓆭𓏛𓇋𓄿𓆭𓅓𓏏𓌳𓏏𓇣𓆭𓅓𓏏𓏛𓏥𓆭𓏏𓏛𓆭𓏏𓏥𓇋𓄿𓅓𓏏𓆭𓏛charm, kindliness, graciousness, favour (toward someone)جاذبية، عطف، رقة",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imAt",
+    "meaning_en": "female ibex, female (of any wild animal)",
+    "meaning_ar": "أنثى الوعل، أنثي (أي حيوان بري)",
+    "hieroglyphs_raw": "imAt𓇋𓌳𓏏𓃵female ibex, female (of any wild animal)أنثى الوعل، أنثي (أي حيوان بري)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imi",
+    "meaning_en": "negation verb",
+    "meaning_ar": "فعل نهي",
+    "hieroglyphs_raw": "imi𓏶𓅓𓂜𓇋𓅓𓂜negation verbفعل نهي",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imi",
+    "meaning_en": "give! (imperative), place!, cause!",
+    "meaning_ar": "إعط، ضع، سَبِّب",
+    "hieroglyphs_raw": "imi𓇋𓅓𓐝𓂟𓇋𓐝𓅓𓂝give! (imperative), place!, cause!إعط، ضع، سَبِّب",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy",
+    "meaning_en": "who is in, which is in",
+    "meaning_ar": "الذي في، مَن في",
+    "hieroglyphs_raw": "imy,imi𓇋𓅓𓇋𓏶𓏶who is in, which is inالذي في، مَن في",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imi-wt",
+    "meaning_en": "name of anubis fetish",
+    "meaning_ar": "اسم تمثال أنوبيس",
+    "hieroglyphs_raw": "imi-wt𓏶𓅱𓏏𓊖𓏶𓅱𓏏𓐎name of anubis fetishاسم تمثال أنوبيس",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imi-sA",
+    "meaning_en": "Attendant",
+    "meaning_ar": "مصاحب",
+    "hieroglyphs_raw": "imi-sA𓏶𓎃𓀀Attendantمصاحب",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imiwti",
+    "meaning_en": "between, among, (older form ofimytw)",
+    "meaning_ar": "(صيغة قديمة لـimytw)، ضِمن، بين",
+    "hieroglyphs_raw": "imiwti𓇋𓏶𓅱𓏏𓍘𓇋𓇋𓏶𓅱𓏏between, among, (older form ofimytw)(صيغة قديمة لـimytw)، ضِمن، بين",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy",
+    "meaning_en": "who, which is in (cryptic writing)",
+    "meaning_ar": "الذي يوجد في (مكتوب بكتابة معماة)",
+    "hieroglyphs_raw": "imywho, which is in (cryptic writing)الذي يوجد في (مكتوب بكتابة معماة)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy",
+    "meaning_en": "Belongs to",
+    "meaning_ar": "يخص، ينتمي لـ",
+    "hieroglyphs_raw": "imy𓇋𓅓𓇌𓇋𓅓Belongs toيخص، ينتمي لـ",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy",
+    "meaning_en": "who is in, which is in",
+    "meaning_ar": "الذي في",
+    "hieroglyphs_raw": "imy𓇋𓏶𓅓𓏭𓏶𓅓𓏶who is in, which is inالذي في",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-ib",
+    "meaning_en": "favorite",
+    "meaning_ar": "المُفَضَّل",
+    "hieroglyphs_raw": "imy-ib𓇋𓏶𓄣𓏤𓆇𓄣𓏤favoriteالمُفَضَّل",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-is",
+    "meaning_en": "councillor",
+    "meaning_ar": "مستشار، عضو مجلس",
+    "hieroglyphs_raw": "imy-is𓇋𓏶𓅓𓇋𓇩𓊃𓉐𓇩𓅓councillorمستشار، عضو مجلس",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-a",
+    "meaning_en": "regional officer (?), assistant (?)",
+    "meaning_ar": "موظف محلى (؟)، المُساعد (؟)",
+    "hieroglyphs_raw": "imy-a𓇋𓏶𓅓𓏭𓂝𓏤regional officer (?), assistant (?)موظف محلى (؟)، المُساعد (؟)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy wnwt",
+    "meaning_en": "hour watcher (astronomer)",
+    "meaning_ar": "راصد الوقت (فلكي)",
+    "hieroglyphs_raw": "imy wnwthour watcher (astronomer)راصد الوقت (فلكي)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-wrt",
+    "meaning_en": "designation of priestly phyle",
+    "meaning_ar": "لقب لطائفة كهنوتية",
+    "hieroglyphs_raw": "imy-wrt𓏶𓅨𓂋𓏏𓉐designation of priestly phyleلقب لطائفة كهنوتية",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-wrt",
+    "meaning_en": "starboard (of ship), west side (of locality), the west",
+    "meaning_ar": "ميمنة (السفينة)، الجانب الغربي (من منطقة)، الغرب",
+    "hieroglyphs_raw": "imy-wrt𓏶𓅨𓂋𓏏𓏶𓅓𓏏𓅨𓂋𓏶𓅨𓂋𓏏𓉐starboard (of ship), west side (of locality), the westميمنة (السفينة)، الجانب الغربي (من منطقة)، الغرب",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-wt",
+    "meaning_en": "a title for Anubis (he who is in the place of embalming), name of Anubis-fetish",
+    "meaning_ar": "الذي في مكان التحنيط  (لقب لأنوبيس)، اسم شعار أنوبيس",
+    "hieroglyphs_raw": "imy-wt𓏶𓅱𓏏𓐎a title for Anubis (he who is in the place of embalming), name of Anubis-fetishالذي في مكان التحنيط  (لقب لأنوبيس)، اسم شعار أنوبيس",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-bAH",
+    "meaning_en": "who is before, who is in the presence, who existed aforetime (of god), ancestor",
+    "meaning_ar": "الذي هو في وجود، الذي كان موجود قبلا، سَلَف (جَدّ)",
+    "hieroglyphs_raw": "imy-bAH𓇋𓏶𓅓𓏭𓂺𓏛who is before, who is in the presence, who existed aforetime (of god), ancestorالذي هو في وجود، الذي كان موجود قبلا، سَلَف (جَدّ)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "(i)m(y) prwy",
+    "meaning_en": "member of the administration",
+    "meaning_ar": "عضو في الادارة",
+    "hieroglyphs_raw": "(i)m(y) prwy𓅓𓉐𓉐member of the administrationعضو في الادارة",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r",
+    "meaning_en": "overseer",
+    "meaning_ar": "مُشرِف",
+    "hieroglyphs_raw": "imy-r𓅓𓂋𓄓overseerمُشرِف",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r aw",
+    "meaning_en": "caravan leader",
+    "meaning_ar": "قائد قافلة",
+    "hieroglyphs_raw": "imy-r awcaravan leaderقائد قافلة",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r ab wHmt Swt nSmt",
+    "meaning_en": "overseer of all kinds of livestock (horn, hoof, feather and scale)",
+    "meaning_ar": "المسؤول عن كل انواع الماشية والدواجن (المشرف على القرن والحافر والريشة وقشر السمك)",
+    "hieroglyphs_raw": "imy-r ab wHmt Swt nSmt𓅓𓂋𓏤𓄏𓄙𓆄𓆠overseer of all kinds of livestock (horn, hoof, feather and scale)المسؤول عن كل انواع الماشية والدواجن (المشرف على القرن والحافر والريشة وقشر السمك)",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r aXnwty",
+    "meaning_en": "chamberlain",
+    "meaning_ar": "حاجب الملك، كبير اليوران",
+    "hieroglyphs_raw": "imy-r aXnwty𓅓𓂋𓂝𓄚𓏌𓏏𓉐chamberlainحاجب الملك، كبير اليوران",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r w",
+    "meaning_en": "district-superintendent",
+    "meaning_ar": "المشرف على المقاطعة",
+    "hieroglyphs_raw": "imy-r w𓅓𓂋𓅱𓈇𓏤𓅓𓂋𓈇𓏤𓀀district-superintendentالمشرف على المقاطعة",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r pr",
+    "meaning_en": "overseer of the house, steward",
+    "meaning_ar": "المشرف على البيت، رئيس الخدم",
+    "hieroglyphs_raw": "imy-r pr𓄓𓉐overseer of the house, stewardالمشرف على البيت، رئيس الخدم",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy r mrw",
+    "meaning_en": "overseer of weavers",
+    "meaning_ar": "المشرف على النساجون",
+    "hieroglyphs_raw": "imy r mrw𓄓𓈘𓈇𓏤𓄓𓈘𓏤overseer of weaversالمشرف على النساجون",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r mSa",
+    "meaning_en": "general, foreman of gang",
+    "meaning_ar": "جنرال (رتبة عسكرية)، زعيم عُصبة من الرجال",
+    "hieroglyphs_raw": "imy-r mSa𓅓𓂋𓀎𓏪general, foreman of gangجنرال (رتبة عسكرية)، زعيم عُصبة من الرجال",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r mSa wr",
+    "meaning_en": "overseer of the army, generalissimo",
+    "meaning_ar": "القائد العام للجيش",
+    "hieroglyphs_raw": "imy-r mSa wr𓅓𓂋𓏤𓀎𓏪𓅨𓂋overseer of the army, generalissimoالقائد العام للجيش",
+    "phnid": 3,
+    "page": 5
+  },
+  {
+    "transliteration": "imy-r mDH",
+    "meaning_en": "head carpenter",
+    "meaning_ar": "كبير النجارين",
+    "hieroglyphs_raw": "imy-r mDH𓄓𓌎𓏤head carpenterكبير النجارين",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-r sDAwtyw",
+    "meaning_en": "chief treasurer",
+    "meaning_ar": "المشرف على الخزنة",
+    "hieroglyphs_raw": "imy-r sDAwtyw𓅓𓂋𓋨𓅂𓄓𓋨𓄓𓋩𓏏𓏤chief treasurerالمشرف على الخزنة",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-r Swt nSmwt",
+    "meaning_en": "overseer of feathers and scales (livestock)",
+    "meaning_ar": "المشرف على الدواجن (الريش وقشر السمك)",
+    "hieroglyphs_raw": "imy-r Swt nSmwt𓄓𓆄𓆠𓏥overseer of feathers and scales (livestock)المشرف على الدواجن (الريش وقشر السمك)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-r kAt",
+    "meaning_en": "overseer of works",
+    "meaning_ar": "المشرف على الأعمال (البناء)",
+    "hieroglyphs_raw": "imy-r kAtoverseer of worksالمشرف على الأعمال (البناء)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-rn.f",
+    "meaning_en": "list of names",
+    "meaning_ar": "قائمة أسماء",
+    "hieroglyphs_raw": "imy-rn.f𓏶𓅓𓂋𓈖𓆑𓀀𓏥𓏶𓅓𓏭𓂋𓈖𓆑list of namesقائمة أسماء",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-hrw.f",
+    "meaning_en": "who is on duty for the day (of sentry)",
+    "meaning_ar": "الذى في الخدمة في النهار (حارس)",
+    "hieroglyphs_raw": "imy-hrw.f𓏶𓅓𓏭𓉔𓂋𓍢𓇳𓏤𓆑who is on duty for the day (of sentry)الذى في الخدمة في النهار (حارس)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-HAt",
+    "meaning_en": "who, which is in front, which was before (of time)",
+    "meaning_ar": "الذى في المقدمة، الذي كان سابقاً",
+    "hieroglyphs_raw": "imy-HAt𓏶𓅓𓄂𓏏𓏤who, which is in front, which was before (of time)الذى في المقدمة، الذي كان سابقاً",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-HAt",
+    "meaning_en": "pattern, pattern, mould (of conduct)",
+    "meaning_ar": "نموذج يُتبع",
+    "hieroglyphs_raw": "imy-HAt𓏶𓅓𓄂𓏏𓏤pattern, pattern, mould (of conduct)نموذج يُتبع",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-xnt",
+    "meaning_en": "chamberlain",
+    "meaning_ar": "حاجب الملك",
+    "hieroglyphs_raw": "imy-xnt𓏶𓏃𓀀𓏃𓅓𓏶𓂉𓏏chamberlainحاجب الملك",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-xt",
+    "meaning_en": "he who shall come after",
+    "meaning_ar": "الذي سيأتي بعد",
+    "hieroglyphs_raw": "imy-xt𓅓𓆱𓐍𓏏𓂻he who shall come afterالذي سيأتي بعد",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-xt",
+    "meaning_en": "following after (of time), who are in the attendance on, member of the bodyguard (?), he who shall come afte",
+    "meaning_ar": "يحدث في أعقاب، المواظبين على، عضو من الحرس الخاص (؟)، هو الذي يأتي بعد ذلك",
+    "hieroglyphs_raw": "imy-xt𓇋𓏶𓅓𓆱𓐍𓏏𓅓𓆱𓏏𓏤𓅓𓆱𓐍𓏏𓀎following after (of time), who are in the attendance on, member of the bodyguard (?), he who shall come afteيحدث في أعقاب، المواظبين على، عضو من الحرس الخاص (؟)، هو الذي يأتي بعد ذلك",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-sA",
+    "meaning_en": "attendant",
+    "meaning_ar": "خادم، وصيف",
+    "hieroglyphs_raw": "imy-sA𓏶𓎃𓀀attendantخادم، وصيف",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-st-a",
+    "meaning_en": "acolyte, helper",
+    "meaning_ar": "مساعد الكاهن، مساعد",
+    "hieroglyphs_raw": "imy-st-a𓏶𓅓𓊨𓏏𓉐𓂝𓏤𓀀acolyte, helperمساعد الكاهن، مساعد",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imy-tw",
+    "meaning_en": "Between, in the midst of)",
+    "meaning_ar": "بين (في الوسط)",
+    "hieroglyphs_raw": "imy-tw𓏶𓅓𓏭𓏏𓍢𓇋𓏶𓏏𓅱𓏶𓅓𓏏Between, in the midst of)بين (في الوسط)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw iAt",
+    "meaning_en": "snakes of the mounds",
+    "meaning_ar": "ثعابين التلال",
+    "hieroglyphs_raw": "imyw iAtsnakes of the moundsثعابين التلال",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw-mw",
+    "meaning_en": "aquatic animals",
+    "meaning_ar": "حيوانات مائية",
+    "hieroglyphs_raw": "imyw-mw𓇋𓏶𓅱𓏥𓈗aquatic animalsحيوانات مائية",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw-HAt",
+    "meaning_en": "those of former times",
+    "meaning_ar": "السلف",
+    "hieroglyphs_raw": "imyw-HAt𓏶𓅓𓄂𓏏𓏤𓀻𓏥those of former timesالسلف",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw-xt",
+    "meaning_en": "those of later times, posterity",
+    "meaning_ar": "الذين ينتموا للعصور اللاحقة (الخلف)",
+    "hieroglyphs_raw": "imyw-xt𓅓𓆱𓏏𓀀𓀀𓀀𓏶𓏥𓅱𓆱𓐍𓏏𓂻𓀀𓏪those of later times, posterityالذين ينتموا للعصور اللاحقة (الخلف)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw-tA",
+    "meaning_en": "snakes",
+    "meaning_ar": "ثعابين",
+    "hieroglyphs_raw": "imyw-tA𓇋𓏶𓅓𓅱𓏪𓇾𓈇𓏤snakesثعابين",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyw-tA-mw",
+    "meaning_en": "snakes of land and water",
+    "meaning_ar": "ثعابين الأرض والماء",
+    "hieroglyphs_raw": "imyw-tA-mwsnakes of land and waterثعابين الأرض والماء",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyt",
+    "meaning_en": "pigment",
+    "meaning_ar": "صبغة",
+    "hieroglyphs_raw": "imyt𓇋𓐝𓅓𓇌𓏏𓏛𓏥pigmentصبغة",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyt-pr",
+    "meaning_en": "Will, testament",
+    "meaning_ar": "عهد، وصية",
+    "hieroglyphs_raw": "imyt-pr𓏶𓅓𓏏𓏛𓏥𓉐𓏤𓏶𓅓𓏏𓉐𓏛𓏥𓇋𓏏𓏶𓉐𓏤Will, testamentعهد، وصية",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyt-nDst",
+    "meaning_en": "Stern (of ship)",
+    "meaning_ar": "مؤخر (السفينة)",
+    "hieroglyphs_raw": "imyt-nDst𓏶𓅓𓏏𓈖𓆓𓋴𓏏𓅪Stern (of ship)مؤخر (السفينة)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imyt-r",
+    "meaning_en": "Feminine: Overseer",
+    "meaning_ar": "مشرفة",
+    "hieroglyphs_raw": "imyt-r𓅓𓂋𓏏Feminine: Overseerمشرفة",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imytw",
+    "meaning_en": "between, in the midst of",
+    "meaning_ar": "ما بين، في وسط",
+    "hieroglyphs_raw": "imytw𓇋𓏶𓏏𓅱𓏶𓅓𓏏between, in the midst ofما بين، في وسط",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imw",
+    "meaning_en": "ship, ship load",
+    "meaning_ar": "سفينة، حمولة السفينة",
+    "hieroglyphs_raw": "imw𓇋𓐝𓅓𓅱𓊛𓇋𓐝𓅓𓊛𓇋𓆭𓅓𓍢𓊛𓊛ship, ship loadسفينة، حمولة السفينة",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imw",
+    "meaning_en": "grief",
+    "meaning_ar": "كآبة، حُزن",
+    "hieroglyphs_raw": "imw𓇋𓐝𓅓𓀁𓏥𓇋𓐝𓅓𓅱𓏛𓏥griefكآبة، حُزن",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imn",
+    "meaning_en": "right(-hand), right side, the west",
+    "meaning_ar": "(اليد) اليمنى، الجانب الأيمن، الغرب",
+    "hieroglyphs_raw": "imnright(-hand), right side, the west(اليد) اليمنى، الجانب الأيمن، الغرب",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imn",
+    "meaning_en": "secret, hidden, hide, conceal",
+    "meaning_ar": "سر، خفي، يخفي، يحجب",
+    "hieroglyphs_raw": "imn𓇋𓏠𓈖𓂜secret, hidden, hide, concealسر، خفي، يخفي، يحجب",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imn",
+    "meaning_en": "create",
+    "meaning_ar": "يخلق",
+    "hieroglyphs_raw": "imn𓇋𓏠𓈖createيخلق",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imn",
+    "meaning_en": "the hidden one (name of divinity: Amun)",
+    "meaning_ar": "المختفي (اسم الاله امون)",
+    "hieroglyphs_raw": "imn𓇋𓏠𓈖the hidden one (name of divinity: Amun)المختفي (اسم الاله امون)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imn-ra",
+    "meaning_en": "(the god) Amun-Re",
+    "meaning_ar": "الإله أمون رع",
+    "hieroglyphs_raw": "imn-ra𓇋𓏠𓈖𓇳𓏤𓀭(the god) Amun-Reالإله أمون رع",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnyt",
+    "meaning_en": "daily offerings",
+    "meaning_ar": "قرابين يومية",
+    "hieroglyphs_raw": "imnyt𓇋𓏠𓈖𓇌𓏏𓏛𓏥𓇋𓏠𓈖𓏏𓏛𓏥daily offeringsقرابين يومية",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnw",
+    "meaning_en": "Secret",
+    "meaning_ar": "سر",
+    "hieroglyphs_raw": "imnw𓇋𓏠𓈖𓏌𓍢𓀃𓏛Secretسر",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnt",
+    "meaning_en": "secret place",
+    "meaning_ar": "مكان سري",
+    "hieroglyphs_raw": "imnt𓇋𓏠𓈖𓏏𓉐secret placeمكان سري",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnt",
+    "meaning_en": "secret",
+    "meaning_ar": "سر",
+    "hieroglyphs_raw": "imnt𓇋𓏠𓈖𓏏𓀃secretسر",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnt",
+    "meaning_en": "the hidden one (name of divinity: consort of Amun)",
+    "meaning_ar": "المختفية (اسم إلهة: زوجة الاله امون)",
+    "hieroglyphs_raw": "imnt𓇋𓏠𓈖𓏏𓁐the hidden one (name of divinity: consort of Amun)المختفية (اسم إلهة: زوجة الاله امون)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnt",
+    "meaning_en": "the west, personilized as godess",
+    "meaning_ar": "الغرب، الغرب (مُشَخَّصة كإلهة)",
+    "hieroglyphs_raw": "imnt𓋀𓏏𓈉the west, personilized as godessالغرب، الغرب (مُشَخَّصة كإلهة)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnti",
+    "meaning_en": "westerner",
+    "meaning_ar": "الغربيين",
+    "hieroglyphs_raw": "imnti𓊿𓍘𓇋westernerالغربيين",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnty",
+    "meaning_en": "the west wind",
+    "meaning_ar": "رياح الغرب",
+    "hieroglyphs_raw": "imnty𓋀𓏏𓏭𓊡𓊿𓏏𓊡𓊿𓊡the west windرياح الغرب",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnty",
+    "meaning_en": "right (-hand), western, the west",
+    "meaning_ar": "(اليد) اليُمنى، غربي، الغرب",
+    "hieroglyphs_raw": "imnty𓋀𓏏𓏭𓈉𓋀𓏏𓏭𓈇𓅆𓏏𓏭𓋀𓏏𓏭𓈅right (-hand), western, the west(اليد) اليُمنى، غربي، الغرب",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imnty",
+    "meaning_en": "western",
+    "meaning_ar": "غربي",
+    "hieroglyphs_raw": "imnty𓋀𓏏𓈉𓏭westernغربي",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imntyw",
+    "meaning_en": "westerners, westerners (the dead)",
+    "meaning_ar": "الغربيين، الغربيين (الموتى)",
+    "hieroglyphs_raw": "imntyw𓋀𓅂𓏥𓇋𓏠𓈖𓅂𓊿𓅂𓆄𓏏𓅂westerners, westerners (the dead)الغربيين، الغربيين (الموتى)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imntt",
+    "meaning_en": "The west",
+    "meaning_ar": "الغرب",
+    "hieroglyphs_raw": "imntt𓋀𓏏𓏏𓈉𓋀𓏏𓏏𓈇𓊿𓏏𓏏𓈉The westالغرب",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imr",
+    "meaning_en": "be deaf",
+    "meaning_ar": "يكون أصم",
+    "hieroglyphs_raw": "imr𓇋𓌻𓂋𓄔be deafيكون أصم",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imHt",
+    "meaning_en": "netherworld (used of tomb)",
+    "meaning_ar": "العالم السفلي (تُستخدم للمقبرة)",
+    "hieroglyphs_raw": "imHt𓇋𓐝𓎛𓏏𓉐𓐝𓎛𓏏𓉐netherworld (used of tomb)العالم السفلي (تُستخدم للمقبرة)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "ims ib",
+    "meaning_en": "kindly disposed (to), pleasent (to)",
+    "meaning_ar": "سار (لـ)",
+    "hieroglyphs_raw": "ims ibkindly disposed (to), pleasent (to)سار (لـ)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imsti",
+    "meaning_en": "Imseti (one of the four sons of Horus)",
+    "meaning_ar": "إمستي (واحد من أبناء حور الأربعة)",
+    "hieroglyphs_raw": "imsti𓇋𓅓𓐝𓋴𓍘𓅆𓇋𓅓𓋴𓍘𓅆𓇋𓅓𓋴𓏏𓅆𓐝𓊃𓍘𓇋𓀭Imseti (one of the four sons of Horus)إمستي (واحد من أبناء حور الأربعة)",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imt",
+    "meaning_en": "wine ofimtregion",
+    "meaning_ar": "نبيذ منطقةimt",
+    "hieroglyphs_raw": "imt𓇋𓅓𓏏𓎺𓐝𓏏𓎺wine ofimtregionنبيذ منطقةimt",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imt",
+    "meaning_en": "Tell el-farawn (name of location)",
+    "meaning_ar": "تل الفرعون",
+    "hieroglyphs_raw": "imt𓇋𓐝𓅓𓏏𓀖𓏯𓏯𓊖Tell el-farawn (name of location)تل الفرعون",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imt",
+    "meaning_en": "groaning, grief",
+    "meaning_ar": "حُزن، أنين",
+    "hieroglyphs_raw": "imt𓇋𓐝𓅓𓏏𓀁groaning, griefحُزن، أنين",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imt pr",
+    "meaning_en": "will, testament",
+    "meaning_ar": "وصية، عهد",
+    "hieroglyphs_raw": "imt pr𓏶𓅓𓏏𓏛𓏥𓉐𓏤𓏶𓅓𓏏𓉐𓏛𓏥𓇋𓏏𓏶𓉐𓏤will, testamentوصية، عهد",
+    "phnid": 3,
+    "page": 6
+  },
+  {
+    "transliteration": "imt-nDst",
+    "meaning_en": "stern (of ship)",
+    "meaning_ar": "مؤخرة (السفينة)",
+    "hieroglyphs_raw": "imt-nDst𓏶𓅓𓏏𓈖𓆓𓋴𓏏𓅪stern (of ship)مؤخرة (السفينة)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "imt-HAt.f",
+    "meaning_en": "she who in the front (the royal uraeus)",
+    "meaning_ar": "التي في المقدمة (لصل الملكي)",
+    "hieroglyphs_raw": "imt-HAt.f𓏶𓅓𓏏𓄂𓏏𓏤𓆑𓆘she who in the front (the royal uraeus)التي في المقدمة (لصل الملكي)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "imt(y)",
+    "meaning_en": "foster-child (of the king of Lower Egypt)",
+    "meaning_ar": "الابن بالتبني (لملك مصر السفلى)",
+    "hieroglyphs_raw": "imt(y)𓇋𓐝𓏏𓀖𓀖𓏏foster-child (of the king of Lower Egypt)الابن بالتبني (لملك مصر السفلى)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "imDr",
+    "meaning_en": "rampart",
+    "meaning_ar": "حِصن",
+    "hieroglyphs_raw": "imDr𓇋𓐝𓅓𓇥𓂋𓊅rampartحِصن",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in",
+    "meaning_en": "cordage (of ship)",
+    "meaning_ar": "حبال السفينة",
+    "hieroglyphs_raw": "in𓇋𓆛𓈖𓍢𓏥𓇋𓆛𓈖𓈖𓍢𓏥cordage (of ship)حبال السفينة",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in",
+    "meaning_en": "eyebrows",
+    "meaning_ar": "حاجبي العين",
+    "hieroglyphs_raw": "in𓇋𓆛𓈖𓏯𓏭eyebrowsحاجبي العين",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in",
+    "meaning_en": "by (prep.), non-encl. part., it is, interrog part., emphatic form of prep.n, so says (.....)",
+    "meaning_ar": "بواسطة (حرف جر)، إنه، اداة غير إسنادية، اداة استفهام، صيغة تشديد لحرف الجرn، هكذا يقول .....",
+    "hieroglyphs_raw": "in𓇋𓈖𓇋𓋔by (prep.), non-encl. part., it is, interrog part., emphatic form of prep.n, so says (.....)بواسطة (حرف جر)، إنه، اداة غير إسنادية، اداة استفهام، صيغة تشديد لحرف الجرn، هكذا يقول .....",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in m",
+    "meaning_en": "who?, what?",
+    "meaning_ar": "من؟، ماذا؟",
+    "hieroglyphs_raw": "in m𓇋𓈖𓅓𓂝𓈖𓅓𓂝who?, what?من؟، ماذا؟",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in-m",
+    "meaning_en": "who",
+    "meaning_ar": "مَن، الذي",
+    "hieroglyphs_raw": "in-m𓇋𓈖𓅓𓂝𓇋𓈖𓅓𓈖𓅓𓂝whoمَن، الذي",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in m mH",
+    "meaning_en": "carry off captive",
+    "meaning_ar": "يخطف أسير",
+    "hieroglyphs_raw": "in m mH𓏎𓈖𓅓𓎔𓂡carry off captiveيخطف أسير",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in r-a",
+    "meaning_en": "attain the limits of lands",
+    "meaning_ar": "يبلغ حدود الأرض",
+    "hieroglyphs_raw": "in r-a𓏎𓈖𓂋𓂝𓏤attain the limits of landsيبلغ حدود الأرض",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in-Hrt",
+    "meaning_en": "Onuris (name of divinity)",
+    "meaning_ar": "أنوريس (اسم معبود)",
+    "hieroglyphs_raw": "in-Hrt𓏎𓈖𓎛𓁷𓂋𓏏𓈐𓅆𓏎𓈐𓅆𓏎𓇯𓀭Onuris (name of divinity)أنوريس (اسم معبود)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "in Drw",
+    "meaning_en": "attain the limits (of a place, of strength, of skill)",
+    "meaning_ar": "يبلغ حدود (مكان، قوة، مهارة)",
+    "hieroglyphs_raw": "in Drw𓏎𓈖𓇥𓂋𓅱𓈐𓏥attain the limits (of a place, of strength, of skill)يبلغ حدود (مكان، قوة، مهارة)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "delay (vb.), hold (oneself) aloof from",
+    "meaning_ar": "يؤخر، يعزل نفسه عن",
+    "hieroglyphs_raw": "ini𓇋𓆛𓈖𓂻delay (vb.), hold (oneself) aloof fromيؤخر، يعزل نفسه عن",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "use",
+    "meaning_ar": "يستخدم",
+    "hieroglyphs_raw": "ini𓏎𓈖useيستخدم",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "buy",
+    "meaning_ar": "يشتري",
+    "hieroglyphs_raw": "ini𓏎𓈖buyيشتري",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "appoint (to an office)",
+    "meaning_ar": "يُعَيِّن (في منصب)",
+    "hieroglyphs_raw": "ini𓏎𓈖appoint (to an office)يُعَيِّن (في منصب)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "reach (a place), attain (a place)",
+    "meaning_ar": "يصل الى (مكان)، يبلغ (مكان)",
+    "hieroglyphs_raw": "ini𓏎𓈖reach (a place), attain (a place)يصل الى (مكان)، يبلغ (مكان)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "remove (something bad), overcome (trouble)",
+    "meaning_ar": "يزيل (شيء سيء)، يتغلب على (مصاعب)",
+    "hieroglyphs_raw": "ini𓏎𓈖remove (something bad), overcome (trouble)يزيل (شيء سيء)، يتغلب على (مصاعب)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ini",
+    "meaning_en": "bring, fetch, carry off, bring away, bring about (an event)",
+    "meaning_ar": "يُحضر، يجلب، يحمل بعيدًا، يتسسب في حدوث حَدَث",
+    "hieroglyphs_raw": "ini𓏎𓈖bring, fetch, carry off, bring away, bring about (an event)يُحضر، يجلب، يحمل بعيدًا، يتسسب في حدوث حَدَث",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inyt",
+    "meaning_en": "materials (?) (for handicrafts)",
+    "meaning_ar": "خامات (لمصنوعات يدوية)",
+    "hieroglyphs_raw": "inyt𓇋𓆛𓈖𓇌𓏏𓈒𓏫materials (?) (for handicrafts)خامات (لمصنوعات يدوية)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inyt",
+    "meaning_en": "refrain (?) of song",
+    "meaning_ar": "قرار (؟) لأغنية",
+    "hieroglyphs_raw": "inyt𓏎𓇌𓏏𓀁refrain (?) of songقرار (؟) لأغنية",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "ina",
+    "meaning_en": "chin",
+    "meaning_ar": "ذقن",
+    "hieroglyphs_raw": "inachinذقن",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inat",
+    "meaning_en": "chin",
+    "meaning_ar": "ذقن",
+    "hieroglyphs_raw": "inat𓇋𓆛𓈖𓂝𓏏𓄹chinذقن",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inw",
+    "meaning_en": "pattern, model",
+    "meaning_ar": "نموذج، تصميم",
+    "hieroglyphs_raw": "inw𓇋𓏎𓈖𓏌𓅱𓀁𓏪pattern, modelنموذج، تصميم",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inw",
+    "meaning_en": "matting",
+    "meaning_ar": "مادة خشنة لصنع الحُصر",
+    "hieroglyphs_raw": "inw𓏎𓈖𓏌𓅱𓎅𓏪mattingمادة خشنة لصنع الحُصر",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inw",
+    "meaning_en": "produce (of region), gifts (from palace), tribute (of subject lands), dues (to be paid), quarry (of hunter)",
+    "meaning_ar": "إنتاج (مقاطعة)، هدايا (من القصر)، جزية (الأراضي الخاضعة)، مستحقات (مستحقة الدفع)، صيد الصياد (اسم)",
+    "hieroglyphs_raw": "inw𓏎𓏌𓏥𓏎𓈖𓏌𓅱𓏛𓏥produce (of region), gifts (from palace), tribute (of subject lands), dues (to be paid), quarry (of hunter)إنتاج (مقاطعة)، هدايا (من القصر)، جزية (الأراضي الخاضعة)، مستحقات (مستحقة الدفع)، صيد الصياد (اسم)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inb",
+    "meaning_en": "wall off (a place)",
+    "meaning_ar": "يبني جدار (لفصل مكان)",
+    "hieroglyphs_raw": "inb𓇋𓆛𓈖𓃀𓊅𓂡wall off (a place)يبني جدار (لفصل مكان)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inb",
+    "meaning_en": "wall",
+    "meaning_ar": "جدار",
+    "hieroglyphs_raw": "inb𓇋𓆛𓈖𓃀𓊅𓊅𓏤wallجدار",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inbA",
+    "meaning_en": "be dumb",
+    "meaning_ar": "يكون أبكم",
+    "hieroglyphs_raw": "inbA𓇋𓆛𓈖𓃀𓅡𓄿𓀁be dumbيكون أبكم",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inbw HqA",
+    "meaning_en": "eastern frontier fortress",
+    "meaning_ar": "قلعة الحدود الشرقية",
+    "hieroglyphs_raw": "inbw HqA𓊅𓏤𓏥𓋾𓈎𓀭eastern frontier fortressقلعة الحدود الشرقية",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inbw HD",
+    "meaning_en": "white wall (name of Memphis and its nome)",
+    "meaning_ar": "الجدار الأبيض (اسم مدينة منف ومقاطعتها)",
+    "hieroglyphs_raw": "inbw HD𓊅𓊅𓊅𓌉𓊅𓌉𓇋𓆛𓈖𓃀𓊅𓌉𓏏𓊖white wall (name of Memphis and its nome)الجدار الأبيض (اسم مدينة منف ومقاطعتها)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inbt",
+    "meaning_en": "fence, stockade",
+    "meaning_ar": "سياج",
+    "hieroglyphs_raw": "inbt𓇋𓆛𓈖𓃀𓏏𓆱𓏥𓇋𓆛𓈖𓃀𓊅𓏪fence, stockadeسياج",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inp",
+    "meaning_en": "decay",
+    "meaning_ar": "يضمحل",
+    "hieroglyphs_raw": "inp𓇋𓈖𓊪𓐎decayيضمحل",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inpw",
+    "meaning_en": "royal child, royal child (of princess)",
+    "meaning_ar": "طفل ملكي، طفل ملكي (لأميرة)",
+    "hieroglyphs_raw": "inpw𓇋𓈖𓊪𓅱𓀰𓇋𓈖𓊪𓀖𓃢𓇋𓈖𓊪𓅱𓃢royal child, royal child (of princess)طفل ملكي، طفل ملكي (لأميرة)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inpw",
+    "meaning_en": "Anubis (name of divinity)",
+    "meaning_ar": "الاله انوبيس",
+    "hieroglyphs_raw": "inpw𓇋𓈖𓊪𓅱𓃣𓇋𓈖𓊪𓅱𓃢𓅆𓇋𓈖𓊪𓁢𓃣Anubis (name of divinity)الاله انوبيس",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inm",
+    "meaning_en": "skin (of a man, animal), hues (of sky)",
+    "meaning_ar": "جلد (انسان، حيوان)، درجات الوان (السماء)",
+    "hieroglyphs_raw": "inm𓇋𓆛𓈖𓌰𓅓𓄛𓇋𓆛𓈖𓌰𓅓𓁸𓇋𓆛𓈖𓌰𓅓𓆈skin (of a man, animal), hues (of sky)جلد (انسان، حيوان)، درجات الوان (السماء)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inn",
+    "meaning_en": "we (indep. pron. pl.)",
+    "meaning_ar": "نحن (ضمير منفصل للجمع)",
+    "hieroglyphs_raw": "inn𓇋𓀁𓈖𓈖𓏥𓇋𓏌𓈖𓏥we (indep. pron. pl.)نحن (ضمير منفصل للجمع)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "innk",
+    "meaning_en": "thyme (?), water-mint (?)",
+    "meaning_ar": "زعتر (؟)، نعناع مائي (؟)",
+    "hieroglyphs_raw": "innk𓇋𓆛𓈖𓈖𓎡𓆰𓏥thyme (?), water-mint (?)زعتر (؟)، نعناع مائي (؟)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inr",
+    "meaning_en": "stone, rock, slab, block (of material)",
+    "meaning_ar": "حجر، صخرة، بلاطة، كتلة",
+    "hieroglyphs_raw": "inr𓇋𓈖𓂋𓊌𓊌𓇋𓈖𓊌stone, rock, slab, block (of material)حجر، صخرة، بلاطة، كتلة",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inr n mAT",
+    "meaning_en": "granite",
+    "meaning_ar": "حجر الجرانيت",
+    "hieroglyphs_raw": "inr n mAT𓇋𓈖𓂋𓊌𓈖𓌳𓍿𓏋graniteحجر الجرانيت",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inr n r mw",
+    "meaning_en": "sea-shell",
+    "meaning_ar": "صَدَفة البحر",
+    "hieroglyphs_raw": "inr n r mwsea-shellصَدَفة البحر",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inr n rwDt",
+    "meaning_en": "hard stone (sandstone)",
+    "meaning_ar": "حجر صلب (حجر رملي)",
+    "hieroglyphs_raw": "inr n rwDt𓇋𓈖𓂋𓊌𓌗𓏏𓊌hard stone (sandstone)حجر صلب (حجر رملي)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inr HD",
+    "meaning_en": "white stone (limestone)",
+    "meaning_ar": "حجر أبيض (حجر جيري)",
+    "hieroglyphs_raw": "inr HD𓇋𓈖𓂋𓊌𓋠𓈒𓏥𓇋𓈖𓂋𓊌𓌉white stone (limestone)حجر أبيض (حجر جيري)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inry",
+    "meaning_en": "shudder",
+    "meaning_ar": "يرتجف",
+    "hieroglyphs_raw": "inry𓇋𓀁𓈖𓂋𓇌𓏯𓀜𓇋𓀁𓈖𓂋𓅐𓇋𓍢𓈖𓂋𓍢𓏯shudderيرتجف",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inhmn",
+    "meaning_en": "pomegranate (tree and fruit)",
+    "meaning_ar": "رمان (شجر و ثمار)",
+    "hieroglyphs_raw": "inhmn𓇋𓈖𓉔𓏠𓆭𓈖𓉔𓏥𓌴𓁹𓄿𓄿𓈒𓏥pomegranate (tree and fruit)رمان (شجر و ثمار)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inH",
+    "meaning_en": "a piece of rim",
+    "meaning_ar": "جزء من إطار",
+    "hieroglyphs_raw": "inH𓇋𓆛𓈖𓎛𓂷𓂡a piece of rimجزء من إطار",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inH",
+    "meaning_en": "surround, enclose, rim (a vessel with glod)",
+    "meaning_ar": "يحيط، يطوق، يؤطِّر (آنية بالذهب)",
+    "hieroglyphs_raw": "inH𓇋𓆛𓈖𓎛𓍢𓂡surround, enclose, rim (a vessel with glod)يحيط، يطوق، يؤطِّر (آنية بالذهب)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inH",
+    "meaning_en": "eyebrows",
+    "meaning_ar": "حاجبي العين",
+    "hieroglyphs_raw": "inH𓇋𓆛𓈖𓎛𓏯𓏯𓇋𓆛𓈖𓎛𓁸eyebrowsحاجبي العين",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inHAst",
+    "meaning_en": "lotus-leaves (?)",
+    "meaning_ar": "أوراق زهرة اللوتس (؟)",
+    "hieroglyphs_raw": "inHAst𓏎𓈖𓇉𓄿𓋴𓏏𓂂𓏫lotus-leaves (?)أوراق زهرة اللوتس (؟)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "insy",
+    "meaning_en": "bright-red linen",
+    "meaning_ar": "كتان أحمر فاتح",
+    "hieroglyphs_raw": "insy𓇋𓆛𓈖𓋴𓏭𓋳𓇋𓆛𓈖𓋴𓋳𓇋𓆛𓈖𓊃𓏭𓋳bright-red linenكتان أحمر فاتح",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inst",
+    "meaning_en": "calf (of leg), shank (of man , of animal)",
+    "meaning_ar": "سِمَّانِة (الرِجل)، عرقوب (انسان او حيوان)",
+    "hieroglyphs_raw": "inst𓇋𓆛𓈖𓋴𓏏𓂾𓇋𓆛𓈖𓋴𓏏𓄙calf (of leg), shank (of man , of animal)سِمَّانِة (الرِجل)، عرقوب (انسان او حيوان)",
+    "phnid": 3,
+    "page": 7
+  },
+  {
+    "transliteration": "inq",
+    "meaning_en": "unite (the two lands), collect, gather together, embrace, come together (for persons)",
+    "meaning_ar": "يوحد (الارضين)، يجمع، يجمع معًا، يحتضن، يتضافروا (للاشخاص)",
+    "hieroglyphs_raw": "inq𓇋𓆛𓈖𓈎𓂘𓂝𓇋𓈖𓈎𓂘𓇋𓆛𓈖𓈎𓂡𓇋𓆛𓈖𓈎𓂷𓂡unite (the two lands), collect, gather together, embrace, come together (for persons)يوحد (الارضين)، يجمع، يجمع معًا، يحتضن، يتضافروا (للاشخاص)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ink",
+    "meaning_en": "I (independent pronoun), belonging to me",
+    "meaning_ar": "أنا، ينتمي لي",
+    "hieroglyphs_raw": "ink𓏌𓎡𓇋𓏌𓎡𓏌𓎡𓀀I (independent pronoun), belonging to meأنا، ينتمي لي",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "int",
+    "meaning_en": "valley",
+    "meaning_ar": "وادي",
+    "hieroglyphs_raw": "int𓇋𓆛𓈖𓏏𓈉𓇋𓆛𓏏𓈉valleyوادي",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "int",
+    "meaning_en": "the bulti-fish",
+    "meaning_ar": "سمك بلطي",
+    "hieroglyphs_raw": "int𓇋𓆛𓈖𓏏𓆛𓇋𓈖𓏏𓆛the bulti-fishسمك بلطي",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "int rd",
+    "meaning_en": "(the rite of) removing the footprint",
+    "meaning_ar": "(طقس) ازالة اثر القدم على الأرض",
+    "hieroglyphs_raw": "int rd𓏎𓈖𓏏𓂋𓂧𓂾(the rite of) removing the footprint(طقس) ازالة اثر القدم على الأرض",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "inty",
+    "meaning_en": "hinder, linger",
+    "meaning_ar": "يعوق، يتوانى",
+    "hieroglyphs_raw": "inty𓇋𓆛𓈖𓏏𓏭𓂾𓂻hinder, lingerيعوق، يتوانى",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "intnt",
+    "meaning_en": "hold back, restrain",
+    "meaning_ar": "يكبح",
+    "hieroglyphs_raw": "intnt𓇋𓈖𓏏𓈖𓏏𓂽hold back, restrainيكبح",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "inT",
+    "meaning_en": "fetter (vb.)",
+    "meaning_ar": "يعيق",
+    "hieroglyphs_raw": "inT𓇋𓆛𓈖𓍿𓍢𓇋𓈖𓏏𓍢𓇋𓆛𓈖𓏏𓀜fetter (vb.)يعيق",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "inTt",
+    "meaning_en": "fetter (n.)",
+    "meaning_ar": "فيود",
+    "hieroglyphs_raw": "inTt𓇋𓈖𓍿𓏏𓍢𓇋𓆛𓈖𓏏𓏏𓍢fetter (n.)فيود",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ind",
+    "meaning_en": "the afflicted man",
+    "meaning_ar": "الرجل المنكوب",
+    "hieroglyphs_raw": "ind𓇋𓆛𓈖𓂧𓅪𓀀the afflicted manالرجل المنكوب",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "indw",
+    "meaning_en": "misery",
+    "meaning_ar": "misery",
+    "hieroglyphs_raw": "indw𓇋𓆛𓈖𓂧𓍢𓅪𓇋𓆛𓈖𓂧𓅪𓏫miserymisery",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "inD",
+    "meaning_en": "be afflicted",
+    "meaning_ar": "مُبتلى",
+    "hieroglyphs_raw": "inD𓇋𓆛𓈖𓆓𓁣be afflictedمُبتلى",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "inD-Hr",
+    "meaning_en": "hail to .....",
+    "meaning_ar": "تحية إلى .....",
+    "hieroglyphs_raw": "inD-Hr𓇋𓐩𓆓𓏛𓁷𓏤hail to .....تحية إلى .....",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "full form of prep.r, if, as to (non-encl. part.)",
+    "meaning_ar": "الشكل الكامل لحرف الجرr، أو، اذا (أداة غير اسنادية)",
+    "hieroglyphs_raw": "ir𓇋𓂋full form of prep.r, if, as to (non-encl. part.)الشكل الكامل لحرف الجرr، أو، اذا (أداة غير اسنادية)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "lay out (a garden), cultivate (crops), perform (a miracle), prepare (food and drink), garner (corn), read aloud (a book), recite (a spell), spend, pass (time), traverse (lands), conduct (an expedition), inflict (a wound), marshal (a force)",
+    "meaning_ar": "يخطط (حديقة)، يزرع (المحاصيل)، يصنع (معجزة)، يُحَضِّر (طعام وشراب)، يدَّخر (غلال)، يقرأ بصوت عال (كتاب)، يتلو (تعويذة)، يقضي (وقت)، يعبر خلال (أرض)، يقوم بـ (بعثة - حملة)، يتسبب في (جرح)، يقود (قوة)",
+    "hieroglyphs_raw": "ir𓁹lay out (a garden), cultivate (crops), perform (a miracle), prepare (food and drink), garner (corn), read aloud (a book), recite (a spell), spend, pass (time), traverse (lands), conduct (an expedition), inflict (a wound), marshal (a force)يخطط (حديقة)، يزرع (المحاصيل)، يصنع (معجزة)، يُحَضِّر (طعام وشراب)، يدَّخر (غلال)، يقرأ بصوت عال (كتاب)، يتلو (تعويذة)، يقضي (وقت)، يعبر خلال (أرض)، يقوم بـ (بعثة - حملة)، يتسبب في (جرح)، يقود (قوة)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "succeed, make prosperous, maintain",
+    "meaning_ar": "ينجح، يُثري، يصون",
+    "hieroglyphs_raw": "ir𓁹succeed, make prosperous, maintainينجح، يُثري، يصون",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "prepare (remedy), apply (a remedy), treat (an ailment)",
+    "meaning_ar": "يُحَضِّر (دواء)، يستخدم (دواء)، يعالج (مرض)",
+    "hieroglyphs_raw": "ir𓁹prepare (remedy), apply (a remedy), treat (an ailment)يُحَضِّر (دواء)، يستخدم (دواء)، يعالج (مرض)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "achieve (a result or purpose)",
+    "meaning_ar": "يحقق (نتيجة أو هدف)",
+    "hieroglyphs_raw": "ir𓁹achieve (a result or purpose)يحقق (نتيجة أو هدف)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "act, take action, act as, in the capacity of (an official, etc.), exercise (an office), appoint (officials)",
+    "meaning_ar": "يتصرف، يعمل، يعمل كـ، بصفة (موظف رسمي ... الخ )، يمارس مهام وظيفة، يُعَيِّن (موظفين رسميين)",
+    "hieroglyphs_raw": "ir𓁹act, take action, act as, in the capacity of (an official, etc.), exercise (an office), appoint (officials)يتصرف، يعمل، يعمل كـ، بصفة (موظف رسمي ... الخ )، يمارس مهام وظيفة، يُعَيِّن (موظفين رسميين)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "do (good, evil, justice)",
+    "meaning_ar": "يصنع (خيرًا، شرًا، العدالة)",
+    "hieroglyphs_raw": "ir𓁹do (good, evil, justice)يصنع (خيرًا، شرًا، العدالة)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "doer (of good)",
+    "meaning_ar": "فاعل (الخير)",
+    "hieroglyphs_raw": "ir𓁹𓀀doer (of good)فاعل (الخير)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "stand guard against",
+    "meaning_ar": "يحرس ضد",
+    "hieroglyphs_raw": "ir𓁹𓀸𓄿𓅱𓏏𓂡𓏥stand guard againstيحرس ضد",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir",
+    "meaning_en": "do, make, create, beget (human beings), make, construct (concrete things), make (decrees, laws, written documents), make abstracts (e.g. trouble), make a (fair) name, make actions (e.g. an assault), make (a flight), make (noise)",
+    "meaning_ar": "يعمل، يصنع، يخلق، يوجِد (بَشَر)، يصنع، يشَيِّد (اشياء ملموسة)، يُصدِر (قوانين، مراسيم، وثائق مكتوبة)، يقوم بأفعال مجردة (مشاكل،....الخ)، يقوم بأعمال (هجوم، ....الخ)، يقوم (برحلة)، يعمل (ضوضاء)",
+    "hieroglyphs_raw": "ir𓁹do, make, create, beget (human beings), make, construct (concrete things), make (decrees, laws, written documents), make abstracts (e.g. trouble), make a (fair) name, make actions (e.g. an assault), make (a flight), make (noise)يعمل، يصنع، يخلق، يوجِد (بَشَر)، يصنع، يشَيِّد (اشياء ملموسة)، يُصدِر (قوانين، مراسيم، وثائق مكتوبة)، يقوم بأفعال مجردة (مشاكل،....الخ)، يقوم بأعمال (هجوم، ....الخ)، يقوم (برحلة)، يعمل (ضوضاء)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir Axt n",
+    "meaning_en": "do good to",
+    "meaning_ar": "يفعل الخير لـ",
+    "hieroglyphs_raw": "ir Axt ndo good toيفعل الخير لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir At",
+    "meaning_en": "spend a while",
+    "meaning_ar": "يمضي بعض الوقت",
+    "hieroglyphs_raw": "ir Atspend a whileيمضي بعض الوقت",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir At nfrt",
+    "meaning_en": "spend a happy time",
+    "meaning_ar": "يقضي وقت ممتع",
+    "hieroglyphs_raw": "ir At nfrtspend a happy timeيقضي وقت ممتع",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir ib",
+    "meaning_en": "do the will of",
+    "meaning_ar": "يصنع مشيئة ....",
+    "hieroglyphs_raw": "ir ib𓁹𓄣𓏤do the will ofيصنع مشيئة ....",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir irw",
+    "meaning_en": "levy the cattle-tax",
+    "meaning_ar": "يفرض ضريبة الماشية",
+    "hieroglyphs_raw": "ir irw𓁹𓇋𓁹𓂋𓅱𓃒levy the cattle-taxيفرض ضريبة الماشية",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir ihhy",
+    "meaning_en": "rejoice, acclaim (someone)",
+    "meaning_ar": "يبتهج، يهتف لـ",
+    "hieroglyphs_raw": "ir ihhy𓁹𓇋𓉔𓉔𓇋𓇋𓀁rejoice, acclaim (someone)يبتهج، يهتف لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir-anx",
+    "meaning_en": "make provisions (for someone), provide",
+    "meaning_ar": "يقَدِّم مؤن (إلى شخص)",
+    "hieroglyphs_raw": "ir-anx𓁹𓋹𓈖𓐍make provisions (for someone), provideيقَدِّم مؤن (إلى شخص)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir ant",
+    "meaning_en": "trim the nails",
+    "meaning_ar": "يقلم الأظافر",
+    "hieroglyphs_raw": "ir ant𓁹𓄏𓏏𓏤𓈓trim the nailsيقلم الأظافر",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir aqw",
+    "meaning_en": "make provisions",
+    "meaning_ar": "يزود بالمؤن",
+    "hieroglyphs_raw": "ir aqwmake provisionsيزود بالمؤن",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir wAt n",
+    "meaning_en": "prepare a way for",
+    "meaning_ar": "يُعد الطريق لـ",
+    "hieroglyphs_raw": "ir wAt nprepare a way forيُعد الطريق لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir wpwt Hna",
+    "meaning_en": "punish",
+    "meaning_ar": "يعاقِب",
+    "hieroglyphs_raw": "ir wpwt Hnapunishيعاقِب",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir wSb",
+    "meaning_en": "make answer",
+    "meaning_ar": "يجاوب",
+    "hieroglyphs_raw": "ir wSbmake answerيجاوب",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir wSb Hr",
+    "meaning_en": "answer for someone (protect someone)",
+    "meaning_ar": "يجاوب عن شخص (يحميه)",
+    "hieroglyphs_raw": "ir wSb Hranswer for someone (protect someone)يجاوب عن شخص (يحميه)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir bi",
+    "meaning_en": "set a good example",
+    "meaning_ar": "يصنع مثالا يحتذى به",
+    "hieroglyphs_raw": "ir bi𓁹𓃀𓇋𓈞𓄑𓏛𓏥set a good exampleيصنع مثالا يحتذى به",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir m",
+    "meaning_en": "make into, change, transform into, act in accordance with",
+    "meaning_ar": "يتغير إلى، يتصرف وفقًا لـ",
+    "hieroglyphs_raw": "ir m𓁹𓅓make into, change, transform into, act in accordance withيتغير إلى، يتصرف وفقًا لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir m sS",
+    "meaning_en": "put into writing",
+    "meaning_ar": "يصيغ بطريقة مكتوبة",
+    "hieroglyphs_raw": "ir m sS𓁹𓅓𓏞𓏛𓏥put into writingيصيغ بطريقة مكتوبة",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mAw m",
+    "meaning_en": "make inspection of, look into",
+    "meaning_ar": "يعمل تفتيش على، يفحص",
+    "hieroglyphs_raw": "ir mAw m𓁹𓌴𓁹𓅱𓁹𓏥𓅓make inspection of, look intoيعمل تفتيش على، يفحص",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mi",
+    "meaning_en": "act like, act in accordance with",
+    "meaning_ar": "يتصرف كـ، يتصرف وفقًا لـ",
+    "hieroglyphs_raw": "ir mi𓁹𓏇act like, act in accordance withيتصرف كـ، يتصرف وفقًا لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mi mAat",
+    "meaning_en": "do what is right for",
+    "meaning_ar": "يصنع ما هو أفضل لـ",
+    "hieroglyphs_raw": "ir mi mAat𓁹𓏇𓇋𓆄𓏏𓏤𓈖do what is right forيصنع ما هو أفضل لـ",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mi xpr",
+    "meaning_en": "act properly (do as should be done)",
+    "meaning_ar": "يتصرف بطريقة صحيحة (يفعل ما يجب فعله)",
+    "hieroglyphs_raw": "ir mi xpr𓁹𓏇𓇋𓆣𓂋act properly (do as should be done)يتصرف بطريقة صحيحة (يفعل ما يجب فعله)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mnxt",
+    "meaning_en": "do good",
+    "meaning_ar": "عمل الخير",
+    "hieroglyphs_raw": "ir mnxt𓁹𓏠𓈖𓐍𓏏𓍊𓏛𓏥do goodعمل الخير",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mXrw",
+    "meaning_en": "govern a land, do someone's business, provide for someone",
+    "meaning_ar": "يحكم أرض، القيام بأعمال لصالح شخص ما، يُزَوِّد شخص ما",
+    "hieroglyphs_raw": "ir mXrw𓁹𓅓𓌨𓂋𓅱𓏛𓏥govern a land, do someone's business, provide for someoneيحكم أرض، القيام بأعمال لصالح شخص ما، يُزَوِّد شخص ما",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mTn",
+    "meaning_en": "obey",
+    "meaning_ar": "يطيع، يمتثل",
+    "hieroglyphs_raw": "ir mTn𓁹𓅓𓍿𓈖𓅯𓈐obeyيطيع، يمتثل",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir mDAt",
+    "meaning_en": "read a book aloud",
+    "meaning_ar": "يقرأ كتاب بصوت مسموع",
+    "hieroglyphs_raw": "ir mDAt𓁹𓏛𓏏𓏤read a book aloudيقرأ كتاب بصوت مسموع",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir-n",
+    "meaning_en": "do for, act on behalf of, help, serve god, serve a superior",
+    "meaning_ar": "يتصرف بالنيابة عن، يساعِد، يعمل شيء لصالح، يخدم (إله)، يخدم (شخص أفضل منزلة)",
+    "hieroglyphs_raw": "ir-n𓁹𓈖do for, act on behalf of, help, serve god, serve a superiorيتصرف بالنيابة عن، يساعِد، يعمل شيء لصالح، يخدم (إله)، يخدم (شخص أفضل منزلة)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir-n",
+    "meaning_en": "made by, born of, engendered by (in filiations)",
+    "meaning_ar": "مصنوع بواسطة، مولود من",
+    "hieroglyphs_raw": "ir-n𓁹𓈖made by, born of, engendered by (in filiations)مصنوع بواسطة، مولود من",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir.n.i mnt im.i",
+    "meaning_en": "i have proved it myself",
+    "meaning_ar": "لقد اثبته بنفسي",
+    "hieroglyphs_raw": "ir.n.i mnt im.ii have proved it myselfلقد اثبته بنفسي",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir nwdw",
+    "meaning_en": "swing awry, act perversely, make a travesty of",
+    "meaning_ar": "يتأرجح بعيداً، يتصرف بشكل معاكس، يقلد بطريقة سيئة",
+    "hieroglyphs_raw": "ir nwdw𓁹𓈖𓍇𓏌𓅱𓂧swing awry, act perversely, make a travesty ofيتأرجح بعيداً، يتصرف بشكل معاكس، يقلد بطريقة سيئة",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir nhw",
+    "meaning_en": "show less of (a bad quality)",
+    "meaning_ar": "اظهار اقل من (نوعية رديئة)",
+    "hieroglyphs_raw": "ir nhw𓁹𓈖𓉔𓅱𓅪show less of (a bad quality)اظهار اقل من (نوعية رديئة)",
+    "phnid": 3,
+    "page": 8
+  },
+  {
+    "transliteration": "ir nkn",
+    "meaning_en": "do harm",
+    "meaning_ar": "يضر، يؤذي",
+    "hieroglyphs_raw": "ir nkn𓁹𓈖𓎡𓈖𓂿do harmيضر، يؤذي",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir r",
+    "meaning_en": "make for (a place), deal with (an accusation), act against, injure, arrange to do something, act with a view to (a purpose)",
+    "hieroglyphs_raw": "ir r𓁹𓂋make for (a place), deal with (an accusation), act against, injure, arrange to do something, act with a view to (a purpose)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir r",
+    "meaning_en": "make for (a place), deal with (an accusation), act against, injure, arrange to do something, act with a view to (a purpose)",
+    "hieroglyphs_raw": "ir r𓁹𓂋make for (a place), deal with (an accusation), act against, injure, arrange to do something, act with a view to (a purpose)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir rnpwt",
+    "meaning_en": "spend years, pass years",
+    "meaning_ar": "يقضي السنين، يجتاز السنوات",
+    "hieroglyphs_raw": "ir rnpwt𓁹𓆳𓏏𓏥spend years, pass yearsيقضي السنين، يجتاز السنوات",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir hAw.f",
+    "meaning_en": "Spend his life",
+    "meaning_ar": "قضى حياته",
+    "hieroglyphs_raw": "ir hAw.f𓁹𓉔𓄿𓅱𓏛𓏥𓆑Spend his lifeقضى حياته",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir HAw Hr bAkw",
+    "meaning_en": "do more than the impost",
+    "meaning_ar": "يقوم بأكثر من الضريبة المفروضة",
+    "hieroglyphs_raw": "ir HAw Hr bAkwdo more than the impostيقوم بأكثر من الضريبة المفروضة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir HAt",
+    "meaning_en": "get in front of",
+    "meaning_ar": "يصبح أمام",
+    "hieroglyphs_raw": "ir HAt𓁹𓄂𓏏𓏤get in front ofيصبح أمام",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir-Hmw",
+    "meaning_en": "guide the helm",
+    "meaning_ar": "يوجه الدفة",
+    "hieroglyphs_raw": "ir-Hmw𓁹𓈞𓅓𓍢𓊦guide the helmيوجه الدفة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Hmt",
+    "meaning_en": "take a wife",
+    "meaning_ar": "يأخذ زوجة",
+    "hieroglyphs_raw": "ir Hmt𓁹𓈞𓏏𓁐take a wifeيأخذ زوجة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Hna",
+    "meaning_en": "act in conjunction with",
+    "meaning_ar": "يعمل بالاشتراك مع",
+    "hieroglyphs_raw": "ir Hna𓁹𓎛𓈖𓂝act in conjunction withيعمل بالاشتراك مع",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Hr",
+    "meaning_en": "do the bidding of",
+    "meaning_ar": "يعمل مشيئة شخص",
+    "hieroglyphs_raw": "ir Hr𓁹𓁷𓏤do the bidding ofيعمل مشيئة شخص",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Hsst",
+    "meaning_en": "do what is praiseworthy, perform rites",
+    "meaning_ar": "يفعل اشياء يُحمد لاجلها، يقوم  بممارسة طقوس",
+    "hieroglyphs_raw": "ir Hsst𓁹𓎛𓎿𓊃𓊃𓏏𓁹𓎿𓋴𓋴𓏏do what is praiseworthy, perform ritesيفعل اشياء يُحمد لاجلها، يقوم  بممارسة طقوس",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Htpw",
+    "meaning_en": "make peace",
+    "meaning_ar": "يصنع سلام",
+    "hieroglyphs_raw": "ir Htpw𓁹𓊵𓏏𓊪𓅱𓏛𓏥make peaceيصنع سلام",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir xft",
+    "meaning_en": "act in accordance with, deal with a task",
+    "meaning_ar": "يتصرف وفقًا لـ",
+    "hieroglyphs_raw": "ir xft𓁹𓐍𓏏𓆑act in accordance with, deal with a taskيتصرف وفقًا لـ",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir xt r",
+    "meaning_en": "do something against, set upon someone",
+    "meaning_ar": "يهاجم شخص ما، يفعل شيء ضد شخص",
+    "hieroglyphs_raw": "ir xt r𓁹𓐍𓏏𓂋do something against, set upon someoneيهاجم شخص ما، يفعل شيء ضد شخص",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir sp Hna",
+    "meaning_en": "deal with",
+    "meaning_ar": "يتعامل مع",
+    "hieroglyphs_raw": "ir sp Hna𓁹𓊃𓊪𓊗𓎛𓈖𓂝deal withيتعامل مع",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir st m",
+    "meaning_en": "be busy with",
+    "meaning_ar": "مشغول بـ",
+    "hieroglyphs_raw": "ir st m𓁹𓊨𓏏𓉐𓅓be busy withمشغول بـ",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Smt",
+    "meaning_en": "do business",
+    "meaning_ar": "يقوم بأعمال",
+    "hieroglyphs_raw": "ir Smt𓁹𓈝𓅓𓏏𓂻do businessيقوم بأعمال",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir Sd nxn n",
+    "meaning_en": "act as guardian to (a minor)",
+    "meaning_ar": "يعمل كوصي لـ (شخص قاصر)",
+    "hieroglyphs_raw": "ir Sd nxn nact as guardian to (a minor)يعمل كوصي لـ (شخص قاصر)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir qd",
+    "meaning_en": "achieve a (good) reputation, achieve success",
+    "meaning_ar": "يحقق سمعة (جيدة)، يحقق نجاح",
+    "hieroglyphs_raw": "ir qd𓁹𓐪𓂧𓂂𓏛achieve a (good) reputation, achieve successيحقق سمعة (جيدة)، يحقق نجاح",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir kAt m",
+    "meaning_en": "adopt a profession as",
+    "meaning_ar": "يتخذ وظيفة كـ",
+    "hieroglyphs_raw": "ir kAt m𓁹𓂓𓏏𓀋𓏛𓅓adopt a profession asيتخذ وظيفة كـ",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "ir-gs-n",
+    "meaning_en": "halve",
+    "meaning_ar": "يُنَصِّف (جعل الشىء نصفين)",
+    "hieroglyphs_raw": "ir-gs-n𓁹𓐞𓏤𓈖halveيُنَصِّف (جعل الشىء نصفين)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iri",
+    "meaning_en": "companion",
+    "meaning_ar": "رفيق، سمير",
+    "hieroglyphs_raw": "iri𓇋𓂋𓇋companionرفيق، سمير",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iri Snw",
+    "meaning_en": "coiffeur",
+    "meaning_ar": "مصفف الشعر",
+    "hieroglyphs_raw": "iri Snw𓁹𓁸coiffeurمصفف الشعر",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry",
+    "meaning_en": "keeper",
+    "meaning_ar": "حافظ، حارس، أمين",
+    "hieroglyphs_raw": "iry𓇋𓂋𓏭𓀺keeperحافظ، حارس، أمين",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry",
+    "meaning_en": "thereof, thereto",
+    "meaning_ar": "ومن ذلك",
+    "hieroglyphs_raw": "iry𓇋𓂋𓏭𓇋𓂋𓏥thereof, theretoومن ذلك",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry",
+    "meaning_en": "relating to (adj.)",
+    "meaning_ar": "متعلق بـ، الخاص بـ",
+    "hieroglyphs_raw": "iry𓇋𓂋𓏭𓀹relating to (adj.)متعلق بـ، الخاص بـ",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry",
+    "meaning_en": "relating to, towards, which is at, who is at",
+    "meaning_ar": "مرتبط بـ، مختص بـ، الذي هو ناحية",
+    "hieroglyphs_raw": "iry𓇋𓂋𓏭relating to, towards, which is at, who is atمرتبط بـ، مختص بـ، الذي هو ناحية",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry.i Hst.k",
+    "meaning_en": "i will do your pleasure",
+    "meaning_ar": "سأفعل ما يسرك",
+    "hieroglyphs_raw": "iry.i Hst.k𓁹𓇋𓇋𓎛𓎿𓋴𓏏𓎡i will do your pleasureسأفعل ما يسرك",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-aA",
+    "meaning_en": "door-keeper",
+    "meaning_ar": "حاجب (حارس الباب)",
+    "hieroglyphs_raw": "iry-aA𓀺𓉿𓇋𓂋𓉻𓂝𓉿𓇋𓂋𓏭𓀺𓉻𓉿𓀀door-keeperحاجب (حارس الباب)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-at",
+    "meaning_en": "hall-keeper",
+    "meaning_ar": "القيم على القاعة",
+    "hieroglyphs_raw": "iry-at𓀺𓂝𓏏𓉐hall-keeperالقيم على القاعة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry wpt",
+    "meaning_en": "wig",
+    "meaning_ar": "شعر مستعار",
+    "hieroglyphs_raw": "iry wptwigشعر مستعار",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-pDt",
+    "meaning_en": "bowman",
+    "meaning_ar": "رامي السهام",
+    "hieroglyphs_raw": "iry-pDt𓀺𓌔𓏏𓏤bowmanرامي السهام",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-mxAt",
+    "meaning_en": "keeper of the balance",
+    "meaning_ar": "المسؤول عن الميزان",
+    "hieroglyphs_raw": "iry-mxAt𓀺𓍝keeper of the balanceالمسؤول عن الميزان",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-mDAt",
+    "meaning_en": "letter-carrier",
+    "meaning_ar": "حامل الرسائل",
+    "hieroglyphs_raw": "iry-mDAt𓂋𓏝𓀀𓇋𓂋𓏤𓏛𓏤letter-carrierحامل الرسائل",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-nfr-HAt",
+    "meaning_en": "keeper of the king's diadem (title)",
+    "meaning_ar": "حافظ غطاء راس الملك (لقب)",
+    "hieroglyphs_raw": "iry-nfr-HAt𓇋𓂋𓏭𓀹𓄤𓄂keeper of the king's diadem (title)حافظ غطاء راس الملك (لقب)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-nfr-HAT",
+    "meaning_en": "keeper of the diadem",
+    "meaning_ar": "القيم على الإكليل",
+    "hieroglyphs_raw": "iry-nfr-HAT𓀺𓄤𓄂𓏏𓂋𓄤𓄂𓏏keeper of the diademالقيم على الإكليل",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-rdwy",
+    "meaning_en": "one in attendance on",
+    "meaning_ar": ".",
+    "hieroglyphs_raw": "iry-rdwy𓇋𓂋𓏭𓀺𓂋𓂧𓂾𓂾one in attendance on.",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-hp",
+    "meaning_en": "custodian of laws",
+    "meaning_ar": "القيم على القوانين",
+    "hieroglyphs_raw": "iry-hp𓀺𓉔𓊪𓏛custodian of lawsالقيم على القوانين",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-HAt",
+    "meaning_en": "pilot",
+    "meaning_ar": "مرشد، دليل",
+    "hieroglyphs_raw": "iry-HAt𓇋𓂋𓏭𓀺𓄂𓏏𓏤pilotمرشد، دليل",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry Hmw",
+    "meaning_en": "helmsman",
+    "meaning_ar": "قائد الدفة",
+    "hieroglyphs_raw": "iry Hmw𓇋𓂋𓏭𓈞𓅓𓏲𓊦helmsmanقائد الدفة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-xt",
+    "meaning_en": "overseer, administrator",
+    "meaning_ar": "مدير، مشرف",
+    "hieroglyphs_raw": "iry-xt𓀺𓐍𓏏𓏛𓏥overseer, administratorمدير، مشرف",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-sA",
+    "meaning_en": "keeper of the cattle-pens",
+    "meaning_ar": "القيم على حظائر الماشية",
+    "hieroglyphs_raw": "iry-sA𓇋𓂋𓏭𓀺𓐠𓏤𓉐keeper of the cattle-pensالقيم على حظائر الماشية",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iry-sSm",
+    "meaning_en": "functionary",
+    "meaning_ar": "موظف",
+    "hieroglyphs_raw": "iry-sSm𓇋𓂋𓀺𓋴𓌬𓅓𓏛𓀀𓀺𓋴𓌬functionaryموظف",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iryw",
+    "meaning_en": "crew (of boat)",
+    "meaning_ar": "طاقم (مركب)",
+    "hieroglyphs_raw": "iryw𓇋𓂋𓀺𓀀𓏪crew (of boat)طاقم (مركب)",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iryt",
+    "meaning_en": "milch-cow",
+    "meaning_ar": "بقرة حلوب",
+    "hieroglyphs_raw": "iryt𓇋𓁹𓇌𓏏𓃒milch-cowبقرة حلوب",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "iryt",
+    "meaning_en": "tax-corn",
+    "meaning_ar": "حبوب للضرائب",
+    "hieroglyphs_raw": "iryt𓇋𓁹𓇌𓏏𓌽𓏥tax-cornحبوب للضرائب",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irw",
+    "meaning_en": "shape, form, nature",
+    "meaning_ar": "هيئة، صورة، طبيعة",
+    "hieroglyphs_raw": "irw𓇋𓁹𓅱𓀾𓏤𓀾𓅱𓏛𓏥𓇋𓁹𓀾shape, form, natureهيئة، صورة، طبيعة",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irw",
+    "meaning_en": "cattle-tax",
+    "meaning_ar": "ضريبة الماشية",
+    "hieroglyphs_raw": "irw𓇋𓁹𓂋𓅱𓃒𓁹𓂋𓅱𓏛𓏥𓁹𓇌𓏪cattle-taxضريبة الماشية",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irp",
+    "meaning_en": "wine",
+    "meaning_ar": "نبيذ",
+    "hieroglyphs_raw": "irp𓇋𓂋𓊪𓏊𓏥𓇋𓂋𓊪𓏉𓇋𓂋𓊪𓇭wineنبيذ",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irf",
+    "meaning_en": "full form of encl. part.rf",
+    "meaning_ar": "الصورة الكاملة من الاداة الاسناديةrf",
+    "hieroglyphs_raw": "irf𓇋𓂋𓆑full form of encl. part.rfالصورة الكاملة من الاداة الاسناديةrf",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irr",
+    "meaning_en": "(evil-)doer",
+    "meaning_ar": "فاعل الشر",
+    "hieroglyphs_raw": "irr𓁹𓂋𓀀(evil-)doerفاعل الشر",
+    "phnid": 3,
+    "page": 9
+  },
+  {
+    "transliteration": "irt",
+    "meaning_en": "eye",
+    "meaning_ar": "عين",
+    "hieroglyphs_raw": "irt𓁹𓏏𓏤eyeعين",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irt",
+    "meaning_en": "duty (of someone), use , purpose (of something)",
+    "meaning_ar": "استعمال، استخدام (شيء ما)، مهمة (شخص ما)",
+    "hieroglyphs_raw": "irt𓇋𓂋𓏏𓀺𓏛𓇋𓁹𓏏𓀺𓀺𓏏𓏥𓇋𓂋𓏏𓇋𓂋𓏏𓏛𓀺𓏛𓏪duty (of someone), use , purpose (of something)استعمال، استخدام (شيء ما)، مهمة (شخص ما)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irt",
+    "meaning_en": "companion (Fem.)",
+    "meaning_ar": "رفيقة، سميرة",
+    "hieroglyphs_raw": "irt𓇋𓂋𓏏𓀺companion (Fem.)رفيقة، سميرة",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irt mi xpr",
+    "meaning_en": "the correct procedure",
+    "meaning_ar": "الإجراء الصحيح",
+    "hieroglyphs_raw": "irt mi xpr𓁹𓏏𓏇𓇋𓆣𓂋the correct procedureالإجراء الصحيح",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irt nb",
+    "meaning_en": "every eye (everyone)",
+    "meaning_ar": "كل عين (كل شخص)",
+    "hieroglyphs_raw": "irt nb𓁹𓏏𓏤𓎟every eye (everyone)كل عين (كل شخص)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irt-Snbt",
+    "meaning_en": "pectoral",
+    "meaning_ar": "صدرية",
+    "hieroglyphs_raw": "irt-Snbtpectoralصدرية",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irtyw",
+    "meaning_en": "blue (adj), color (n.), a blue mineral (?)",
+    "meaning_ar": "أزرق (صفة)، لون، معدن أزرق (؟)",
+    "hieroglyphs_raw": "irtyw𓇋𓁹𓏏𓅂𓈒𓏥𓇋𓁹𓅂𓈒𓏥blue (adj), color (n.), a blue mineral (?)أزرق (صفة)، لون، معدن أزرق (؟)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irtyw",
+    "meaning_en": "blue dyed linen",
+    "meaning_ar": "كتان مصبوغ بالأزرق",
+    "hieroglyphs_raw": "irtyw𓇋𓁹𓅂𓋳blue dyed linenكتان مصبوغ بالأزرق",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irtyw",
+    "meaning_en": "mourning",
+    "meaning_ar": "حِداد",
+    "hieroglyphs_raw": "irtyw𓇋𓁹𓅂𓀁𓏫mourningحِداد",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "irTt",
+    "meaning_en": "milk",
+    "meaning_ar": "لبن",
+    "hieroglyphs_raw": "irTt𓇋𓂋𓏏𓏏𓏈𓇋𓁹𓏏𓏏𓏊milkلبن",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihw",
+    "meaning_en": "camp",
+    "meaning_ar": "مخيم",
+    "hieroglyphs_raw": "ihw𓇋𓉔𓅱𓉐campمخيم",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihb",
+    "meaning_en": "dancing ritual",
+    "meaning_ar": "رقص طقسي",
+    "hieroglyphs_raw": "ihb𓇋𓉔𓃀𓀤𓇋𓉔𓄿𓃀𓀤dancing ritualرقص طقسي",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihm",
+    "meaning_en": "restrain",
+    "meaning_ar": "يُقيِّد، يكبح",
+    "hieroglyphs_raw": "ihm𓇋𓉔𓅓𓀜𓉔𓇋𓅓𓂝restrainيُقيِّد، يكبح",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihm",
+    "meaning_en": "linger, lag",
+    "meaning_ar": "تواني، تأخر",
+    "hieroglyphs_raw": "ihm𓇋𓉔𓅓𓂻linger, lagتواني، تأخر",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihmt",
+    "meaning_en": "detention",
+    "meaning_ar": "اعتقال، احتجاز",
+    "hieroglyphs_raw": "ihmt𓇋𓉔𓅐𓏏𓅪detentionاعتقال، احتجاز",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihhy",
+    "meaning_en": "rejoicing",
+    "meaning_ar": "مُبهج",
+    "hieroglyphs_raw": "ihhy𓇋𓉔𓉔𓇌𓀁𓇋𓀁𓉔𓉔𓇌𓀠𓇋𓉔𓉔𓇌𓀤rejoicingمُبهج",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihhy",
+    "meaning_en": "a festival",
+    "meaning_ar": "عيد، احتفال",
+    "hieroglyphs_raw": "ihhy𓇋𓀁𓉔𓉔𓇌𓎳𓏥a festivalعيد، احتفال",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ihhw",
+    "meaning_en": "ritual dancers",
+    "meaning_ar": "راقصين طقسيين",
+    "hieroglyphs_raw": "ihhw𓇋𓉔𓃀𓅱𓀤𓏪𓇋𓉔𓄿𓃀𓅱𓀔𓂻𓏥ritual dancersراقصين طقسيين",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iH",
+    "meaning_en": "bull",
+    "meaning_ar": "ثور",
+    "hieroglyphs_raw": "iH𓇋𓎛𓃾𓃾bullثور",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iH",
+    "meaning_en": "ah! (interjection expressing relief )",
+    "meaning_ar": "آه! (صوت ارتياح)",
+    "hieroglyphs_raw": "iH𓇋𓎛𓀁ah! (interjection expressing relief )آه! (صوت ارتياح)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iH",
+    "meaning_en": "wipe off (dirt, etc.)",
+    "meaning_ar": "يمحو (قذارة، الخ)",
+    "hieroglyphs_raw": "iH,aH𓂝𓎛𓌤wipe off (dirt, etc.)يمحو (قذارة، الخ)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHy",
+    "meaning_en": "sistrum-player (epithet of son of Hathor), title of priests of Hathor",
+    "meaning_ar": "اللاعب بالصلاصل (لقب لإبن حتحور)، لقب لكاهنة حتحور",
+    "hieroglyphs_raw": "iHy𓇋𓎛𓇋𓎛𓏭𓅱sistrum-player (epithet of son of Hathor), title of priests of Hathorاللاعب بالصلاصل (لقب لإبن حتحور)، لقب لكاهنة حتحور",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHw",
+    "meaning_en": "stable",
+    "meaning_ar": "اسطبل",
+    "hieroglyphs_raw": "iHw𓇋𓎛𓅱𓉐𓇋𓎛𓅱𓏪𓇋𓎛𓏏𓉐stableاسطبل",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHw",
+    "meaning_en": "a measure of metal",
+    "meaning_ar": "مقياس للمعادن",
+    "hieroglyphs_raw": "iHw𓇋𓎛𓅱a measure of metalمقياس للمعادن",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHw",
+    "meaning_en": "weakness",
+    "meaning_ar": "ضَعف",
+    "hieroglyphs_raw": "iHw𓇋𓎛𓅱𓅪weaknessضَعف",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHms",
+    "meaning_en": "attendant",
+    "meaning_ar": "خادم، مرافق",
+    "hieroglyphs_raw": "iHms𓇋𓈞𓊃𓀔attendantخادم، مرافق",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHt",
+    "meaning_en": "cow",
+    "meaning_ar": "بقرة",
+    "hieroglyphs_raw": "iHt𓇋𓎛𓏏𓃒cowبقرة",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iHtt",
+    "meaning_en": "land-tax",
+    "meaning_ar": "ضريبة الأرض",
+    "hieroglyphs_raw": "iHtt𓇋𓎛𓏏𓏏𓈇land-taxضريبة الأرض",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ix",
+    "meaning_en": "then, therefore (non-encl. part.), what ? (interrog.)",
+    "meaning_ar": "من ثم، حينئذ (اداة غير اسنادية)، ماذا ؟ (اداة استفهام)",
+    "hieroglyphs_raw": "ix𓇋𓐍𓏛then, therefore (non-encl. part.), what ? (interrog.)من ثم، حينئذ (اداة غير اسنادية)، ماذا ؟ (اداة استفهام)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixi",
+    "meaning_en": "make to flourish",
+    "meaning_ar": "يتسبب في ازدهار",
+    "hieroglyphs_raw": "ixi𓇋𓐍𓇋𓇇𓂡𓏥make to flourishيتسبب في ازدهار",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixm",
+    "meaning_en": "extinguish, annul",
+    "meaning_ar": "يُبطِل، يفسَخ، يضع حدًا لـ",
+    "hieroglyphs_raw": "ixm𓇋𓐍𓅓𓂜extinguish, annulيُبطِل، يفسَخ، يضع حدًا لـ",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixm-sk",
+    "meaning_en": "indestructible star (circumpolar star)",
+    "meaning_ar": "نجم لا يفنى (نجم قطبي)",
+    "hieroglyphs_raw": "ixm-sk𓇋𓐍𓅓𓂜𓋴𓎡𓇼𓇋𓐍𓅓𓋴𓎝𓎡𓇼𓂝𓐍𓅓𓅱𓋴𓎡𓇼indestructible star (circumpolar star)نجم لا يفنى (نجم قطبي)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixmw",
+    "meaning_en": "ignorant ones",
+    "meaning_ar": "الجهلة",
+    "hieroglyphs_raw": "ixmw𓇋𓐍𓅓𓅪𓏥ignorant onesالجهلة",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixmw-wrD",
+    "meaning_en": "the unwearying stars (i.e. not circumpolar)",
+    "meaning_ar": "النجوم التي لا تتعب (النجوم الغير قطبية)",
+    "hieroglyphs_raw": "ixmw-wrD𓇋𓅱𓐍𓅓𓏥the unwearying stars (i.e. not circumpolar)النجوم التي لا تتعب (النجوم الغير قطبية)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixmt",
+    "meaning_en": "bank (of river), bank (of fortress)",
+    "meaning_ar": "ضفة (النهر)، حافة (الغابة)",
+    "hieroglyphs_raw": "ixmt𓇋𓐍𓅓𓏏𓈉𓇋𓐍𓅐𓏏𓈇𓏤𓂝𓐍𓅐𓏏𓈇𓏥𓂝𓐍𓅓𓏏𓈄bank (of river), bank (of fortress)ضفة (النهر)، حافة (الغابة)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ixxw",
+    "meaning_en": "twilight, dusk",
+    "meaning_ar": "الغسق",
+    "hieroglyphs_raw": "ixxw𓇋𓐍𓐍𓅱𓇶𓇋𓐍𓐍𓅱𓇰𓏥𓇋𓅱𓐍𓐍𓇰𓏥𓂝𓐍𓐍𓍢𓇰twilight, duskالغسق",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is",
+    "meaning_en": "go! (Imper.)",
+    "meaning_ar": "اذهب! (فعل أمر)",
+    "hieroglyphs_raw": "is𓇋𓊄𓂻𓊄𓇋𓊄go! (Imper.)اذهب! (فعل أمر)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is",
+    "meaning_en": "be light (of weight, in figure), lie light (on)",
+    "meaning_ar": "خفيف الوزن، رشيق، يستلقي بخفة (على)",
+    "hieroglyphs_raw": "is𓇋𓇩𓊃𓆰𓇋𓇩𓋴𓆰be light (of weight, in figure), lie light (on)خفيف الوزن، رشيق، يستلقي بخفة (على)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is",
+    "meaning_en": "encl. part., interrog. part.",
+    "meaning_ar": "اداة اسنادية، اداة استفهام",
+    "hieroglyphs_raw": "is𓇋𓋴encl. part., interrog. part.اداة اسنادية، اداة استفهام",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is",
+    "meaning_en": "old, ancient",
+    "meaning_ar": "قديم، عتيق",
+    "hieroglyphs_raw": "is𓇋𓇩𓋴𓆰𓏛𓇋𓋴𓇑old, ancientقديم، عتيق",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is",
+    "meaning_en": "tomb, workshop, council chamber (?)",
+    "meaning_ar": "مقبرة، ورشة، غرفة المجلس (؟)",
+    "hieroglyphs_raw": "is𓇋𓊃𓇩𓉐𓇋𓇩𓋴𓉐tomb, workshop, council chamber (?)مقبرة، ورشة، غرفة المجلس (؟)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is ib",
+    "meaning_en": "light-minded",
+    "meaning_ar": "طائش",
+    "hieroglyphs_raw": "is ib𓇋𓇩𓊃𓆰𓄣𓏤light-mindedطائش",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "is HAq",
+    "meaning_en": "easy prey",
+    "meaning_ar": "صيدا سهلا",
+    "hieroglyphs_raw": "is HAq𓇋𓊄𓇉𓈎𓂡easy preyصيدا سهلا",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isi",
+    "meaning_en": "tomb, council chamber (?), workshop",
+    "meaning_ar": "مقبرة، ورشة، غرفة مجلس (؟)",
+    "hieroglyphs_raw": "isi𓇋𓇩𓋴𓏭𓉐𓆰𓅱𓏭𓉐tomb, council chamber (?), workshopمقبرة، ورشة، غرفة مجلس (؟)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isywt",
+    "meaning_en": "old clothes, rags",
+    "meaning_ar": "ملابس قديمة، خِرق",
+    "hieroglyphs_raw": "isywtold clothes, ragsملابس قديمة، خِرق",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isw",
+    "meaning_en": "ancient ones",
+    "meaning_ar": "قدماء",
+    "hieroglyphs_raw": "isw𓇋𓋴𓅱𓏪ancient onesقدماء",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isw",
+    "meaning_en": "reeds",
+    "meaning_ar": "اعواد البوص",
+    "hieroglyphs_raw": "isw𓇋𓇩𓋴𓏲𓆰𓏥reedsاعواد البوص",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isw",
+    "meaning_en": "non-encl. part.",
+    "meaning_ar": "اداة غير اسنادية",
+    "hieroglyphs_raw": "isw𓇋𓋴𓏲𓀁non-encl. part.اداة غير اسنادية",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isw",
+    "meaning_en": "reward, payment",
+    "meaning_ar": "مكافأة، أجر",
+    "hieroglyphs_raw": "isw𓇋𓇩𓋴𓄯𓅱𓄯𓅱𓇋𓋴𓅱𓄯𓏛𓏥𓇋𓇩𓋴𓅱𓆰𓏛𓏥𓇋𓇩𓋴𓅱𓏛𓏥reward, paymentمكافأة، أجر",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "ist",
+    "meaning_en": "crew (of ship), company (of soldiers), gang (of workmen)",
+    "meaning_ar": "طاقم (سفينة)، سَرية (من الجنود)، مجموعة (من العمال)",
+    "hieroglyphs_raw": "ist,iswt𓇩𓏏𓏤𓀀𓏥𓇩𓇩𓏏𓅱𓀀𓏥crew (of ship), company (of soldiers), gang (of workmen)طاقم (سفينة)، سَرية (من الجنود)، مجموعة (من العمال)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iswt",
+    "meaning_en": "ancient times",
+    "meaning_ar": "الازمنة القديمة",
+    "hieroglyphs_raw": "iswt𓇋𓋴𓅱𓏏𓆰𓇋𓇩𓋴𓅱𓏏𓆰𓏛𓏥ancient timesالازمنة القديمة",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "iswt(y)",
+    "meaning_en": "representative (of king as representative of sun god)",
+    "meaning_ar": "ممثل (الملك ممثل عن إله الشمس)",
+    "hieroglyphs_raw": "iswt(y)𓄯𓏏representative (of king as representative of sun god)ممثل (الملك ممثل عن إله الشمس)",
+    "phnid": 3,
+    "page": 10
+  },
+  {
+    "transliteration": "isbt",
+    "meaning_en": "throne, stool",
+    "meaning_ar": "عرش، كرسي صغير",
+    "hieroglyphs_raw": "isbt𓇋𓋴𓃀𓏏𓉐𓇋𓋴𓃀𓏏𓆱throne, stoolعرش، كرسي صغير",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isp",
+    "meaning_en": "hew, cut",
+    "meaning_ar": "يقطع، ينحت",
+    "hieroglyphs_raw": "isp𓇋𓊃𓊪𓌎𓇋𓋴𓊪𓌪hew, cutيقطع، ينحت",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ispr",
+    "meaning_en": "whip (n.)",
+    "meaning_ar": "سوط",
+    "hieroglyphs_raw": "ispr𓇋𓋴𓊪𓂋𓏤whip (n.)سوط",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ispt",
+    "meaning_en": "quiver (for arrows)",
+    "meaning_ar": "جعبة (سهام)",
+    "hieroglyphs_raw": "ispt𓇋𓋴𓊪𓏏𓆱𓇋𓋴𓊪𓏏𓄛quiver (for arrows)جعبة (سهام)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isft",
+    "meaning_en": "wrong, wrong-doing, falsehood",
+    "meaning_ar": "خطأ، فعل الخطأ، كَذِب",
+    "hieroglyphs_raw": "isft𓇋𓋴𓆑𓏏𓅪𓇋𓊃𓆑𓏏𓏳wrong, wrong-doing, falsehoodخطأ، فعل الخطأ، كَذِب",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isfty",
+    "meaning_en": "evil-doer",
+    "meaning_ar": "فاعل الشر",
+    "hieroglyphs_raw": "isfty𓇋𓋴𓆑𓏏𓏭𓅪𓀀evil-doerفاعل الشر",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isr",
+    "meaning_en": "tamarisk tree",
+    "meaning_ar": "شجرة الأثل",
+    "hieroglyphs_raw": "isr𓇋𓋴𓂋𓆱𓇋𓋴𓂋𓆭𓆱tamarisk treeشجرة الأثل",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "issr",
+    "meaning_en": "Assyria",
+    "meaning_ar": "آشور",
+    "hieroglyphs_raw": "issr𓇋𓋴𓇓𓅱𓂋𓏤Assyriaآشور",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isq",
+    "meaning_en": "hinder, linger, wait (for)",
+    "meaning_ar": "يعيق، يُعَطِّل، ينتظر، يتباطئ",
+    "hieroglyphs_raw": "isq𓇋𓋴𓈎𓂻𓇋𓋴𓈎𓂾𓂻hinder, linger, wait (for)يعيق، يُعَطِّل، ينتظر، يتباطئ",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isk",
+    "meaning_en": "non-encl. part.",
+    "meaning_ar": "اداة غير اسنادية",
+    "hieroglyphs_raw": "isk𓇋𓋴𓎡𓋴𓎡non-encl. part.اداة غير اسنادية",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ist",
+    "meaning_en": "boundary-stone",
+    "meaning_ar": "حجر لتحديد حدود الأرض",
+    "hieroglyphs_raw": "ist𓇋𓊃𓏏𓇤𓇩𓏏𓏤boundary-stoneحجر لتحديد حدود الأرض",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ist",
+    "meaning_en": "palace",
+    "meaning_ar": "قصر",
+    "hieroglyphs_raw": "ist𓇩𓏏𓉥𓇩𓏏𓏤𓉐𓏥palaceقصر",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ist",
+    "meaning_en": "company (of rebels)",
+    "meaning_ar": "مجموعة من المتمردين",
+    "hieroglyphs_raw": "ist𓇩𓏏𓏤𓀐company (of rebels)مجموعة من المتمردين",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ist",
+    "meaning_en": "lightness",
+    "meaning_ar": "خفة، رشاقة",
+    "hieroglyphs_raw": "ist𓇋𓇩𓏏𓆰lightnessخفة، رشاقة",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "istn",
+    "meaning_en": "strap up, bind",
+    "meaning_ar": "يربط، يُحَزِّم",
+    "hieroglyphs_raw": "istn𓇋𓋴𓏏𓈖𓏲𓂡strap up, bindيربط، يُحَزِّم",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "isT",
+    "meaning_en": "non-encl. part.",
+    "meaning_ar": "أداة غير إسنادية",
+    "hieroglyphs_raw": "isT𓇋𓋴𓍿𓋴𓍘𓋴𓍿𓇋𓋴𓏏non-encl. part.أداة غير إسنادية",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iS",
+    "meaning_en": "saliva",
+    "meaning_ar": "لعاب",
+    "hieroglyphs_raw": "iS𓇋𓈙𓀁salivaلعاب",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSnn",
+    "meaning_en": "warcry",
+    "meaning_ar": "صيحة الحرب",
+    "hieroglyphs_raw": "iSnn𓇋𓍲𓈖𓈖𓀁warcryصيحة الحرب",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSrw",
+    "meaning_en": "the precinct of Mut at Karnak",
+    "meaning_ar": "حرم الإلهة موت في معبد الكرنك",
+    "hieroglyphs_raw": "iSrw𓇋𓈙𓃭𓊖the precinct of Mut at Karnakحرم الإلهة موت في معبد الكرنك",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSst",
+    "meaning_en": "what ?, wherefore ?",
+    "meaning_ar": "ماذا ؟، لماذا ؟",
+    "hieroglyphs_raw": "iSst𓇋𓍱𓈙𓋴𓏏𓇋𓍱𓊃𓏏𓀁what ?, wherefore ?ماذا ؟، لماذا ؟",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSt",
+    "meaning_en": "possessions, (morning) meal",
+    "meaning_ar": "ممتلكات، أمتعة، وجبة (في الصباح)",
+    "hieroglyphs_raw": "iSt𓇋𓈙𓏏𓏴𓏛𓏥𓇋𓈙𓏏𓏥𓇋𓈙𓏏𓈒𓏥possessions, (morning) mealممتلكات، أمتعة، وجبة (في الصباح)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSd",
+    "meaning_en": "fruit of theiSdtree",
+    "meaning_ar": "ثمار شجرةiSd",
+    "hieroglyphs_raw": "iSdfruit of theiSdtreeثمار شجرةiSd",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSd",
+    "meaning_en": "fruit of various trees",
+    "meaning_ar": "ثمار مجموعة متنوعة من الاشجار",
+    "hieroglyphs_raw": "iSd𓇭𓈒𓏥𓇋𓄞𓂧𓇭𓈒𓏥fruit of various treesثمار مجموعة متنوعة من الاشجار",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSd",
+    "meaning_en": "iSdtree, fruit ofiSdtree",
+    "meaning_ar": "شجرةiSd، ثمار شجرةiSd",
+    "hieroglyphs_raw": "iSd𓇋𓈙𓂧𓆭iSdtree, fruit ofiSdtreeشجرةiSd، ثمار شجرةiSd",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iSdd",
+    "meaning_en": "sweat",
+    "meaning_ar": "عَرَق",
+    "hieroglyphs_raw": "iSdd𓇋𓈙𓂧𓂧𓈒𓈒𓈒sweatعَرَق",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqr",
+    "meaning_en": "wealth, virtue, excellence, virtues (of someone)",
+    "meaning_ar": "ثروة، امتياز، ميزة، مميزات (شخص ما)",
+    "hieroglyphs_raw": "iqr𓇋𓈎𓂋𓏛𓇋𓈎𓂋𓏛𓏥wealth, virtue, excellence, virtues (of someone)ثروة، امتياز، ميزة، مميزات (شخص ما)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqr",
+    "meaning_en": "trusty, trustworthy, skilful, excellent (of plans), pleasing (of speech), well-to-do, superior (in rank), excellent",
+    "meaning_ar": "موضع ثقة، جدير بالثقة، ماهر، ممتاز (الخطط)، ممتاز، متفوق (في المرتبة)، ممتع (الحديث)",
+    "hieroglyphs_raw": "iqr𓇋𓈎𓂋𓏛trusty, trustworthy, skilful, excellent (of plans), pleasing (of speech), well-to-do, superior (in rank), excellentموضع ثقة، جدير بالثقة، ماهر، ممتاز (الخطط)، ممتاز، متفوق (في المرتبة)، ممتع (الحديث)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqr",
+    "meaning_en": "a trustworthy man, wiseacre",
+    "meaning_ar": "شخص محل ثقة، شخص معتد بنفسه",
+    "hieroglyphs_raw": "iqr𓇋𓈎𓂋𓏛𓀀a trustworthy man, wiseacreشخص محل ثقة، شخص معتد بنفسه",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqr",
+    "meaning_en": "excellent, effective, astute",
+    "meaning_ar": "فعال، ممتاز، ماهر",
+    "hieroglyphs_raw": "iqr𓇋𓈎𓂋excellent, effective, astuteفعال، ممتاز، ماهر",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqr Hr ib",
+    "meaning_en": "well-pleasing to the heart of",
+    "meaning_ar": "يدخل السرور على قلب ...",
+    "hieroglyphs_raw": "iqr Hr ib𓇋𓈎𓂋𓏛𓁷𓄣𓈖well-pleasing to the heart ofيدخل السرور على قلب ...",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqHw",
+    "meaning_en": "battle-axe",
+    "meaning_ar": "بلطة قتال",
+    "hieroglyphs_raw": "iqHw𓇋𓈎𓎛𓅱𓌏𓇋𓈎𓎛𓅱𓈔𓏥𓄿𓈎𓎛𓅱𓌏𓄿𓈎𓎛𓅱𓈔battle-axeبلطة قتال",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqdw",
+    "meaning_en": "builder",
+    "meaning_ar": "بَنَّاء، عامل بناء",
+    "hieroglyphs_raw": "iqdw𓇋𓐪𓂧𓅱𓀀𓇋𓐪𓂧𓂂𓅱𓀨builderبَنَّاء، عامل بناء",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iqdw-nDswt",
+    "meaning_en": "potter",
+    "meaning_ar": "فخاري (صانع الفخار)",
+    "hieroglyphs_raw": "iqdw-nDswt𓀨𓏲𓅪potterفخاري (صانع الفخار)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iky",
+    "meaning_en": "quarryman",
+    "meaning_ar": "عامل بالمحاجر",
+    "hieroglyphs_raw": "iky𓀗𓇋𓇋𓀀𓇋𓎡𓀗𓀗quarrymanعامل بالمحاجر",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikw",
+    "meaning_en": "stone-quarry",
+    "meaning_ar": "مَحجَر",
+    "hieroglyphs_raw": "ikw𓇋𓄿𓎡𓏲𓀗𓈉𓇋𓀁𓎡𓅱𓈉stone-quarryمَحجَر",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikm",
+    "meaning_en": "shield",
+    "meaning_ar": "درع",
+    "hieroglyphs_raw": "ikm𓇋𓆎𓅓𓄛𓏤𓇋𓎡𓅓𓄛shieldدرع",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikn",
+    "meaning_en": "jar",
+    "meaning_ar": "جرة",
+    "hieroglyphs_raw": "iknjarجرة",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikn",
+    "meaning_en": "cup, jar",
+    "meaning_ar": "كوب، جرة",
+    "hieroglyphs_raw": "ikn𓇋𓎡𓈖𓎺cup, jarكوب، جرة",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikn",
+    "meaning_en": "draw (water)",
+    "meaning_ar": "يسحب (ماء)",
+    "hieroglyphs_raw": "ikn𓇋𓎡𓈖𓀜draw (water)يسحب (ماء)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "iknw",
+    "meaning_en": "hoe",
+    "meaning_ar": "مجرفة",
+    "hieroglyphs_raw": "iknw𓇋𓀁𓎡𓈖𓏌𓅱𓆱hoeمجرفة",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ikkw",
+    "meaning_en": "councillors (?)",
+    "meaning_ar": "مستشارين (؟)، اعضاء المجلس (؟)",
+    "hieroglyphs_raw": "ikkw𓇋𓎡𓎡𓅱𓀀councillors (?)مستشارين (؟)، اعضاء المجلس (؟)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "igp",
+    "meaning_en": "clouds, be overcast (of sky), soar cloudwards",
+    "meaning_ar": "غيوم، يتلبد بالغيوم، يحلق ناحية السحاب",
+    "hieroglyphs_raw": "igp𓇋𓎼𓊪𓇲𓎼𓊪𓇲clouds, be overcast (of sky), soar cloudwardsغيوم، يتلبد بالغيوم، يحلق ناحية السحاب",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "igrt",
+    "meaning_en": "realm of the dead",
+    "meaning_ar": "عالم الموتى",
+    "hieroglyphs_raw": "igrt𓇋𓎼𓂋𓏏𓈉𓇋𓅱𓎼𓂋𓏏𓈉realm of the deadعالم الموتى",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it",
+    "meaning_en": "barley, corn (en general)",
+    "meaning_ar": "شعير، حبوب",
+    "hieroglyphs_raw": "it𓌾𓇡𓇣𓇋𓏏𓇠barley, corn (en general)شعير، حبوب",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it",
+    "meaning_en": "father",
+    "meaning_ar": "أب، والد",
+    "hieroglyphs_raw": "it,it(i)𓊹𓏏𓆑𓀀𓏏𓆑𓏏𓆑𓀀𓇋𓏏fatherأب، والد",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it.f",
+    "meaning_en": "his father",
+    "meaning_ar": "ابيه",
+    "hieroglyphs_raw": "it.f𓏏𓆑his fatherابيه",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it mHw",
+    "meaning_en": "barley of Lower Egypt",
+    "meaning_ar": "شعير مصر السفلى",
+    "hieroglyphs_raw": "it mHw𓇠𓎔barley of Lower Egyptشعير مصر السفلى",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it-nTr",
+    "meaning_en": "god's father (title of a class of elder priests)",
+    "meaning_ar": "والد الإله (اسم طبقة من الكهنة الكبار سنًا)",
+    "hieroglyphs_raw": "it-nTr𓊹𓏏𓊹𓇋𓏏𓆑𓀀𓏏𓊹𓊸𓊹god's father (title of a class of elder priests)والد الإله (اسم طبقة من الكهنة الكبار سنًا)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "it Sma",
+    "meaning_en": "barley of Upper Egypt",
+    "meaning_ar": "شعير مصر العليا",
+    "hieroglyphs_raw": "it Sma𓇡𓇗barley of Upper Egyptشعير مصر العليا",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ity",
+    "meaning_en": "sovereign",
+    "meaning_ar": "ملك، حاكم",
+    "hieroglyphs_raw": "ity𓆊𓆊𓅆𓇋𓀁𓍘𓇋𓇋𓀭𓇋𓍘𓅱𓅆𓇋𓏏𓅆𓇋𓏏sovereignملك، حاكم",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ityt",
+    "meaning_en": "queen-regnant",
+    "meaning_ar": "الملكة الحاكمة",
+    "hieroglyphs_raw": "ityt𓇋𓍘𓇋𓇋𓏏𓀛queen-regnantالملكة الحاكمة",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "ityt xAw",
+    "meaning_en": "queen of thouthands (ep. of crown of Upper Egypt)",
+    "meaning_ar": "ملكة الالاف (لقب لتاج مصر العليا)",
+    "hieroglyphs_raw": "ityt xAw𓇋𓍘𓏏𓏏𓆼𓏤𓏥𓆗queen of thouthands (ep. of crown of Upper Egypt)ملكة الالاف (لقب لتاج مصر العليا)",
+    "phnid": 3,
+    "page": 11
+  },
+  {
+    "transliteration": "itw",
+    "meaning_en": "forefathers",
+    "meaning_ar": "آباء",
+    "hieroglyphs_raw": "itw𓇋𓏏𓆑𓀀𓏪forefathersآباء",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itm(w)",
+    "meaning_en": "Atum(name of divinity)",
+    "meaning_ar": "الإله اتوم",
+    "hieroglyphs_raw": "itm(w)𓍃𓅓𓀭𓇋𓏏𓂞𓀭𓏏𓍃𓐝𓅱𓀭Atum(name of divinity)الإله اتوم",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itmw",
+    "meaning_en": "suffocation",
+    "meaning_ar": "إختناق",
+    "hieroglyphs_raw": "itmw𓇋𓍃𓅓𓏲𓅪𓏥𓇋𓍃𓐝𓊡𓏪𓇋𓏏𓍃suffocationإختناق",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itn",
+    "meaning_en": "be in opposition (to), oppose (with dir. obj.)",
+    "meaning_ar": "يعارض، يقاوم",
+    "hieroglyphs_raw": "itn𓇋𓏏𓈖𓂉𓀜𓇋𓏏𓈖𓀜be in opposition (to), oppose (with dir. obj.)يعارض، يقاوم",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itn",
+    "meaning_en": "sun, sun-disc, (the god) Aten",
+    "meaning_ar": "قرص الشمس، الإله أتون",
+    "hieroglyphs_raw": "itn𓇋𓏏𓈖𓇳𓇋𓍿𓈖𓇳sun, sun-disc, (the god) Atenقرص الشمس، الإله أتون",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itnw",
+    "meaning_en": "opponent",
+    "meaning_ar": "مناوئ، خصم",
+    "hieroglyphs_raw": "itnw𓇋𓏏𓈖𓏌𓏲𓀜𓇋𓍿𓈖𓏌𓅱𓂡𓀏opponentمناوئ، خصم",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itnw",
+    "meaning_en": "secret, mystery",
+    "meaning_ar": "لُغز، سر",
+    "hieroglyphs_raw": "itnw𓇋𓏏𓈖𓏌𓅱𓂉𓏛𓇋𓏏𓏌𓅱𓏛secret, mysteryلُغز، سر",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itnw pDwt",
+    "meaning_en": "opposer of bows (epithet of khnum)",
+    "meaning_ar": "مقاوم الأقواس (لقب للإله خنوم)",
+    "hieroglyphs_raw": "itnw pDwt𓇋𓏏𓈖𓏌𓌓𓏏𓏥opposer of bows (epithet of khnum)مقاوم الأقواس (لقب للإله خنوم)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itnt",
+    "meaning_en": "solar-goddess",
+    "meaning_ar": "الهة للشمس",
+    "hieroglyphs_raw": "itnt𓇋𓍿𓈖𓏏𓇳solar-goddessالهة للشمس",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrw",
+    "meaning_en": "river",
+    "meaning_ar": "نهر",
+    "hieroglyphs_raw": "itrw𓇋𓏏𓂋𓅱𓈘𓇋𓏏𓂋𓅱𓈙𓏥𓇋𓏏𓂋𓈘𓇋𓏏𓂋𓏲𓈘𓈇𓏤𓇋𓏏𓂋𓃭𓈘𓈅𓏤𓇋𓏏𓂋𓈘𓈗𓇋𓏏𓏲𓂋𓈗𓈘𓈇𓏤riverنهر",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrw",
+    "meaning_en": "measure of length (about 10 km), schoenus",
+    "meaning_ar": "وحدة لقياس المسافات (حوالي 10 كم)",
+    "hieroglyphs_raw": "itrw𓇋𓏏𓂋𓅱𓈗𓈘𓈅𓏤measure of length (about 10 km), schoenusوحدة لقياس المسافات (حوالي 10 كم)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrw",
+    "meaning_en": "seasons, seasonal, times",
+    "meaning_ar": "فصول، أوقات",
+    "hieroglyphs_raw": "itrw𓇋𓏏𓂋𓅱𓆵seasons, seasonal, timesفصول، أوقات",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrt",
+    "meaning_en": "chapel, niche (for statue), box (for ushabtis)",
+    "meaning_ar": "معبد صغير، حِنية (لوضع تمثال)، صندوق (لوضع تماثيل اوشابتي)",
+    "hieroglyphs_raw": "itrt𓇋𓏏𓂋𓏏𓊀chapel, niche (for statue), box (for ushabtis)معبد صغير، حِنية (لوضع تمثال)، صندوق (لوضع تماثيل اوشابتي)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrt",
+    "meaning_en": "row (of men), row (of shrubs), row (of shrines at jubilee)",
+    "meaning_ar": "صف (من الرجال)، صف (من الشجيرات)، صف (من المقصورات في احتفال اليوبيل)",
+    "hieroglyphs_raw": "itrt𓇋𓏏𓂋𓏏𓉐row (of men), row (of shrubs), row (of shrines at jubilee)صف (من الرجال)، صف (من الشجيرات)، صف (من المقصورات في احتفال اليوبيل)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrt mHt",
+    "meaning_en": "conclave of Lower Egypt",
+    "meaning_ar": "مجلس مصر السفلى",
+    "hieroglyphs_raw": "itrt mHt𓇋𓏏𓂋𓏏𓉯𓎔𓏏𓇉conclave of Lower Egyptمجلس مصر السفلى",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrt Smat",
+    "meaning_en": "conclave of Upper Egypt",
+    "meaning_ar": "مجلس مصر العليا",
+    "hieroglyphs_raw": "itrt Smat𓇋𓏏𓂋𓏏𓉭𓇗𓏏conclave of Upper Egyptمجلس مصر العليا",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itrty",
+    "meaning_en": "the two conclaves of Upper and Lower Egypt",
+    "meaning_ar": "مجلسي مصر العليا والسفلى",
+    "hieroglyphs_raw": "itrty𓇋𓏏𓂋𓏏𓉭𓉯𓇋𓏏𓂋𓏏𓏭𓉐𓉐𓉭𓉯𓉱𓉯the two conclaves of Upper and Lower Egyptمجلسي مصر العليا والسفلى",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itH",
+    "meaning_en": "drag, draw (the bow), pull of (bonds), pull out (eye), pull out (tongue), draw off (blood), draw out (inflammation)",
+    "meaning_ar": "يسحب، يجر، يشد (وتر القوس)، يُخرج (لسان، عين)، يسحب (الدم)، يستخرج (الالتهابات)، يفك (قيود)",
+    "hieroglyphs_raw": "itH𓇋𓏏𓎛𓀜𓇋𓏏𓎛𓍢𓂡𓇋𓏏𓎛𓍕drag, draw (the bow), pull of (bonds), pull out (eye), pull out (tongue), draw off (blood), draw out (inflammation)يسحب، يجر، يشد (وتر القوس)، يُخرج (لسان، عين)، يسحب (الدم)، يستخرج (الالتهابات)، يفك (قيود)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "itH",
+    "meaning_en": "fortress",
+    "meaning_ar": "قلعة",
+    "hieroglyphs_raw": "itH𓇋𓏏𓎛𓍕𓉐fortressقلعة",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iT Hpt",
+    "meaning_en": "take the oar (travel by boat)",
+    "meaning_ar": "يأخذ المجداف (يسافر بالقارب)",
+    "hieroglyphs_raw": "iT Hpt𓎁𓀜𓎛𓊪𓏏𓊦take the oar (travel by boat)يأخذ المجداف (يسافر بالقارب)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iT-gst-mit-n",
+    "meaning_en": "jogging",
+    "meaning_ar": "ركض",
+    "hieroglyphs_raw": "iT-gst-mit-n𓎁𓐞𓊃𓏏𓂻joggingركض",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iTA",
+    "meaning_en": "steal",
+    "meaning_ar": "يسرق",
+    "hieroglyphs_raw": "iTA𓇋𓅷𓄿𓀜stealيسرق",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iTA",
+    "meaning_en": "thief",
+    "meaning_ar": "لص",
+    "hieroglyphs_raw": "iTA𓇋𓅷𓄿𓀜𓀀thiefلص",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iTi",
+    "meaning_en": "sieze, take possession of (an inheritance, etc.), take (for use), take, conduct, take away, carry off, rob, remove (oneself), arrest (offenders), conquer, spend (time), pass (time), move (one's arm), use (one's arm), excel",
+    "meaning_ar": "يتملَّك، يستولي، يضع يده على",
+    "hieroglyphs_raw": "iTi𓎁𓀜sieze, take possession of (an inheritance, etc.), take (for use), take, conduct, take away, carry off, rob, remove (oneself), arrest (offenders), conquer, spend (time), pass (time), move (one's arm), use (one's arm), excelيتملَّك، يستولي، يضع يده على",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iTw",
+    "meaning_en": "thief",
+    "meaning_ar": "لص",
+    "hieroglyphs_raw": "iTw𓎁𓏏𓏲𓀜𓀀thiefلص",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "iTT",
+    "meaning_en": "fly  up",
+    "meaning_ar": "يطير عاليا",
+    "hieroglyphs_raw": "iTT𓇋𓍿𓍿𓅮𓇋𓏏𓏏𓅯𓇋𓏏𓏏𓅯𓂻fly  upيطير عاليا",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "id",
+    "meaning_en": "boy",
+    "meaning_ar": "فتى",
+    "hieroglyphs_raw": "id𓇋𓂧𓀔𓇋𓄿𓂧𓀔𓀀boyفتى",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "id",
+    "meaning_en": "assault (?) (vb.)",
+    "meaning_ar": "يهاجم (؟)",
+    "hieroglyphs_raw": "id𓇋𓂧𓀜assault (?) (vb.)يهاجم (؟)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "id",
+    "meaning_en": "bull",
+    "meaning_ar": "ثور",
+    "hieroglyphs_raw": "id𓇋𓂧𓃾bullثور",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idA",
+    "meaning_en": "smooth (a new-made pot)",
+    "meaning_ar": "يصقل (جرة مصنوعة حديثا)",
+    "hieroglyphs_raw": "idA𓇋𓂧𓄿smooth (a new-made pot)يصقل (جرة مصنوعة حديثا)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idi",
+    "meaning_en": "be deaf (vb.)",
+    "meaning_ar": "أن يكون أصم",
+    "hieroglyphs_raw": "idi𓇋𓂧𓄔be deaf (vb.)أن يكون أصم",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idi",
+    "meaning_en": "cense (vb.)",
+    "meaning_ar": "يحرق بخور",
+    "hieroglyphs_raw": "idi𓇋𓂨cense (vb.)يحرق بخور",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idyt",
+    "meaning_en": "girl",
+    "meaning_ar": "فتاة",
+    "hieroglyphs_raw": "idyt𓇋𓂧𓇋𓇋𓏏𓀔girlفتاة",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idw",
+    "meaning_en": "pestilence",
+    "meaning_ar": "وباء",
+    "hieroglyphs_raw": "idw𓇋𓂧𓅱𓇯𓇋𓂧𓏲𓇲𓇋𓄿𓂧𓅪𓇋𓄿𓂧𓂡pestilenceوباء",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idb",
+    "meaning_en": "river-bank, riparian land, shore (of flood), shore (of sky)",
+    "meaning_ar": "ضفة النهر، شاطئ لنهر، ضفة (الفيضان)، ضفة (السماء)",
+    "hieroglyphs_raw": "idbriver-bank, riparian land, shore (of flood), shore (of sky)ضفة النهر، شاطئ لنهر، ضفة (الفيضان)، ضفة (السماء)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idbw HAw nbwt",
+    "meaning_en": "the Lands ofHAw nbwt(the isles of the Aegean)",
+    "meaning_ar": "أراضي جزر بحر ايجة",
+    "hieroglyphs_raw": "idbw HAw nbwt𓈅𓈅𓈅𓇉𓅱𓎟𓏏𓏥the Lands ofHAw nbwt(the isles of the Aegean)أراضي جزر بحر ايجة",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idbwy",
+    "meaning_en": "the Two Banks (Egypt)",
+    "meaning_ar": "الضفتين (مصر)",
+    "hieroglyphs_raw": "idbwy𓈅𓈅𓈅𓈅𓈇𓈇𓈅𓈅𓅱𓏭the Two Banks (Egypt)الضفتين (مصر)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idmi",
+    "meaning_en": "red linen",
+    "meaning_ar": "كتان احمر",
+    "hieroglyphs_raw": "idmi𓂧𓇋𓏇𓋳𓇋𓂧𓏇𓇋𓋳red linenكتان احمر",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idn",
+    "meaning_en": "govern, serve as lieutenant-commander",
+    "meaning_ar": "يحكم، يقود، يخدم كقائم مقام قائد الجيش",
+    "hieroglyphs_raw": "idn𓇋𓂧𓈖𓄔𓂡𓄔𓏌𓂡govern, serve as lieutenant-commanderيحكم، يقود، يخدم كقائم مقام قائد الجيش",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idn",
+    "meaning_en": "serve instead of, replace",
+    "meaning_ar": "يخدم بدلا من، يحل محل",
+    "hieroglyphs_raw": "idn𓇋𓂧𓈖𓄔𓏛𓇋𓂧𓈖𓎆serve instead of, replaceيخدم بدلا من، يحل محل",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idn",
+    "meaning_en": "proxy",
+    "meaning_ar": "تفويض",
+    "hieroglyphs_raw": "idn𓄔𓈖𓏛proxyتفويض",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idn",
+    "meaning_en": "lay out (?) (enclosures)",
+    "meaning_ar": "يخطط حدود (؟) (سياج)",
+    "hieroglyphs_raw": "idnlay out (?) (enclosures)يخطط حدود (؟) (سياج)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idnw",
+    "meaning_en": "deputy (usually followed by specification of rank or office), sometimes used alone when the specific function was clear to the writer",
+    "meaning_ar": "نائب (تأتي غالبا بعدها مواصفات رتبة أو وظيفة)، وقد تأتي بمفردها اذا كانت وظيفة صاحبها معلومة لدى الكاتب",
+    "hieroglyphs_raw": "idnw𓄔𓈖𓏲𓏌𓄔𓏌𓈖𓄔𓏌deputy (usually followed by specification of rank or office), sometimes used alone when the specific function was clear to the writerنائب (تأتي غالبا بعدها مواصفات رتبة أو وظيفة)، وقد تأتي بمفردها اذا كانت وظيفة صاحبها معلومة لدى الكاتب",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idnw n mSa",
+    "meaning_en": "lieutenant-commander of the army",
+    "meaning_ar": "قائم مقام قائد الجيش",
+    "hieroglyphs_raw": "idnw n mSa𓄔𓏌𓈖𓀎𓏪lieutenant-commander of the armyقائم مقام قائد الجيش",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idr",
+    "meaning_en": "herd (of geese)",
+    "meaning_ar": "قطيع (من الأوز)",
+    "hieroglyphs_raw": "idr𓎩𓂋𓅭𓏥herd (of geese)قطيع (من الأوز)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idr",
+    "meaning_en": "herd (of elephants)",
+    "meaning_ar": "قطيع (من الأفيال)",
+    "hieroglyphs_raw": "idr𓇋𓂧𓂋𓎩𓃰𓏥herd (of elephants)قطيع (من الأفيال)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idr",
+    "meaning_en": "herd (of cattle)",
+    "meaning_ar": "قطيع (من الماشية)",
+    "hieroglyphs_raw": "idr𓇋𓂧𓂋𓎩𓃒𓏥𓎩𓂋𓃒𓈓herd (of cattle)قطيع (من الماشية)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idr",
+    "meaning_en": "stitch (vb.), stitching (n.)",
+    "meaning_ar": "غرزة، يعمل غرزة",
+    "hieroglyphs_raw": "idr𓇋𓂧𓂋𓄔𓇋𓂧𓄔stitch (vb.), stitching (n.)غرزة، يعمل غرزة",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idr",
+    "meaning_en": "withhold (from)",
+    "meaning_ar": "يمنع (من)",
+    "hieroglyphs_raw": "idr𓇋𓂧𓎩withhold (from)يمنع (من)",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idryt",
+    "meaning_en": "punishment",
+    "meaning_ar": "عقوبة",
+    "hieroglyphs_raw": "idryt𓎩𓂋𓇋𓇋𓏏𓅪punishmentعقوبة",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idHy",
+    "meaning_en": "marsh-man",
+    "meaning_ar": "رجل المستنقعات",
+    "hieroglyphs_raw": "idHy𓇋𓂧𓎛𓇋𓇋𓇇𓀀𓇋𓂧𓎛𓇋𓇋𓇇𓊖𓀀𓇇𓅱𓀀marsh-manرجل المستنقعات",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idHw",
+    "meaning_en": "the Delta marshes",
+    "meaning_ar": "مستنقعات الدلتا",
+    "hieroglyphs_raw": "idHw𓇋𓂧𓎛𓅱𓈇𓇋𓂧𓎛𓅱𓊖𓇋𓂧𓎛𓅱𓇇𓆰𓊖the Delta marshesمستنقعات الدلتا",
+    "phnid": 3,
+    "page": 12
+  },
+  {
+    "transliteration": "idt",
+    "meaning_en": "sweet savour, fragrance",
+    "meaning_ar": "رائحة سرور، رائحة طيبة، عطر",
+    "hieroglyphs_raw": "idt𓂨𓏏sweet savour, fragranceرائحة سرور، رائحة طيبة، عطر",
+    "phnid": 3,
+    "page": 13
+  },
+  {
+    "transliteration": "idt",
+    "meaning_en": "censing, incense-burning",
+    "meaning_ar": "حرق البخور",
+    "hieroglyphs_raw": "idt𓇋𓂧𓏏𓇲𓇋𓂨𓏏𓂨𓏏censing, incense-burningحرق البخور",
+    "phnid": 3,
+    "page": 13
+  },
+  {
+    "transliteration": "idt",
+    "meaning_en": "wrath (?)",
+    "meaning_ar": "غضب شديد (؟)",
+    "hieroglyphs_raw": "idt𓇋𓂧𓏏𓀜wrath (?)غضب شديد (؟)",
+    "phnid": 3,
+    "page": 13
+  },
+  {
+    "transliteration": "idt",
+    "meaning_en": "cow",
+    "meaning_ar": "بقرة",
+    "hieroglyphs_raw": "idt𓈞𓏏𓃒𓈞𓏏𓄰𓄰𓏏𓏤𓃒𓈞𓏏𓏯𓈞𓏏𓍕cowبقرة",
+    "phnid": 3,
+    "page": 13
+  },
+  {
+    "transliteration": "idt",
+    "meaning_en": "womb, vulva",
+    "meaning_ar": "رحم المرأة، فرج المرأة",
+    "hieroglyphs_raw": "idt𓈞𓏏𓄰𓄰𓄻womb, vulvaرحم المرأة، فرج المرأة",
+    "phnid": 3,
+    "page": 13
+  },
+  {
+    "transliteration": "iDrt",
+    "meaning_en": "hall (?) (in tomb)",
+    "meaning_ar": "قاعة (؟) في مقبرة",
+    "hieroglyphs_raw": "iDrt𓇋𓇥𓂋𓏏𓉐hall (?) (in tomb)قاعة (؟) في مقبرة",
+    "phnid": 3,
+    "page": 13
+  }
+]

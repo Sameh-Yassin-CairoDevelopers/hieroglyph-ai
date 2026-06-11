@@ -1,0 +1,570 @@
+[
+  {
+    "transliteration": "h",
+    "meaning_en": "Courtyard",
+    "meaning_ar": "فناء، ساحة",
+    "hieroglyphs_raw": "h𓉔𓉐Courtyardفناء، ساحة",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hA",
+    "meaning_en": "Interjection: Ha, oh",
+    "meaning_ar": "حرف نداء: يا، أيا",
+    "hieroglyphs_raw": "hA𓉔𓄿𓉔𓄿𓂻Interjection: Ha, ohحرف نداء: يا، أيا",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hA nA",
+    "meaning_en": "expression of a wish",
+    "meaning_ar": "أداة تمني: ليت",
+    "hieroglyphs_raw": "hA nA𓉔𓄿𓈖𓄿𓀁expression of a wishأداة تمني: ليت",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hA snD",
+    "meaning_en": "Call for warning",
+    "meaning_ar": "نداء للتحذير: حذار",
+    "hieroglyphs_raw": "hA snD𓉔𓄿𓋴𓐩𓈖𓆓𓅾Call for warningنداء للتحذير: حذار",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hi",
+    "meaning_en": "husband",
+    "meaning_ar": "زوج",
+    "hieroglyphs_raw": "hi,hAi𓉔𓇋𓂸𓀀𓉔𓂸𓉔𓂺𓉔𓇋𓂺𓀀𓉔𓇌𓂸𓀀𓉔𓄿𓇌𓂺𓀀husbandزوج",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAi",
+    "meaning_en": "Come down, go down, descend, fall, drip, drop,  grasp the meaning of",
+    "meaning_ar": "ينزل، يهبط، ينحدر، يسقط، يفهم، يوافق، يتبوأ، يفهم معنى كذا",
+    "hieroglyphs_raw": "hAi𓉔𓄿𓂻Come down, go down, descend, fall, drip, drop,  grasp the meaning ofينزل، يهبط، ينحدر، يسقط، يفهم، يوافق، يتبوأ، يفهم معنى كذا",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAyt",
+    "meaning_en": "portal",
+    "meaning_ar": "بوابة، مدخل",
+    "hieroglyphs_raw": "hAyt𓉔𓄿𓇌𓏏𓉐𓉔𓏏𓉹𓉔𓏏𓇯𓇯𓉔𓇌𓏏𓇯portalبوابة، مدخل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAw",
+    "meaning_en": "Species of wild–fowl",
+    "meaning_ar": "نوع من الطيور البرية",
+    "hieroglyphs_raw": "hAw𓉔𓄿𓍢𓂻𓅬𓏥Species of wild–fowlنوع من الطيور البرية",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAw",
+    "meaning_en": "Kindred",
+    "meaning_ar": "أقرباء، أنسباء",
+    "hieroglyphs_raw": "hAw𓉔𓄿𓅱𓀀𓁐𓏥𓉔𓄿𓀀𓁐𓏥𓉔𓄿𓇌𓀀𓁐𓏥𓉔𓅱𓀀𓁐𓏥Kindredأقرباء، أنسباء",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAw",
+    "meaning_en": "Time, life-time, neighborhood, environment, belongings, circumstances, affairs",
+    "meaning_ar": "وقت، زمان، جوار، بيئة محيط، أملاك، أعمال، ظرف، حال، أعمال",
+    "hieroglyphs_raw": "hAw𓉔𓄿𓅱𓏛𓏥𓉔𓄿𓏛𓏥𓉔𓄿𓇳𓏥𓉔𓅱𓏥𓉔𓏛𓏥𓉔𓄿𓍢𓏛𓏥Time, life-time, neighborhood, environment, belongings, circumstances, affairsوقت، زمان، جوار، بيئة محيط، أملاك، أعمال، ظرف، حال، أعمال",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAw",
+    "meaning_en": "Corvee, forced labor",
+    "meaning_ar": "سُخرة",
+    "hieroglyphs_raw": "hAw𓉔𓄿𓅱𓀜𓉔𓄿𓀋𓉔𓄿𓇌𓏏𓏛𓀜𓀀𓏤Corvee, forced laborسُخرة",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAb",
+    "meaning_en": "send",
+    "meaning_ar": "يرسل",
+    "hieroglyphs_raw": "hAb𓉔𓄿𓃀𓂻sendيرسل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAb-sw",
+    "meaning_en": "Mandatory, authorized",
+    "meaning_ar": "مُفوض، مُوكل",
+    "hieroglyphs_raw": "hAb-sw𓉔𓄿𓃀𓂻𓇓𓅱Mandatory, authorizedمُفوض، مُوكل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAbyt",
+    "meaning_en": "Treading under foot",
+    "meaning_ar": "يدوس بالقدم",
+    "hieroglyphs_raw": "hAbyt𓉔𓄿𓃀𓇌𓏏𓍁𓂻Treading under footيدوس بالقدم",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnw",
+    "meaning_en": "Waves",
+    "meaning_ar": "موج",
+    "hieroglyphs_raw": "hnw,hAnw𓉔𓈖𓏌𓍢𓈗𓏫𓉔𓄿𓈖𓏌𓅱𓈗Wavesموج",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hArt",
+    "meaning_en": "Herds (of game(",
+    "meaning_ar": "قطعان (طرائد)",
+    "hieroglyphs_raw": "hArt𓉔𓄿𓂋𓏏𓄛𓏥Herds (of game(قطعان (طرائد)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAkr",
+    "meaning_en": "Haker rites (at Abydos)",
+    "meaning_ar": "اسم طقس ديني في أبيدوس",
+    "hieroglyphs_raw": "hAkr𓉔𓄿𓎡𓂋𓎱𓉔𓄿𓎡𓇋𓂋𓎱𓉔𓄿𓎡𓎳𓉔𓎡𓈀Haker rites (at Abydos)اسم طقس ديني في أبيدوس",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hAt",
+    "meaning_en": "Ceiling",
+    "meaning_ar": "سقف",
+    "hieroglyphs_raw": "hAt𓉔𓄿𓏏𓇯Ceilingسقف",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hATs",
+    "meaning_en": "Kind of jar",
+    "meaning_ar": "نوع من الجرار",
+    "hieroglyphs_raw": "hATs𓉔𓄿𓍿𓋴𓏋𓉔𓍿𓋴𓎿Kind of jarنوع من الجرار",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hims",
+    "meaning_en": "Be humble",
+    "meaning_ar": "خشع، تواضع",
+    "hieroglyphs_raw": "hims𓉔𓇋𓄟𓋴𓀁Be humbleخشع، تواضع",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hims",
+    "meaning_en": "Humbly",
+    "meaning_ar": "بتواضع، بخشوع",
+    "hieroglyphs_raw": "hims𓉔𓇋𓄟𓋴𓂻𓏥𓉔𓄿𓄟𓋴𓂻Humblyبتواضع، بخشوع",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hy",
+    "meaning_en": "greeting",
+    "meaning_ar": "لك التحية",
+    "hieroglyphs_raw": "hy𓉔𓇌𓀁greetingلك التحية",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hy",
+    "meaning_en": "Hail, shout",
+    "meaning_ar": "تهليل، صياح",
+    "hieroglyphs_raw": "hy𓉔𓇌𓀁𓉔𓇋Hail, shoutتهليل، صياح",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hyhy",
+    "meaning_en": "Make acclamation",
+    "meaning_ar": "يهلل، يبتهج، يصفق",
+    "hieroglyphs_raw": "hyhy𓉔𓇌𓊗𓏮Make acclamationيهلل، يبتهج، يصفق",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hyhnw",
+    "meaning_en": "jubilate",
+    "meaning_ar": "احتفال، تهليل",
+    "hieroglyphs_raw": "hyhnw𓉔𓇌𓉔𓈖𓏌𓅱𓀤jubilateاحتفال، تهليل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hwhw",
+    "meaning_en": "Scurry",
+    "meaning_ar": "انطلق مسرعاً، السير في عجلة",
+    "hieroglyphs_raw": "hwhw𓉔𓍢𓉔𓍢𓂻Scurryانطلق مسرعاً، السير في عجلة",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hwt",
+    "meaning_en": "Complain",
+    "meaning_ar": "يشكو",
+    "hieroglyphs_raw": "hwt𓉔𓅱𓏏𓀁Complainيشكو",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hwt",
+    "meaning_en": "Be burnt",
+    "meaning_ar": "محترق",
+    "hieroglyphs_raw": "hwt𓉔𓅱𓏏𓊮Be burntمحترق",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hb",
+    "meaning_en": "Humiliate",
+    "meaning_ar": "يذل، يستذل",
+    "hieroglyphs_raw": "hb𓉔𓃀𓍁Humiliateيذل، يستذل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hb",
+    "meaning_en": "Plough",
+    "meaning_ar": "محراث",
+    "hieroglyphs_raw": "hb𓉔𓃀𓍁𓍁Ploughمحراث",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbi",
+    "meaning_en": "travel",
+    "meaning_ar": "يسافر، ينطلق",
+    "hieroglyphs_raw": "hbi𓉔𓃀𓂻travelيسافر، ينطلق",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbi",
+    "meaning_en": "Tread out (emmer)",
+    "meaning_ar": "يدوس، يدرس (القمح)",
+    "hieroglyphs_raw": "hbi𓉔𓃀𓍁𓂻Tread out (emmer)يدوس، يدرس (القمح)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hby",
+    "meaning_en": "ibis",
+    "meaning_ar": "أبو منجل",
+    "hieroglyphs_raw": "hby𓉔𓃀𓏭𓅞𓉔𓃀𓅝ibisأبو منجل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbny",
+    "meaning_en": "Ebony",
+    "meaning_ar": "أبنوس",
+    "hieroglyphs_raw": "hbny𓉔𓃀𓈖𓏭𓆱𓏥𓍁𓈖𓏭𓆱𓉔𓃀𓈖𓍁𓆱Ebonyأبنوس",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbnt",
+    "meaning_en": "A jar, measure of capacity",
+    "meaning_ar": "جرة، مقياس للسعة",
+    "hieroglyphs_raw": "hbnt𓉔𓃀𓈖𓏏𓏊𓍁𓈖𓏏𓏊A jar, measure of capacityجرة، مقياس للسعة",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbhb",
+    "meaning_en": "Drive away (pain)",
+    "meaning_ar": "يبعد (الألم)",
+    "hieroglyphs_raw": "hbhb𓉔𓃀𓉔𓃀𓍁𓀜Drive away (pain)يبعد (الألم)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbhb",
+    "meaning_en": "Traverse (country)",
+    "meaning_ar": "يجتاز (بلد)",
+    "hieroglyphs_raw": "hbhb𓉔𓃀𓉔𓃀𓂻𓉔𓃀𓉔𓃀𓍁𓂻Traverse (country)يجتاز (بلد)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hbq",
+    "meaning_en": "Beat up, triturate",
+    "meaning_ar": "يضرب، يدهس، يسحق",
+    "hieroglyphs_raw": "hbq𓉔𓃀𓈎𓂝𓉔𓃀𓈎𓂡𓉔𓄿𓃀𓈎𓂝Beat up, triturateيضرب، يدهس، يسحق",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hp",
+    "meaning_en": "law, ordinance",
+    "meaning_ar": "قاعدة، نظام، قانون، عرف",
+    "hieroglyphs_raw": "hp𓉔𓊪𓏛law, ordinanceقاعدة، نظام، قانون، عرف",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hm",
+    "meaning_en": "Be burning",
+    "meaning_ar": "يشتعل",
+    "hieroglyphs_raw": "hm𓉔𓅓𓊮Be burningيشتعل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hmhmw",
+    "meaning_en": "jubilation",
+    "meaning_ar": "تهليلات",
+    "hieroglyphs_raw": "hmhmw𓉔𓅓𓉔𓏥jubilationتهليلات",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hmhmt",
+    "meaning_en": "Quacking (of wild-fowl), war-shout",
+    "meaning_ar": "زئير، زمجرة، صيحة حرب",
+    "hieroglyphs_raw": "hmhmt𓉔𓅓𓉔𓅓𓏏𓀁𓉔𓅓𓉔𓅓𓏏𓃫𓂡𓏥𓉔𓅓𓉔𓅓𓏥Quacking (of wild-fowl), war-shoutزئير، زمجرة، صيحة حرب",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hmt",
+    "meaning_en": "Fare (for convegance)",
+    "meaning_ar": "أجر (المعدية)",
+    "hieroglyphs_raw": "hmt𓉔𓅓𓏏𓈀𓏥Fare (for convegance)أجر (المعدية)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hn",
+    "meaning_en": "Halt, cease",
+    "meaning_ar": "يوقف، يقطع، انقطاع",
+    "hieroglyphs_raw": "hn𓉔𓈖𓏛Halt, ceaseيوقف، يقطع، انقطاع",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hn",
+    "meaning_en": "box",
+    "meaning_ar": "علبة، صندوق",
+    "hieroglyphs_raw": "hn𓉔𓈖𓊭boxعلبة، صندوق",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnw",
+    "meaning_en": "Associates, family",
+    "meaning_ar": "الأقربون، الخاصة، أسرة",
+    "hieroglyphs_raw": "hnw𓉔𓈖𓏌𓍢𓀀𓁐𓏥𓀊𓀀𓁐𓏥Associates, familyالأقربون، الخاصة، أسرة",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnw",
+    "meaning_en": "Jar, measure of about ½ litre",
+    "meaning_ar": "جرة، مقياس حوالي نصف لتر",
+    "hieroglyphs_raw": "hnw𓉔𓈖𓏌𓅱𓏊Jar, measure of about ½ litreجرة، مقياس حوالي نصف لتر",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnw",
+    "meaning_en": "jubilation, praise of god or king",
+    "meaning_ar": "ابتهاج، يمدح، يهلل، يحتفل",
+    "hieroglyphs_raw": "hnw𓉔𓏌𓀊𓉔𓇋𓉔𓈖𓏌𓅱𓀤𓉔𓈖𓏌𓅱𓀤𓉔𓈖𓏌𓅱𓀁jubilation, praise of god or kingابتهاج، يمدح، يهلل، يحتفل",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnn",
+    "meaning_en": "Approve, cajole",
+    "meaning_ar": "يوافق على، تملقي",
+    "hieroglyphs_raw": "hnn𓉔𓈖𓈖𓂢𓂡Approve, cajoleيوافق على، تملقي",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnn",
+    "meaning_en": "Trust, assent",
+    "meaning_ar": "موافقة، اتفاق، رضا، ثقة في",
+    "hieroglyphs_raw": "hnn𓉔𓈖𓈖𓁶𓀁Trust, assentموافقة، اتفاق، رضا، ثقة في",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnn",
+    "meaning_en": "Attend to, consider, assent, approve (?), cajole (?)",
+    "meaning_ar": "ينحني، يحني الرأس، يحترم،   يوافق على (؟)، يُحَيى، يتملق (؟)",
+    "hieroglyphs_raw": "hnn𓉔𓈖𓈖𓁶𓉔𓈖𓈖𓏛Attend to, consider, assent, approve (?), cajole (?)ينحني، يحني الرأس، يحترم،   يوافق على (؟)، يُحَيى، يتملق (؟)",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hnn",
+    "meaning_en": "deer",
+    "meaning_ar": "ظبي، غزال",
+    "hieroglyphs_raw": "hnn𓉔𓈖𓈖𓄛deerظبي، غزال",
+    "phnid": 12,
+    "page": 1
+  },
+  {
+    "transliteration": "hr",
+    "meaning_en": "Verb: Milk",
+    "meaning_ar": "فعل: يحلب",
+    "hieroglyphs_raw": "hr𓉔𓂋𓂡Verb: Milkفعل: يحلب",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrw",
+    "meaning_en": "Be hold",
+    "meaning_ar": "انتبه",
+    "hieroglyphs_raw": "hrw𓉔𓂋𓅱𓏛Be holdانتبه",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrw",
+    "meaning_en": "Adjective:Pleasing, Verb 3rd infinitive: be pleased, satisfied, content, be quiet, at peace",
+    "meaning_ar": "صفة: سار، فعل ثلاثي مصدر: يكون مرضي، يقتنع، اكتفى، هادىء، في سلام",
+    "hieroglyphs_raw": "hrw𓉔𓂋𓏛Adjective:Pleasing, Verb 3rd infinitive: be pleased, satisfied, content, be quiet, at peaceصفة: سار، فعل ثلاثي مصدر: يكون مرضي، يقتنع، اكتفى، هادىء، في سلام",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrw",
+    "meaning_en": "day, day-time",
+    "meaning_ar": "يوم، نهار",
+    "hieroglyphs_raw": "hrw𓉔𓂋𓅱𓇳𓇳𓏤𓉔𓇳day, day-timeيوم، نهار",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrwyt",
+    "meaning_en": "Journal",
+    "meaning_ar": "صحيفة",
+    "hieroglyphs_raw": "hrwyt𓉔𓂋𓅱𓇌𓏏𓍼𓏤Journalصحيفة",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrp",
+    "meaning_en": "Sink, be immersed, suppress",
+    "meaning_ar": "يغطس، يغمر، يكبت، يخمد",
+    "hieroglyphs_raw": "hrp𓉔𓂋𓊪𓈗Sink, be immersed, suppressيغطس، يغمر، يكبت، يخمد",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrmw",
+    "meaning_en": "Poultry-pen",
+    "meaning_ar": "حظيرة الدجاج، حظيرة الطيور",
+    "hieroglyphs_raw": "hrmw𓉔𓂋𓈗𓉐Poultry-penحظيرة الدجاج، حظيرة الطيور",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hrt",
+    "meaning_en": "Peace, pleasantness",
+    "meaning_ar": "سلام، أمان، عطف",
+    "hieroglyphs_raw": "hrt𓉔𓂋𓏏𓏛𓉔𓂋𓏏𓀁Peace, pleasantnessسلام، أمان، عطف",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hh",
+    "meaning_en": "Blast (of fire)",
+    "meaning_ar": "انفجار (النار)",
+    "hieroglyphs_raw": "hh𓉔𓉔𓊮𓉔𓉔𓏭𓊮Blast (of fire)انفجار (النار)",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hsmq",
+    "meaning_en": "Wade",
+    "meaning_ar": "يخوض",
+    "hieroglyphs_raw": "hsmq𓉔𓋴𓂞𓈎𓂻Wadeيخوض",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hqs",
+    "meaning_en": "Steal, limited, spoiled",
+    "meaning_ar": "يسرق، ناقص، محدود، تلف، خسر",
+    "hieroglyphs_raw": "hqs𓉔𓈎𓋴𓅪Steal, limited, spoiledيسرق، ناقص، محدود، تلف، خسر",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "ht",
+    "meaning_en": "Call out",
+    "meaning_ar": "ينادي، يصيح",
+    "hieroglyphs_raw": "ht𓉔𓏏𓀁Call outينادي، يصيح",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "htw",
+    "meaning_en": "Ape",
+    "meaning_ar": "قرد، سعدان",
+    "hieroglyphs_raw": "htw,hTw𓉔𓏏𓍢𓄛Apeقرد، سعدان",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "htt",
+    "meaning_en": "Female ape",
+    "meaning_ar": "أنثى السعدان",
+    "hieroglyphs_raw": "htt,hTt𓉔𓏏𓏏𓄛𓉔𓍿𓏏Female apeأنثى السعدان",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "htt",
+    "meaning_en": "Adoration",
+    "meaning_ar": "عبادة",
+    "hieroglyphs_raw": "httAdorationعبادة",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hd",
+    "meaning_en": "Attack, punish, dismiss, obstruct, prevail over",
+    "meaning_ar": "يعاقب، يطرد، يضعف، يهاجم، يعرقل، يغلب",
+    "hieroglyphs_raw": "hd𓉔𓂧𓂢𓂡Attack, punish, dismiss, obstruct, prevail overيعاقب، يطرد، يضعف، يهاجم، يعرقل، يغلب",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hdmw",
+    "meaning_en": "Footstool",
+    "meaning_ar": "مسند القدمين",
+    "hieroglyphs_raw": "hdmw𓉔𓂧𓈗𓆱Footstoolمسند القدمين",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hdn",
+    "meaning_en": "Broom from the, a plant",
+    "meaning_ar": "مكنسة من الغاب، نبات",
+    "hieroglyphs_raw": "hdn𓉔𓂧𓈖𓆰𓉔𓂧𓏌𓆰Broom from the, a plantمكنسة من الغاب، نبات",
+    "phnid": 12,
+    "page": 2
+  },
+  {
+    "transliteration": "hdhd",
+    "meaning_en": "Charge (of army)",
+    "meaning_ar": "هجوم عسكري",
+    "hieroglyphs_raw": "hdhd𓉔𓂧𓉔𓂧𓂻Charge (of army)هجوم عسكري",
+    "phnid": 12,
+    "page": 2
+  }
+]

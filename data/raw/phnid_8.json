@@ -1,0 +1,378 @@
+[
+  {
+    "transliteration": "fsi",
+    "meaning_en": "cook",
+    "meaning_ar": "يطبخ",
+    "hieroglyphs_raw": "fsi,psi𓆑𓋴𓊮𓊮cookيطبخ",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "f",
+    "meaning_en": "he, him, his",
+    "meaning_ar": "هو (ضمير شخصي متصل)",
+    "hieroglyphs_raw": "f𓆑he, him, hisهو (ضمير شخصي متصل)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fA",
+    "meaning_en": "Sail, the wind rose",
+    "meaning_ar": "يبحر، هباب الريح",
+    "hieroglyphs_raw": "fA𓊡𓍢Sail, the wind roseيبحر، هباب الريح",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAi",
+    "meaning_en": "Raise, lift up, carry, support, weigh",
+    "meaning_ar": "يرفع، يحمل، يحضر، يزن، يساعد",
+    "hieroglyphs_raw": "fAi𓆑𓄿𓀋𓀜𓆑𓄿𓀋𓂡𓀋𓀜𓆑𓄿𓂡𓆑𓄿𓀋𓆑𓄿𓇌𓀋𓀜Raise, lift up, carry, support, weighيرفع، يحمل، يحضر، يزن، يساعد",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAi-a",
+    "meaning_en": "Rise the arm (an epithet of the god min)",
+    "meaning_ar": "يرفع الذراع، ذو الذراع المرفوعة (صفة للإله مين)",
+    "hieroglyphs_raw": "fAi-a𓆑𓄿𓀋𓂝𓏤Rise the arm (an epithet of the god min)يرفع الذراع، ذو الذراع المرفوعة (صفة للإله مين)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAi-TAw",
+    "meaning_en": "Lift off",
+    "meaning_ar": "يقلع",
+    "hieroglyphs_raw": "fAi-TAw𓆑𓄿𓀋𓂡𓊡𓅱Lift offيقلع",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAyt",
+    "meaning_en": "Portable shrine",
+    "meaning_ar": "مقصورة محمولة",
+    "hieroglyphs_raw": "fAyt𓆑𓄿𓇌𓀋𓏏𓆱𓆑𓇌𓏏𓀋Portable shrineمقصورة محمولة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAyt",
+    "meaning_en": "Reward",
+    "meaning_ar": "يكافئ، يجازي",
+    "hieroglyphs_raw": "fAyt𓆑𓄿𓇌𓏏𓀋𓏛𓏥Rewardيكافئ، يجازي",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAyt",
+    "meaning_en": "Weight (?)",
+    "meaning_ar": "يزن، ثقل، يحمل (؟)",
+    "hieroglyphs_raw": "fAyt𓆑𓄿𓇌𓏏𓀋Weight (?)يزن، ثقل، يحمل (؟)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAw",
+    "meaning_en": "Food-supplies (?)",
+    "meaning_ar": "مؤن الطعام (؟)",
+    "hieroglyphs_raw": "fAw𓆑𓄫𓅱𓈀𓏥Food-supplies (?)مؤن الطعام (؟)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAw",
+    "meaning_en": "Magnificence, splendour",
+    "meaning_ar": "بهاء، جلال، عظمة",
+    "hieroglyphs_raw": "fAw𓆑𓄫𓅱𓏛𓏥Magnificence, splendourبهاء، جلال، عظمة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAw",
+    "meaning_en": "censure",
+    "meaning_ar": "إدانة",
+    "hieroglyphs_raw": "fAwcensureإدانة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAwt",
+    "meaning_en": "The greatness,  beauty, glitter",
+    "meaning_ar": "بهاء، جلال، عظمة، لمعان، تألق",
+    "hieroglyphs_raw": "fAwt𓆑𓄫𓍢𓏏𓏥The greatness,  beauty, glitterبهاء، جلال، عظمة، لمعان، تألق",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAk",
+    "meaning_en": "Shorn man",
+    "meaning_ar": "رجل أصلع",
+    "hieroglyphs_raw": "fAk𓆑𓄿𓎡𓀀Shorn manرجل أصلع",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAk",
+    "meaning_en": "Be shorn",
+    "meaning_ar": "يكون أصلع",
+    "hieroglyphs_raw": "fAk𓆑𓄿𓎡𓁸Be shornيكون أصلع",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fAt",
+    "meaning_en": "Financial interest (?)",
+    "meaning_ar": "فائدة مالية (؟)",
+    "hieroglyphs_raw": "fAt𓆑𓄿𓏏𓀋Financial interest (?)فائدة مالية (؟)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fy",
+    "meaning_en": "A particle for  possess for the solo owner and the dual owned",
+    "meaning_ar": "أداة ملكية متصلة، المالك غائب مفرد مذكر والمملوك مثنى",
+    "hieroglyphs_raw": "fy𓆑𓏭A particle for  possess for the solo owner and the dual ownedأداة ملكية متصلة، المالك غائب مفرد مذكر والمملوك مثنى",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fn",
+    "meaning_en": "Be weak, faint",
+    "meaning_ar": "يكون ضعيف، يصاب بإغماء",
+    "hieroglyphs_raw": "fn𓆑𓈖𓅪Be weak, faintيكون ضعيف، يصاب بإغماء",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnfnw",
+    "meaning_en": "Recompense (?)",
+    "meaning_ar": "يكافئ، يجازي  (؟)",
+    "hieroglyphs_raw": "fnfnw𓆑𓈖𓆑𓏌𓅱𓏛Recompense (?)يكافئ، يجازي  (؟)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnx",
+    "meaning_en": "Furniture carpenter",
+    "meaning_ar": "نجار أثاث",
+    "hieroglyphs_raw": "fnx𓆑𓈖𓐍𓌪𓍉Furniture carpenterنجار أثاث",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnx-ib",
+    "meaning_en": "clever",
+    "meaning_ar": "فطن",
+    "hieroglyphs_raw": "fnx-ib𓆑𓈖𓐍𓍢𓄣cleverفطن",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnxw",
+    "meaning_en": "A Syrian people",
+    "meaning_ar": "سوريون",
+    "hieroglyphs_raw": "fnxw𓆑𓈖𓐍𓅱𓍼𓏥𓆑𓈖𓐍𓅱𓌙𓏪A Syrian peopleسوريون",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnxw",
+    "meaning_en": "Food-offerings",
+    "meaning_ar": "قرابين من الطعام",
+    "hieroglyphs_raw": "fnxw𓆑𓈖𓐍𓅱𓈀𓏥Food-offeringsقرابين من الطعام",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnT",
+    "meaning_en": "Snake, (intestinal) worm, become maggoty",
+    "meaning_ar": "ثعبان، دودة (معوية)، يصبح كثير الديدان",
+    "hieroglyphs_raw": "fnT𓆑𓈖𓍿𓆙𓆑𓈖𓏏𓆙𓆑𓈖𓏏𓆑Snake, (intestinal) worm, become maggotyثعبان، دودة (معوية)، يصبح كثير الديدان",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnd",
+    "meaning_en": "Nose",
+    "meaning_ar": "أنف",
+    "hieroglyphs_raw": "fnd,fnD𓆑𓈖𓂧𓂉𓂉𓏤𓆑𓈖𓆓𓐩𓂉𓆑𓈖𓆓𓂉Noseأنف",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fnDy",
+    "meaning_en": "Beaky (Thoth)",
+    "meaning_ar": "ذو الأنف المعقوف  (تحوت، جحوتي)",
+    "hieroglyphs_raw": "fnDy𓂉𓏤𓇌𓁟𓆑𓈖𓂧𓇌𓂉Beaky (Thoth)ذو الأنف المعقوف  (تحوت، جحوتي)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fx",
+    "meaning_en": "Grasp",
+    "meaning_ar": "قبضة",
+    "hieroglyphs_raw": "fx𓆑𓐍𓂝𓂬Graspقبضة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fx",
+    "meaning_en": "Loose, release, loosen, cast off., Set out, depart, get rid of, destroy, obliterate, leave, fail (to do something), set out, depart, ruin (of building)",
+    "meaning_ar": "يفقد، يطلق سراح،  مُهمَل، يزال، يدمر، يمحو، يطمس، يترك، يفشل، يجتاح (بلد)، يشرَع في، يغادر الميناء،  يرحل.، يفشل (في أن يفعل شيء ما) دمار، أطلال (مبنى)",
+    "hieroglyphs_raw": "fx𓆑𓐍𓍼𓂻𓆑𓐍𓋳𓍼𓂻Loose, release, loosen, cast off., Set out, depart, get rid of, destroy, obliterate, leave, fail (to do something), set out, depart, ruin (of building)يفقد، يطلق سراح،  مُهمَل، يزال، يدمر، يمحو، يطمس، يترك، يفشل، يجتاح (بلد)، يشرَع في، يغادر الميناء،  يرحل.، يفشل (في أن يفعل شيء ما) دمار، أطلال (مبنى)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fqA",
+    "meaning_en": "Reward",
+    "meaning_ar": "يكافئ، يجازي، مكافأة",
+    "hieroglyphs_raw": "fqA𓆑𓈎𓄿𓏒𓏛𓆑𓈎𓄿𓈀𓏛𓆑𓈎𓈀𓆑𓈎𓄿𓏛𓏥𓆑𓈎𓏛𓆑𓈎𓄖𓂡Rewardيكافئ، يجازي، مكافأة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fqA",
+    "meaning_en": "Some kind of pies",
+    "meaning_ar": "نوع من الفطائر",
+    "hieroglyphs_raw": "fqA𓆑𓈎𓄿𓏒𓆑𓈎𓄿𓈀Some kind of piesنوع من الفطائر",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fqAw",
+    "meaning_en": "Awards",
+    "meaning_ar": "جوائز، مكافآت",
+    "hieroglyphs_raw": "fqAw𓆑𓈎𓄿𓍢𓏒𓏥Awardsجوائز، مكافآت",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fk",
+    "meaning_en": "be empty,  wasted (through oppression).",
+    "meaning_ar": "يكون فارغ، ضائع،  يتدمر (خلال القمع)",
+    "hieroglyphs_raw": "fk𓆑𓎡𓁸𓅪be empty,  wasted (through oppression).يكون فارغ، ضائع،  يتدمر (خلال القمع)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fkty",
+    "meaning_en": "shorn priest",
+    "meaning_ar": "كاهن أصلع",
+    "hieroglyphs_raw": "fkty𓆑𓎡𓏏𓏭𓁸shorn priestكاهن أصلع",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fgn",
+    "meaning_en": "defecate",
+    "meaning_ar": "تبرز، تغوط",
+    "hieroglyphs_raw": "fgn,fgAdefecateتبرز، تغوط",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "ft",
+    "meaning_en": "disgust, show dislike",
+    "meaning_ar": "مثير للاشمئزاز، كره",
+    "hieroglyphs_raw": "ft𓆑𓏏𓅪disgust, show dislikeمثير للاشمئزاز، كره",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "ft",
+    "meaning_en": "Serpent with two horns",
+    "meaning_ar": "حية ذات قرنين",
+    "hieroglyphs_raw": "ft𓆑𓏏Serpent with two hornsحية ذات قرنين",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "ftft",
+    "meaning_en": "leap",
+    "meaning_ar": "يقفز، يوثب",
+    "hieroglyphs_raw": "ftft𓆑𓏏𓆑𓏏𓂻leapيقفز، يوثب",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "ftt",
+    "meaning_en": "lint",
+    "meaning_ar": "ضمادة كتانية",
+    "hieroglyphs_raw": "ftt𓆑𓏏𓏏𓄦𓆑𓏏𓏏𓍢lintضمادة كتانية",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "ftt",
+    "meaning_en": "Obliterate (inscription)",
+    "meaning_ar": "يطمس (نقش)",
+    "hieroglyphs_raw": "ftt𓆑𓏏𓏏𓄓𓀁Obliterate (inscription)يطمس (نقش)",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fttw",
+    "meaning_en": "fish",
+    "meaning_ar": "سمك",
+    "hieroglyphs_raw": "fttw𓆑𓏏𓏏𓅱𓆛𓏥fishسمك",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fd",
+    "meaning_en": "sweat",
+    "meaning_ar": "يرشح، يعرق",
+    "hieroglyphs_raw": "fd𓆑𓂧𓂐sweatيرشح، يعرق",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdi",
+    "meaning_en": "pluck (flower ), pull out, uproot, remove",
+    "meaning_ar": "يقطف (زهور)، يقتلع، يزيل",
+    "hieroglyphs_raw": "fdi𓆑𓂧𓏴𓂝𓆑𓂧𓏴𓂡𓆑𓂧𓂡pluck (flower ), pull out, uproot, removeيقطف (زهور)، يقتلع، يزيل",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdw",
+    "meaning_en": "Four",
+    "meaning_ar": "أربعة",
+    "hieroglyphs_raw": "fdw𓆑𓂧𓅱𓏤𓏤𓏤𓏤𓆑𓂧𓏤𓏤𓏤𓏤Fourأربعة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdnw",
+    "meaning_en": "fourth",
+    "meaning_ar": "رابع",
+    "hieroglyphs_raw": "fdnw𓆑𓂧𓏌𓏤𓏤𓏤𓏤𓅱fourthرابع",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdq",
+    "meaning_en": "sever, divide, part, waste (seed),  wear out,  slice, portion",
+    "meaning_ar": "يفصل، يقطع، ينتزع من، يجزئ، قطعة، يهدر (بذور)، يشق، يبلى، يتآكل، يُقَسِمْ، يشطر",
+    "hieroglyphs_raw": "fdq𓆑𓂧𓈎𓏴𓆑𓂧𓈎𓏴𓂡sever, divide, part, waste (seed),  wear out,  slice, portionيفصل، يقطع، ينتزع من، يجزئ، قطعة، يهدر (بذور)، يشق، يبلى، يتآكل، يُقَسِمْ، يشطر",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdt",
+    "meaning_en": "Feminine of four, quartette",
+    "meaning_ar": "مؤنث رقم أربعة",
+    "hieroglyphs_raw": "fdt𓆑𓂧𓏏𓏤𓏤𓏤𓏤Feminine of four, quartetteمؤنث رقم أربعة",
+    "phnid": 8,
+    "page": 1
+  },
+  {
+    "transliteration": "fdt",
+    "meaning_en": "Sweat",
+    "meaning_ar": "عرق",
+    "hieroglyphs_raw": "fdt𓆑𓂧𓏏𓈗Sweatعرق",
+    "phnid": 8,
+    "page": 1
+  }
+]

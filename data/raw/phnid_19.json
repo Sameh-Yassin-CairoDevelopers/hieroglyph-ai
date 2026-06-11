@@ -1,0 +1,833 @@
+[
+  {
+    "transliteration": "k",
+    "meaning_en": "thou, thy, thee",
+    "meaning_ar": "انت، خاصتك",
+    "hieroglyphs_raw": "k𓎡thou, thy, theeانت، خاصتك",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA",
+    "meaning_en": "bull",
+    "meaning_ar": "ثور",
+    "hieroglyphs_raw": "kA𓂓𓂸𓃒𓂓𓃒𓂸𓃒𓃒𓃾bullثور",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA",
+    "meaning_en": "soul, spirit, essence (of a being), personality, fortune, kingship, will (of king), goodwill, phantom",
+    "meaning_ar": "روح، جوهر (شخص - كائن)، هوية، شخصية، إرادة (ملِك)، ملكية، طيف، نية حسنة، حظ",
+    "hieroglyphs_raw": "kA𓂓𓏤𓂓𓅆𓂓𓄿𓀁soul, spirit, essence (of a being), personality, fortune, kingship, will (of king), goodwill, phantomروح، جوهر (شخص - كائن)، هوية، شخصية، إرادة (ملِك)، ملكية، طيف، نية حسنة، حظ",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA",
+    "meaning_en": "so (non-enclitic particle), then (non-enclitic particle)",
+    "meaning_ar": "كذلك (آداة غير مسندة )، عندئذ (آداة غير مسندة )",
+    "hieroglyphs_raw": "kA𓎡𓄿𓀁𓎡𓄿so (non-enclitic particle), then (non-enclitic particle)كذلك (آداة غير مسندة )، عندئذ (آداة غير مسندة )",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA idr",
+    "meaning_en": "bull of the herd (of best grade)",
+    "meaning_ar": "ثور القطيع (الثور الرئيسي ؟)",
+    "hieroglyphs_raw": "kA idr𓂸𓎩𓃒bull of the herd (of best grade)ثور القطيع (الثور الرئيسي ؟)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA.f",
+    "meaning_en": "he will say",
+    "meaning_ar": "سيقول هو",
+    "hieroglyphs_raw": "kA.f𓎡𓄿𓀁𓆑he will sayسيقول هو",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA n idr",
+    "meaning_en": "bull of the herd (of best grade ?)",
+    "meaning_ar": "ثور القطيع (الثور الرئيسي؟)",
+    "hieroglyphs_raw": "kA n idr𓂸𓃒𓏤𓈖𓎩bull of the herd (of best grade ?)ثور القطيع (الثور الرئيسي؟)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kA-Hr-kA",
+    "meaning_en": "fifth month, festival of khoiakh",
+    "meaning_ar": "الشهر الخامس، احتفال كياك",
+    "hieroglyphs_raw": "kA-Hr-kA𓂓𓁷𓏤𓂓𓎱𓇳𓂓𓂓𓏥𓎱𓇳fifth month, festival of khoiakhالشهر الخامس، احتفال كياك",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAi",
+    "meaning_en": "boat (of Nubian type)",
+    "meaning_ar": "مركب (نوبي)",
+    "hieroglyphs_raw": "kAiboat (of Nubian type)مركب (نوبي)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAi",
+    "meaning_en": "think about, plan (vb.)",
+    "meaning_ar": "يفكر في، يخطط",
+    "hieroglyphs_raw": "kAi𓎡𓄿𓀁think about, plan (vb.)يفكر في، يخطط",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAw",
+    "meaning_en": "sycamore figs",
+    "meaning_ar": "الجميز",
+    "hieroglyphs_raw": "kAw𓎡𓄿𓅱𓈒𓏥𓂓𓂸𓍢𓈒𓏥sycamore figsالجميز",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAw",
+    "meaning_en": "provisions",
+    "meaning_ar": "مؤن",
+    "hieroglyphs_raw": "kAw𓂓𓅱𓏥provisionsمؤن",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAw",
+    "meaning_en": "food",
+    "meaning_ar": "طعام",
+    "hieroglyphs_raw": "kAw𓂓𓏤𓈀𓏥𓂓𓄿𓍢𓈀𓏥𓂓𓏥foodطعام",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAwty",
+    "meaning_en": "builder’s workman, porter",
+    "meaning_ar": "بَنَّاء، شيال",
+    "hieroglyphs_raw": "kAwty𓂓𓄿𓅱𓏏𓏭𓀋𓂡𓀀𓎡𓄿𓅱𓏏𓏭𓀋builder’s workman, porterبَنَّاء، شيال",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "(royal) nursery, secret chamber (?)",
+    "meaning_ar": "حضانة (ملكية)، حجرة سرية (؟)",
+    "hieroglyphs_raw": "kAp𓂣𓊪𓉐(royal) nursery, secret chamber (?)حضانة (ملكية)، حجرة سرية (؟)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "cover (vb.), roof over, hide oneself, take cover, droop (of eyebrows)",
+    "meaning_ar": "يغطي، يختبئ، يحتمي، تدلي (الحاجب)",
+    "hieroglyphs_raw": "kAp𓊷𓊪𓀅cover (vb.), roof over, hide oneself, take cover, droop (of eyebrows)يغطي، يختبئ، يحتمي، تدلي (الحاجب)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "bandage (vb.)",
+    "meaning_ar": "ضمادة",
+    "hieroglyphs_raw": "kAp𓂬𓊪𓋳bandage (vb.)ضمادة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "hut, hide (of fowler)",
+    "meaning_ar": "كوخ، مخبىء (للدواجن)",
+    "hieroglyphs_raw": "kAp𓎡𓄿𓊪𓐡𓉐𓊷𓊪𓉐hut, hide (of fowler)كوخ، مخبىء (للدواجن)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "fumigate (patient)",
+    "meaning_ar": "يُبَخِّر (مريض)",
+    "hieroglyphs_raw": "kAp𓎡𓄿𓊪𓏯𓂡fumigate (patient)يُبَخِّر (مريض)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAp",
+    "meaning_en": "burn (incense), cense (gods)",
+    "meaning_ar": "يحرق (بخور)، يُبَخِّر (للالهة)",
+    "hieroglyphs_raw": "kAp𓊷𓊪𓂡𓎡𓊪𓊷𓂓𓊪𓊷burn (incense), cense (gods)يحرق (بخور)، يُبَخِّر (للالهة)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApAp",
+    "meaning_en": "cover (vb.)",
+    "meaning_ar": "يغطي",
+    "hieroglyphs_raw": "kApAp𓎡𓄿𓊪𓄿𓊪𓇮cover (vb.)يغطي",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApw",
+    "meaning_en": "bittern",
+    "meaning_ar": "طائر الواق",
+    "hieroglyphs_raw": "kApwbitternطائر الواق",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApw",
+    "meaning_en": "crocodile",
+    "meaning_ar": "تمساح",
+    "hieroglyphs_raw": "kApw𓎡𓄿𓊪𓍢𓆊crocodileتمساح",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApw",
+    "meaning_en": "roof",
+    "meaning_ar": "سقف",
+    "hieroglyphs_raw": "kApw𓂣𓊪𓉐roofسقف",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApwt",
+    "meaning_en": "covers (of the sky), clouds",
+    "meaning_ar": "أغطية (السماء)، سحاب",
+    "hieroglyphs_raw": "kApwt𓎡𓄿𓊪𓏏𓇮𓈓𓇮𓏏𓏤𓏥covers (of the sky), cloudsأغطية (السماء)، سحاب",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kApt",
+    "meaning_en": "linen cover (of jar)",
+    "meaning_ar": "غطاء من الكتان (للأواني)",
+    "hieroglyphs_raw": "kApt𓊷𓊪𓏏𓋳linen cover (of jar)غطاء من الكتان (للأواني)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAm",
+    "meaning_en": "vintner",
+    "meaning_ar": "صانع النبيذ",
+    "hieroglyphs_raw": "kAm,kAmw𓂓𓅓𓇭𓂓𓄿𓅓𓏰𓏰𓀜vintnerصانع النبيذ",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAmw",
+    "meaning_en": "garden, fruit garden, vine farms",
+    "meaning_ar": "حديقة، بستان فواكه، مزارع الكروم",
+    "hieroglyphs_raw": "kAmw𓂓𓄿𓅓𓍢𓉐garden, fruit garden, vine farmsحديقة، بستان فواكه، مزارع الكروم",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAmw",
+    "meaning_en": "grape-harvest",
+    "meaning_ar": "حصاد العنب",
+    "hieroglyphs_raw": "kAmw𓂓𓏤𓐝𓏥grape-harvestحصاد العنب",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAmw",
+    "meaning_en": "orchard, vineyard",
+    "meaning_ar": "بستان، كرم",
+    "hieroglyphs_raw": "kAmw𓂓𓄿𓅓𓏲𓉐𓎡𓄿𓅓𓅱𓉐orchard, vineyardبستان، كرم",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAny",
+    "meaning_en": "vintner",
+    "meaning_ar": "صانع النبيذ",
+    "hieroglyphs_raw": "kAny𓂓𓏤𓈖𓇌𓇭𓀀𓇋𓇋vintnerصانع النبيذ",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAnw",
+    "meaning_en": "vineyard",
+    "meaning_ar": "كرمة",
+    "hieroglyphs_raw": "kAnw𓂓𓏌𓆭𓆭𓆭𓏌𓎡𓇭𓂓𓄿𓈖𓇭vineyardكرمة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAr",
+    "meaning_en": "shrine",
+    "meaning_ar": "مقصورة",
+    "hieroglyphs_raw": "kAr𓎡𓄿𓂋𓎅𓉐𓎡𓄿𓉬𓎡𓄿𓂋𓉱𓉬shrineمقصورة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAry",
+    "meaning_en": "gardener",
+    "meaning_ar": "بستاني",
+    "hieroglyphs_raw": "kAry𓂓𓂋𓇌𓇭𓀀gardenerبستاني",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAhs",
+    "meaning_en": "be harsh, overbearing",
+    "meaning_ar": "يكون قاسى، يكون متصلف",
+    "hieroglyphs_raw": "kAhs𓎡𓄿𓉔𓋴𓀁𓎡𓄿𓉔𓋴𓃫𓀜𓎡𓄿𓉔𓋴𓃩be harsh, overbearingيكون قاسى، يكون متصلف",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAS",
+    "meaning_en": "Kush (in Nubia)",
+    "meaning_ar": "كوش (في النوبة)",
+    "hieroglyphs_raw": "kAS𓎡𓄿𓈙𓈉𓎡𓈙𓈉𓎡𓄿𓋴𓌙𓈉𓎡𓄿𓊃𓈉Kush (in Nubia)كوش (في النوبة)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAkA",
+    "meaning_en": "bush (?), brush (?)",
+    "meaning_ar": "شجيرة، أجمة",
+    "hieroglyphs_raw": "kAkA𓂓𓄿𓂓𓄿𓆰bush (?), brush (?)شجيرة، أجمة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAt",
+    "meaning_en": "work, construction, craft, profession",
+    "meaning_ar": "عمل، بناء، حرفة، مهنة",
+    "hieroglyphs_raw": "kAt𓂓𓏏𓀋𓂓𓄿𓏏𓀋𓏛𓏥𓂓𓏏𓈓𓀋𓏏𓏛𓏥𓀋𓏪𓂓𓏏𓀋𓏛work, construction, craft, professionعمل، بناء، حرفة، مهنة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAt",
+    "meaning_en": "vagina",
+    "meaning_ar": "مهبل",
+    "hieroglyphs_raw": "kAt𓂓𓏏𓄹𓂓𓄿𓏏𓄹vaginaمهبل",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAt",
+    "meaning_en": "thought, plan, device, plot",
+    "meaning_ar": "فكرة، خاطرة، خطة، حيلة",
+    "hieroglyphs_raw": "kAt𓎡𓄿𓏏𓀁𓎡𓏏thought, plan, device, plotفكرة، خاطرة، خطة، حيلة",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kAt-Swt",
+    "meaning_en": "a lichen",
+    "meaning_ar": "نبات الأشنة (طحلب أصفر)",
+    "hieroglyphs_raw": "kAt-Swt𓂓𓏏𓀋𓆄𓍢𓏏𓈒𓏥a lichenنبات الأشنة (طحلب أصفر)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "ki",
+    "meaning_en": "cry out",
+    "meaning_ar": "يصرخ، يصيح",
+    "hieroglyphs_raw": "ki𓎡𓇋𓀁cry outيصرخ، يصيح",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kit",
+    "meaning_en": "shout of acclaim",
+    "meaning_ar": "تهليل",
+    "hieroglyphs_raw": "kit𓎡𓇋𓏏𓎡𓇌𓏏𓎡𓅱𓏏𓏝𓎡𓏏𓅱shout of acclaimتهليل",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "ky",
+    "meaning_en": "monkey",
+    "meaning_ar": "قرد",
+    "hieroglyphs_raw": "ky𓎡𓇌𓃷monkeyقرد",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "ky",
+    "meaning_en": "other (m.), another (m.)",
+    "meaning_ar": "آخر، ثان",
+    "hieroglyphs_raw": "ky𓎡𓇌other (m.), another (m.)آخر، ثان",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kywy",
+    "meaning_en": "others",
+    "meaning_ar": "آخرون",
+    "hieroglyphs_raw": "kywy𓎡𓏭𓅱𓏭othersآخرون",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kwr",
+    "meaning_en": "gold miners (?)",
+    "meaning_ar": "عمال مناجم الذهب",
+    "hieroglyphs_raw": "kwr𓈎𓅱𓂋𓂡𓈎𓅱𓂋𓏤gold miners (?)عمال مناجم الذهب",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kbn",
+    "meaning_en": "Byblos",
+    "meaning_ar": "جبيل",
+    "hieroglyphs_raw": "kbn𓎡𓃀𓈖𓈉𓎡𓏤𓃀𓈖𓌙𓊷𓈖𓏭𓈉Byblosجبيل",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kbnt",
+    "meaning_en": "seagoing (ship)",
+    "meaning_ar": "سفينة (بحرية)",
+    "hieroglyphs_raw": "kbnt𓎡𓃀𓈖𓏏𓊛seagoing (ship)سفينة (بحرية)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kf",
+    "meaning_en": "uncover, unclothe, doff, strip, strip away (of sail), deprive, despoil away, clear (of sky), gather (flowers)",
+    "meaning_ar": "يكشف، يعري، يتجرد من ملابسه، يسلب، صفاء (السماء)، يجمع (زهور)",
+    "hieroglyphs_raw": "kf𓎡𓆑𓇋𓇋𓋳𓎡𓆑𓋳𓎡𓆑𓄿𓄖𓂻𓎡𓆑𓄿𓄖𓋳𓂡𓎡𓆑𓄖𓏛𓎡𓆑𓏛𓎡𓆑𓂡uncover, unclothe, doff, strip, strip away (of sail), deprive, despoil away, clear (of sky), gather (flowers)يكشف، يعري، يتجرد من ملابسه، يسلب، صفاء (السماء)، يجمع (زهور)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kfA",
+    "meaning_en": "be discreet",
+    "meaning_ar": "يكون حذراً",
+    "hieroglyphs_raw": "kfA𓎡𓆑𓄿𓄖𓏛be discreetيكون حذراً",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kfA",
+    "meaning_en": "uncover, unclothe, doff, strip, strip away (of sail), deprive, despoil away, clear (of sky), gather (flowers)",
+    "meaning_ar": "يكشف، يعري، يتجرد من ملابسه، يسلب، صفاء (السماء)، يجمع (زهور)",
+    "hieroglyphs_raw": "kfA𓎡𓆑𓄿𓄖𓂻𓎡𓆑𓄿𓄖𓋳𓂡uncover, unclothe, doff, strip, strip away (of sail), deprive, despoil away, clear (of sky), gather (flowers)يكشف، يعري، يتجرد من ملابسه، يسلب، صفاء (السماء)، يجمع (زهور)",
+    "phnid": 19,
+    "page": 1
+  },
+  {
+    "transliteration": "kfA",
+    "meaning_en": "bottom (of jar), hinder-parts (of bird), base (of abscess)",
+    "meaning_ar": "قعر (الأنية)، الأجزاء الخلفية (للطائر)، قاعدة (الخُرَّاج)",
+    "hieroglyphs_raw": "kfA𓎡𓆑𓄿𓄖bottom (of jar), hinder-parts (of bird), base (of abscess)قعر (الأنية)، الأجزاء الخلفية (للطائر)، قاعدة (الخُرَّاج)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfA",
+    "meaning_en": "flow forth",
+    "meaning_ar": "يتدفق",
+    "hieroglyphs_raw": "kfA𓎡𓆑𓄿𓂐𓎡𓆑𓆑𓂐flow forthيتدفق",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfA ib",
+    "meaning_en": "trustworthy",
+    "meaning_ar": "جدير بالثقة",
+    "hieroglyphs_raw": "kfA ib𓎡𓆑𓄿𓄖𓏛𓄣𓏤𓄖𓏛𓄣𓏤𓄖𓄣𓏤trustworthyجدير بالثقة",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfA ib Hr",
+    "meaning_en": "trust in",
+    "meaning_ar": "يثق في",
+    "hieroglyphs_raw": "kfA ib Hr𓎡𓆑𓄿𓄖𓏛𓄣𓏤𓁷trust inيثق في",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kft",
+    "meaning_en": "trustworthiness (?)",
+    "meaning_ar": "ثقة",
+    "hieroglyphs_raw": "kft,kfAt𓎡𓆑𓏏𓏛𓏥trustworthiness (?)ثقة",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfa",
+    "meaning_en": "shoot at (target)",
+    "meaning_ar": "يصوب (ناحية هدف)",
+    "hieroglyphs_raw": "kfa𓎡𓆑𓂝𓂡shoot at (target)يصوب (ناحية هدف)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfa",
+    "meaning_en": "make captures, make requisition, booty, captures",
+    "meaning_ar": "يسبي، يغنم، غنيمة، اسرى",
+    "hieroglyphs_raw": "kfa𓎡𓆑𓂝𓂬𓎡𓆑𓂞𓍢𓂡𓎡𓆑𓂝𓂡make captures, make requisition, booty, capturesيسبي، يغنم، غنيمة، اسرى",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kfaw",
+    "meaning_en": "warrior",
+    "meaning_ar": "محارب",
+    "hieroglyphs_raw": "kfaw𓎡𓆑𓂝𓅱𓂬𓂡𓎡𓆑𓂝𓂬𓂡warriorمحارب",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kff",
+    "meaning_en": "flow forth",
+    "meaning_ar": "يتدفق",
+    "hieroglyphs_raw": "kff𓎡𓆑𓆑𓂐flow forthيتدفق",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kft",
+    "meaning_en": "gash",
+    "meaning_ar": "جرح عميق",
+    "hieroglyphs_raw": "kftgashجرح عميق",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kftiw",
+    "meaning_en": "class of seagoing ships",
+    "meaning_ar": "فئة من السفن البحرية",
+    "hieroglyphs_raw": "kftiw𓎡𓆑𓍘𓅱𓊛𓏭class of seagoing shipsفئة من السفن البحرية",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kftyw",
+    "meaning_en": "Crete (?)",
+    "meaning_ar": "كريت (؟)",
+    "hieroglyphs_raw": "kftyw𓎡𓆑𓅂𓈉𓎡𓆑𓍘𓅱𓈉Crete (?)كريت (؟)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "km",
+    "meaning_en": "total up to (vb.), put an end to, amount to (vb.), completion, profit (vb.), duty",
+    "meaning_ar": "يبلغ، يصل الى حد، يضع نهاية لـ، يكمل، يدفع (لـ)، مكسب",
+    "hieroglyphs_raw": "km𓆎𓅓𓏛𓆎𓏛total up to (vb.), put an end to, amount to (vb.), completion, profit (vb.), dutyيبلغ، يصل الى حد، يضع نهاية لـ، يكمل، يدفع (لـ)، مكسب",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "km",
+    "meaning_en": "black",
+    "meaning_ar": "أسود",
+    "hieroglyphs_raw": "km𓆎𓅓𓁸𓆎𓏛𓆎𓅓𓏛blackأسود",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "km-wr",
+    "meaning_en": "bitter lakes region",
+    "meaning_ar": "منطقة البحيرات المرة",
+    "hieroglyphs_raw": "km-wr𓆎𓅓𓅨𓂋𓈉bitter lakes regionمنطقة البحيرات المرة",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmy",
+    "meaning_en": "herd (of cattle)",
+    "meaning_ar": "قطيع (من الماشية)",
+    "hieroglyphs_raw": "kmy,kmyt𓆎𓐝𓇋𓇋𓃒𓏥herd (of cattle)قطيع (من الماشية)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmyt",
+    "meaning_en": "conclusion (of a book)",
+    "meaning_ar": "خاتمة (كتاب)",
+    "hieroglyphs_raw": "kmyt𓆎𓅓𓇌𓏏𓍼𓏤conclusion (of a book)خاتمة (كتاب)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmt",
+    "meaning_en": "completion",
+    "meaning_ar": "تمام، كمال",
+    "hieroglyphs_raw": "kmt𓆎𓅓𓏏𓏛𓆎𓏏𓏛𓏥completionتمام، كمال",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmt",
+    "meaning_en": "a jar",
+    "meaning_ar": "جرة",
+    "hieroglyphs_raw": "kmt𓆎𓏏𓏊𓏤a jarجرة",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmt",
+    "meaning_en": "Egyptians",
+    "meaning_ar": "مصريون",
+    "hieroglyphs_raw": "kmt𓆎𓏏𓀀𓁐𓏥Egyptiansمصريون",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kmt",
+    "meaning_en": "The black land, Egypt",
+    "meaning_ar": "الأرض السوداء، مصر",
+    "hieroglyphs_raw": "kmt𓆎𓅓𓏏𓊖𓆎𓏏𓊖𓏏𓆎𓏏𓊖The black land, Egyptالأرض السوداء، مصر",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kni",
+    "meaning_en": "embrace",
+    "hieroglyphs_raw": "kni𓈎𓈖𓇋𓂘𓂡𓂘𓂡embrace",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kni",
+    "meaning_en": "be sullen (?), sullenness (?)",
+    "meaning_ar": "تجهم (؟)، يتجهم (؟)",
+    "hieroglyphs_raw": "kni𓎡𓈖𓇋𓀁be sullen (?), sullenness (?)تجهم (؟)، يتجهم (؟)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knanw",
+    "meaning_en": "Canaanites",
+    "meaning_ar": "كنعانىين",
+    "hieroglyphs_raw": "knanw𓎡𓏭𓈖𓂝𓈖𓍇𓏌Canaanitesكنعانىين",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knm",
+    "meaning_en": "wrap (vb.)",
+    "meaning_ar": "يلف، يغلف",
+    "hieroglyphs_raw": "knm𓎡𓈖𓅓𓄛wrap (vb.)يلف، يغلف",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knmt",
+    "meaning_en": "darkness",
+    "meaning_ar": "ظلام",
+    "hieroglyphs_raw": "knmt𓎡𓈖𓌰𓅓𓏏𓇱darknessظلام",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knmtyw",
+    "meaning_en": "they who dwell in darkness (name of a conquered people)",
+    "meaning_ar": "الذين يسكنون فى الظلام (إسم لشعب مهزوم)",
+    "hieroglyphs_raw": "knmtyw𓎡𓈖𓌰𓅓𓏏𓄿𓏥𓈉they who dwell in darkness (name of a conquered people)الذين يسكنون فى الظلام (إسم لشعب مهزوم)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knH",
+    "meaning_en": "dark",
+    "meaning_ar": "مظلم",
+    "hieroglyphs_raw": "knH𓎡𓈖𓎛𓇱darkمظلم",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knHw",
+    "meaning_en": "darkness",
+    "meaning_ar": "ظلام",
+    "hieroglyphs_raw": "knHw𓎡𓈖𓎛𓅱𓇱darknessظلام",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kns",
+    "meaning_en": "pubic region, vagina (?)",
+    "meaning_ar": "منطقة العانة، المهبل (؟)",
+    "hieroglyphs_raw": "kns𓎡𓈖𓋴𓄹pubic region, vagina (?)منطقة العانة، المهبل (؟)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "knt",
+    "meaning_en": "dislike (?) (of someone)",
+    "meaning_ar": "كره (؟)(لشخص)",
+    "hieroglyphs_raw": "knt𓎡𓈖𓏏𓅪𓏥dislike (?) (of someone)كره (؟)(لشخص)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kri",
+    "meaning_en": "shrine",
+    "meaning_ar": "مقصورة، هيكل، محراب",
+    "hieroglyphs_raw": "kri𓂓𓂋𓇋𓉬shrineمقصورة، هيكل، محراب",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "krp",
+    "meaning_en": "scrape out (inscription)",
+    "meaning_ar": "كشط (لنقش)، إزالة (لنقش)",
+    "hieroglyphs_raw": "krp𓎡𓂋𓊪𓂷𓂡scrape out (inscription)كشط (لنقش)، إزالة (لنقش)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "khA",
+    "meaning_en": "raise (the voice), utter (a bellow), rage furiously",
+    "meaning_ar": "يرفع (الصوت)، ينطق (بصوت عال)، يغضب بشدة",
+    "hieroglyphs_raw": "khA𓎡𓉔𓄿𓀀𓎡𓉔𓄿𓏝𓎡𓉔𓄿𓂡raise (the voice), utter (a bellow), rage furiouslyيرفع (الصوت)، ينطق (بصوت عال)، يغضب بشدة",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "khb",
+    "meaning_en": "harm (someone), be violent, howl, roar",
+    "meaning_ar": "يؤذى ( شخص ما)، يكون عنيف، يزمجر، يزئر",
+    "hieroglyphs_raw": "khb𓎡𓉔𓃀𓃫𓀜harm (someone), be violent, howl, roarيؤذى ( شخص ما)، يكون عنيف، يزمجر، يزئر",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kHkH",
+    "meaning_en": "become old",
+    "meaning_ar": "يطعن فى السن",
+    "hieroglyphs_raw": "kHkH𓎡𓎛𓎡𓎛𓀗become oldيطعن فى السن",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kHkHt",
+    "meaning_en": "hacking (of cough)",
+    "meaning_ar": "سعال متواصل",
+    "hieroglyphs_raw": "kHkHt𓎡𓎛𓎡𓎛𓏏𓀁hacking (of cough)سعال متواصل",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ksi",
+    "meaning_en": "bend down, bow down, be prostrate (of foe)",
+    "meaning_ar": "ينحني للأسفل، يسجد، يسجد (للأعداء)",
+    "hieroglyphs_raw": "ksi𓎡𓊃𓀙bend down, bow down, be prostrate (of foe)ينحني للأسفل، يسجد، يسجد (للأعداء)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ksw",
+    "meaning_en": "bowings",
+    "meaning_ar": "انحناء، ركوع",
+    "hieroglyphs_raw": "ksw𓎡𓋴𓅱𓀘𓎡𓋴𓅱𓀓𓎡𓀓𓏪bowingsانحناء، ركوع",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ksm",
+    "meaning_en": "defy, browbeat, profane (temple)",
+    "meaning_ar": "يتحدى، يرهب، يدنس (معبد)",
+    "hieroglyphs_raw": "ksm𓎡𓊃𓅓𓂢𓂡𓎡𓊃𓅓𓂢𓅪defy, browbeat, profane (temple)يتحدى، يرهب، يدنس (معبد)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kk",
+    "meaning_en": "be dark (of child about to be born)",
+    "meaning_ar": "يُظلِم",
+    "hieroglyphs_raw": "kk𓎡𓎡𓇱be dark (of child about to be born)يُظلِم",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kkw",
+    "meaning_en": "darkness",
+    "meaning_ar": "ظلام",
+    "hieroglyphs_raw": "kkw𓎡𓎡𓅱𓇱𓎡𓎡𓇱darknessظلام",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kkw smAw",
+    "meaning_en": "twilight",
+    "meaning_ar": "الغسق، الشفق",
+    "hieroglyphs_raw": "kkw smAw𓎡𓎡𓅱𓇰𓄥𓅱𓇰twilightالغسق، الشفق",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kt",
+    "meaning_en": "pettiness",
+    "meaning_ar": "عديم الأهمية",
+    "hieroglyphs_raw": "kt𓎡𓏏𓅪𓎡𓏏𓏤𓅪pettinessعديم الأهمية",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kt",
+    "meaning_en": "other (f.), another(f.)",
+    "meaning_ar": "أخرى (مؤنث)",
+    "hieroglyphs_raw": "kt𓎡𓏏other (f.), another(f.)أخرى (مؤنث)",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ktwt",
+    "meaning_en": "cauldrons",
+    "meaning_ar": "غلاية",
+    "hieroglyphs_raw": "ktwt𓎡𓏏𓅱𓏏𓎺𓏥cauldronsغلاية",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ktkt",
+    "meaning_en": "quiver (vb.)",
+    "meaning_ar": "يرتجف",
+    "hieroglyphs_raw": "ktkt𓎡𓏏𓎡𓏏𓏴𓂻quiver (vb.)يرتجف",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ktkt",
+    "meaning_en": "quiet",
+    "meaning_ar": "هادئ",
+    "hieroglyphs_raw": "ktkt𓎡𓏏𓎡𓏏𓀁quietهادئ",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ktt",
+    "meaning_en": "a girl",
+    "meaning_ar": "بنت",
+    "hieroglyphs_raw": "ktt𓎡𓏏𓏏𓅪𓁐a girlبنت",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "ktt",
+    "meaning_en": "small, trifling, a trifle",
+    "meaning_ar": "صغير، تافه، حقير",
+    "hieroglyphs_raw": "ktt𓎡𓏏𓏏𓅪small, trifling, a trifleصغير، تافه، حقير",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kTn",
+    "meaning_en": "charioteer",
+    "meaning_ar": "قائد العجلة الحربية",
+    "hieroglyphs_raw": "kTn𓂓𓏤𓅷𓏤𓈖𓄿𓂾𓂻𓂓𓏤𓆓𓈖𓂾𓂻charioteerقائد العجلة الحربية",
+    "phnid": 19,
+    "page": 2
+  },
+  {
+    "transliteration": "kdwt",
+    "meaning_en": "drawings",
+    "meaning_ar": "رسومات",
+    "hieroglyphs_raw": "kdwt𓐪𓂧𓏌𓅱𓏏𓏛𓏥𓐪𓂧𓏏𓏛𓏥𓐪𓅱𓏏𓏥drawingsرسومات",
+    "phnid": 19,
+    "page": 2
+  }
+]

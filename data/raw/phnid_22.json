@@ -1,0 +1,994 @@
+[
+  {
+    "transliteration": "TmA",
+    "meaning_en": "Strong-armed",
+    "meaning_ar": "قوي الذراع",
+    "hieroglyphs_raw": "TmA,a(wy)𓍿𓌴𓂝Strong-armedقوي الذراع",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Twn",
+    "meaning_en": "Rise, raise",
+    "meaning_ar": "يرتفع، ارتفاع",
+    "hieroglyphs_raw": "Twn,twn𓏏𓃹𓈖𓃒𓀜Rise, raiseيرتفع، ارتفاع",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tn",
+    "meaning_en": "Suffix and depended Pronoun, 2nd plural: you, your.",
+    "meaning_ar": "ضمير شخصي ومتعلق للشخص الثاني في حالة المملوك كان جمع: أنت، خاصتك",
+    "hieroglyphs_raw": "Tn,tn𓍿𓈖𓏥𓏏𓈖𓏥Suffix and depended Pronoun, 2nd plural: you, your.ضمير شخصي ومتعلق للشخص الثاني في حالة المملوك كان جمع: أنت، خاصتك",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tn",
+    "meaning_en": "Depended pronoun 2nd feminine singular: you, your",
+    "meaning_ar": "ضمير متعلق للشخص الثاني المفرد المؤنث: أنت، خاصتك",
+    "hieroglyphs_raw": "Tn,tn𓍿𓈖𓏏𓈖Depended pronoun 2nd feminine singular: you, yourضمير متعلق للشخص الثاني المفرد المؤنث: أنت، خاصتك",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "T",
+    "meaning_en": "Suffix pronoun: you, her",
+    "meaning_ar": "ضمير شخصي: أنتِ، خاصتك",
+    "hieroglyphs_raw": "T𓍿Suffix pronoun: you, herضمير شخصي: أنتِ، خاصتك",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA",
+    "meaning_en": "Haughty",
+    "meaning_ar": "متكبر",
+    "hieroglyphs_raw": "TA𓅷𓄿𓀁Haughtyمتكبر",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA",
+    "meaning_en": "Verb 3rd infinitive: take up, seize, snatch, rob, steal, shave (?), harbor (enemy)",
+    "meaning_ar": "فعل ثلاثي مصدر: يصادر، ينتزع، يسرق، يستولى على ، ملاذ (الأعداء)، يَحلق (؟)",
+    "hieroglyphs_raw": "TA𓅷𓄿𓀜𓅷𓄿𓂷𓂡𓅷𓄿𓍢𓀜𓅷𓇌𓂷𓂡𓅷𓂷𓂡Verb 3rd infinitive: take up, seize, snatch, rob, steal, shave (?), harbor (enemy)فعل ثلاثي مصدر: يصادر، ينتزع، يسرق، يستولى على ، ملاذ (الأعداء)، يَحلق (؟)",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA",
+    "meaning_en": "Able",
+    "meaning_ar": "مؤهل، مستطيع",
+    "hieroglyphs_raw": "TA𓅷𓏛Ableمؤهل، مستطيع",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA",
+    "meaning_en": "Little bird, young, baby, child",
+    "meaning_ar": "طائر صغير، صغير، رضيع، طفل",
+    "hieroglyphs_raw": "TA𓅷𓏤Little bird, young, baby, childطائر صغير، صغير، رضيع، طفل",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA",
+    "meaning_en": "Pellet, drop",
+    "meaning_ar": "كرة صغيرة، حبة، قطرة",
+    "hieroglyphs_raw": "TA𓅷𓈒Pellet, dropكرة صغيرة، حبة، قطرة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TA-wr",
+    "meaning_en": "The trinity Nome (Abydos)",
+    "meaning_ar": "الإقليم الثيني (أبيدوس)",
+    "hieroglyphs_raw": "TA-wr𓊡𓅨𓂋𓊖The trinity Nome (Abydos)الإقليم الثيني (أبيدوس)",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAy",
+    "meaning_en": "Male, man",
+    "meaning_ar": "ذكر، رجل",
+    "hieroglyphs_raw": "TAy𓅷𓄿𓇌𓂺𓀀Male, manذكر، رجل",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAyw",
+    "meaning_en": "Pellets",
+    "meaning_ar": "كرات صغيرة، يرمى كرات صغيرة",
+    "hieroglyphs_raw": "TAyw𓅷𓄿𓇌𓅱𓈓Pelletsكرات صغيرة، يرمى كرات صغيرة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw",
+    "meaning_en": "Wind, air, breath",
+    "meaning_ar": "ريح، هواء، نفس",
+    "hieroglyphs_raw": "TAw𓊡𓅱𓊡𓊡𓅱𓈒𓏥𓅷𓊡𓅱Wind, air, breathريح، هواء، نفس",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw",
+    "meaning_en": "book",
+    "meaning_ar": "كتاب",
+    "hieroglyphs_raw": "TAw𓅷𓅱𓍼𓅷𓄿𓍢𓏛bookكتاب",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw",
+    "meaning_en": "Bearer",
+    "meaning_ar": "حمال، شيال",
+    "hieroglyphs_raw": "TAw𓅷𓍢𓂷𓂡Bearerحمال، شيال",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw-wr",
+    "meaning_en": "An outlying district of Egypt",
+    "meaning_ar": "إقليم مصري ناء",
+    "hieroglyphs_raw": "TAw-wr𓊡𓅨𓈘An outlying district of Egyptإقليم مصري ناء",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw mDAt",
+    "meaning_en": "sculptor",
+    "meaning_ar": "نحات",
+    "hieroglyphs_raw": "TAw mDAt𓅷𓏛𓏏𓏤sculptorنحات",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw-xw",
+    "meaning_en": "Fan bearer",
+    "meaning_ar": "حامل المروحة",
+    "hieroglyphs_raw": "TAw-xw𓅷𓋽Fan bearerحامل المروحة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAw-sryt",
+    "meaning_en": "Standard bearer",
+    "meaning_ar": "حامل الراية",
+    "hieroglyphs_raw": "TAw-sryt𓅷𓋺Standard bearerحامل الراية",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAwt",
+    "meaning_en": "Sail",
+    "meaning_ar": "يبحر",
+    "hieroglyphs_raw": "TAwt𓅷𓄿𓅱𓋳𓏏Sailيبحر",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAwt",
+    "meaning_en": "Theft, gathering up the things",
+    "meaning_ar": "سرقة، تجمع الأشياء",
+    "hieroglyphs_raw": "TAwt𓅷𓄿𓅱𓏏𓀜Theft, gathering up the thingsسرقة، تجمع الأشياء",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAbt",
+    "meaning_en": "Loan",
+    "meaning_ar": "قرض",
+    "hieroglyphs_raw": "TAbt𓅷𓄿𓃀𓏏𓌽𓅷𓏏𓃀𓏝Loanقرض",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAm",
+    "meaning_en": "Strap",
+    "meaning_ar": "رباط",
+    "hieroglyphs_raw": "TAm𓅷𓄿𓅓𓍱Strapرباط",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAm",
+    "meaning_en": "Veil",
+    "meaning_ar": "يحجب، يستر، يغطي",
+    "hieroglyphs_raw": "TAm𓅷𓄿𓅓𓋳Veilيحجب، يستر، يغطي",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAm",
+    "meaning_en": "Cloak, swaddling-clothes, bandage",
+    "meaning_ar": "عباءة، ملابس ملفوفة، ضمادة، لفافة",
+    "hieroglyphs_raw": "TAm𓅷𓄿𓅓𓍱Cloak, swaddling-clothes, bandageعباءة، ملابس ملفوفة، ضمادة، لفافة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAm",
+    "meaning_en": "Foreskin",
+    "meaning_ar": "قُلْفَة، غُرْلَة، غُلْفَة",
+    "hieroglyphs_raw": "TAm𓅷𓄿𓅓𓂸Foreskinقُلْفَة، غُرْلَة، غُلْفَة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAr",
+    "meaning_en": "Make fast, fasten,",
+    "meaning_ar": "يسرع",
+    "hieroglyphs_raw": "TAr𓅷𓄿𓂋𓐡𓅷𓄿𓇋𓂋𓌗𓂡Make fast, fasten,يسرع",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TArw",
+    "meaning_en": "؟؟",
+    "meaning_ar": "قلعة سيلة، تل أبو صيفة على حدود مصر الشمالية الشرقية",
+    "hieroglyphs_raw": "TArw𓅷𓏤𓃭𓏤𓊖؟؟قلعة سيلة، تل أبو صيفة على حدود مصر الشمالية الشرقية",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TArt",
+    "meaning_en": "Cabin, entrenched camp",
+    "meaning_ar": "كوخ، معسكر، حصن",
+    "hieroglyphs_raw": "TArt𓅷𓄿𓂋𓏏𓐡𓉐Cabin, entrenched campكوخ، معسكر، حصن",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TAty",
+    "meaning_en": "Vizier, viziership",
+    "meaning_ar": "وزير، وزارة",
+    "hieroglyphs_raw": "TAty𓅷𓏏𓏤𓀀𓅷𓏏𓏭𓅷𓏏𓏏Vizier, viziershipوزير، وزارة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tit",
+    "meaning_en": "Dais",
+    "meaning_ar": "منصة",
+    "hieroglyphs_raw": "Tit𓍿𓇋𓏏𓊍𓍿𓅱𓊍Daisمنصة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TiTi",
+    "meaning_en": "trot",
+    "meaning_ar": "هرول",
+    "hieroglyphs_raw": "TiTi𓍿𓇋𓍿𓇋𓂻trotهرول",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tw",
+    "meaning_en": "Dependent pronoun: you, your",
+    "meaning_ar": "ضمير متعلق: أنت",
+    "hieroglyphs_raw": "Tw𓍿𓅱𓏏𓅱Dependent pronoun: you, yourضمير متعلق: أنت",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Twfy",
+    "meaning_en": "Papyrus plant",
+    "meaning_ar": "نبات البردي",
+    "hieroglyphs_raw": "Twfy𓍿𓅱𓆑𓏭𓆰𓏥Papyrus plantنبات البردي",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Twn",
+    "meaning_en": "stick",
+    "meaning_ar": "عصا",
+    "hieroglyphs_raw": "Twn𓍿𓃹𓈖𓂡stickعصا",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Twn",
+    "meaning_en": "Gore (with horn), stick",
+    "meaning_ar": "نطح (بقرن)، عصا",
+    "hieroglyphs_raw": "Twn𓍿𓃹𓈖𓄏Gore (with horn), stickنطح (بقرن)، عصا",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Twt",
+    "meaning_en": "Independent pronoun: you",
+    "meaning_ar": "ضمير مستقل: أنت",
+    "hieroglyphs_raw": "Twt𓍿𓅱𓏏𓏏𓅱𓏏𓀾𓏛Independent pronoun: youضمير مستقل: أنت",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbi",
+    "meaning_en": "Be shod, Wear shoes, provide with sandals",
+    "meaning_ar": "ينتعل، يلبس نعل",
+    "hieroglyphs_raw": "Tbi𓍿𓃀𓋸Be shod, Wear shoes, provide with sandalsينتعل، يلبس نعل",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbw",
+    "meaning_en": "Cobbler, shoemaker, sandal-maker",
+    "meaning_ar": "إسكافي",
+    "hieroglyphs_raw": "Tbw𓋸𓍢𓀀Cobbler, shoemaker, sandal-makerإسكافي",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbn",
+    "meaning_en": "Be quick",
+    "meaning_ar": "يسرع",
+    "hieroglyphs_raw": "Tbn𓍿𓃀𓈖𓂻Be quickيسرع",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbhn",
+    "meaning_en": "Leap, prance",
+    "meaning_ar": "وثب، قفز",
+    "hieroglyphs_raw": "Tbhn𓍿𓃀𓉔𓈖𓂾𓂻𓏥𓍿𓉔𓃀𓈖𓂻𓈓Leap, pranceوثب، قفز",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbt",
+    "meaning_en": "Sandal, role",
+    "meaning_ar": "صندل، نعل",
+    "hieroglyphs_raw": "Tbt𓋸𓏏𓏤𓏏𓃀𓏏𓋸Sandal, roleصندل، نعل",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tbt",
+    "meaning_en": "jar",
+    "meaning_ar": "جرة",
+    "hieroglyphs_raw": "Tbt𓍿𓏏𓃀𓏊jarجرة",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TpHt",
+    "meaning_en": "Cavern, hole of snake",
+    "meaning_ar": "كهف، حفرة الثعبان",
+    "hieroglyphs_raw": "TpHt𓍿𓊪𓎛𓏏𓉐𓏏𓊪𓎛𓏏𓉐Cavern, hole of snakeكهف، حفرة الثعبان",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tfrr",
+    "meaning_en": "in the color of lapis lazuli (divine)",
+    "meaning_ar": "في لون اللازورد (الإلهى)",
+    "hieroglyphs_raw": "Tfrr𓍿𓆑𓂋𓂋𓁸in the color of lapis lazuli (divine)في لون اللازورد (الإلهى)",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TmA",
+    "meaning_en": "cadaster",
+    "meaning_ar": "سجل يبين ملكية الأراضي (يستخدم في تحديد الضرائب)",
+    "hieroglyphs_raw": "TmA𓍿𓌳𓐡𓈅𓏤𓍿𓌳𓋬𓐡𓏤𓈇𓏏𓌳𓅓𓐡𓏤cadasterسجل يبين ملكية الأراضي (يستخدم في تحديد الضرائب)",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "TmH",
+    "meaning_en": "Libyan, with a clear color (bright)",
+    "meaning_ar": "ليبي، ذو لون واضح (فاتح)",
+    "hieroglyphs_raw": "TmH𓍿𓅓𓎛𓌙𓀀Libyan, with a clear color (bright)ليبي، ذو لون واضح (فاتح)",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tms",
+    "meaning_en": "Be besmeared",
+    "meaning_ar": "ملطخ، ملوث",
+    "hieroglyphs_raw": "Tms𓍘𓄟𓋴𓏞𓏛𓏞Be besmearedملطخ، ملوث",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tms",
+    "meaning_en": "Punish",
+    "meaning_ar": "يعاقب، يجازي",
+    "hieroglyphs_raw": "Tms,DbA𓌥𓃀𓍘𓄟𓅪𓏥Punishيعاقب، يجازي",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tms",
+    "meaning_en": "Red, ruddy, violet",
+    "meaning_ar": "أحمر، ضارب للحمرة، بنفسجي",
+    "hieroglyphs_raw": "Tms𓍿𓅓𓋴𓏞𓏏𓅓𓋴𓋔𓏛𓏏𓄟𓋴𓏞𓏛𓍘𓅓𓋴𓏞Red, ruddy, violetأحمر، ضارب للحمرة، بنفسجي",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tmsw",
+    "meaning_en": "Injury, harm",
+    "meaning_ar": "أذى، ضار",
+    "hieroglyphs_raw": "Tmsw𓍘𓄟𓊃𓅱𓏞𓅪𓏥Injury, harmأذى، ضار",
+    "phnid": 22,
+    "page": 1
+  },
+  {
+    "transliteration": "Tn",
+    "meaning_en": "Interrogative: where, whence?",
+    "meaning_ar": "استفهام: أين، من أين ؟ إلى أين ؟",
+    "hieroglyphs_raw": "Tn𓍿𓈖𓌙𓅯𓏏𓈖𓌙𓅯𓈐𓏏𓈖𓏭𓌙𓅯𓈐𓏏𓈖𓏌𓅱𓌙𓅯Interrogative: where, whence?استفهام: أين، من أين ؟ إلى أين ؟",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tn-r",
+    "meaning_en": "reminder",
+    "meaning_ar": "يذكر",
+    "hieroglyphs_raw": "Tn-r𓍿𓈖𓏏𓌙𓅯𓈗𓂋𓏤𓅯𓈗𓂋𓏤𓍿𓈖𓌙𓅯𓏝𓏌𓅱𓂋reminderيذكر",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tni",
+    "meaning_en": "Thinis (the old capital of the 18th nome of upper Egypt)",
+    "meaning_ar": "ثنى = طينة (العاصمة القديمة للإقليم الثامن من أقاليم الصعيد)",
+    "hieroglyphs_raw": "Tni𓍿𓈖𓌙𓇋𓊖𓍿𓈖𓊖𓍿𓈖𓇋𓏭𓊖Thinis (the old capital of the 18th nome of upper Egypt)ثنى = طينة (العاصمة القديمة للإقليم الثامن من أقاليم الصعيد)",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tni",
+    "meaning_en": "basin",
+    "meaning_ar": "حوض",
+    "hieroglyphs_raw": "Tni𓍿𓈖𓇋𓎟basinحوض",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tni",
+    "meaning_en": "Old man",
+    "meaning_ar": "عجوز",
+    "hieroglyphs_raw": "Tni𓍿𓈖𓇋𓀗Old manعجوز",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tni",
+    "meaning_en": "Lift up, promote, distinguished",
+    "meaning_ar": "يرتفع، يترقى، بارز",
+    "hieroglyphs_raw": "Tni𓍿𓈖𓌙𓅯𓍿𓈖𓅯𓌙𓏛𓍿𓈖𓌙𓅯𓀁𓏏𓈖𓌙𓅯𓏛𓍿𓈖𓌙𓏛𓏏𓈖𓏮𓌙𓅯Lift up, promote, distinguishedيرتفع، يترقى، بارز",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tny",
+    "meaning_en": "Suffix pronoun and depended, pronoun dual: you two, your",
+    "meaning_ar": "ضمير شخصي ومتعلق للمثنى: أنتما، خاصتكما",
+    "hieroglyphs_raw": "Tny𓍿𓈖𓏭Suffix pronoun and depended, pronoun dual: you two, yourضمير شخصي ومتعلق للمثنى: أنتما، خاصتكما",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnw",
+    "meaning_en": "Number, counting, numbering, each, every, every time that",
+    "meaning_ar": "عدد، حساب أحصاء، ترقيم، كل، كل مرة",
+    "hieroglyphs_raw": "Tnw𓍿𓈖𓌙𓅯𓏌𓅱𓏛𓍿𓈖𓏌𓅱𓏛𓏥𓏏𓈖𓏌𓍢𓌙𓅯𓏛𓏥𓍿𓏌𓏝𓏏𓈖𓏌𓅱𓏛𓏥Number, counting, numbering, each, every, every time thatعدد، حساب أحصاء، ترقيم، كل، كل مرة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnw",
+    "meaning_en": "Distinction",
+    "meaning_ar": "يتميز",
+    "hieroglyphs_raw": "Tnw𓍿𓈖𓏌𓍢𓌙𓅯𓀁𓏏𓈖𓏌𓅱𓌙𓅯𓏛Distinctionيتميز",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnwt",
+    "meaning_en": "Quantity, number, numbering, census (of cattle)",
+    "meaning_ar": "كمية، كم، ترقيم، إحصاء (الماشية)",
+    "hieroglyphs_raw": "Tnwt𓍿𓈖𓏌𓅱𓏏𓏛𓏥𓏏𓈖𓏌𓅱𓏏𓏛𓏥𓍿𓈖𓏏𓌙𓅯𓏛𓍿𓈖𓏌𓏏𓏥𓃒Quantity, number, numbering, census (of cattle)كمية، كم، ترقيم، إحصاء (الماشية)",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnf",
+    "meaning_en": "Enjoyment",
+    "meaning_ar": "استمتاع، متعة",
+    "hieroglyphs_raw": "Tnf𓍿𓈖𓆑𓀁Enjoymentاستمتاع، متعة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnfyt",
+    "meaning_en": "Sail",
+    "meaning_ar": "شراع",
+    "hieroglyphs_raw": "Tnfyt𓍿𓈖𓆑𓇌𓏏𓋳Sailشراع",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnft",
+    "meaning_en": "bag",
+    "meaning_ar": "حقيبة",
+    "hieroglyphs_raw": "Tnft𓍿𓈖𓆑𓏏𓋳bagحقيبة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnnt",
+    "meaning_en": "Sanctuary at Memphis",
+    "meaning_ar": "مزار (حرم) في منف",
+    "hieroglyphs_raw": "Tnnt𓍿𓇑𓇑𓈖𓏏𓉐𓍿𓈖𓈖𓏏𓉐𓏏𓈖𓇑𓇑𓈖𓏏𓉐Sanctuary at Memphisمزار (حرم) في منف",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnr",
+    "meaning_en": "Eager",
+    "meaning_ar": "قوي، شجاع",
+    "hieroglyphs_raw": "Tnr𓍿𓈖𓏥𓂋𓏤𓂡Eagerقوي، شجاع",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "TnHr",
+    "meaning_en": "hawk",
+    "meaning_ar": "صقر",
+    "hieroglyphs_raw": "TnHr𓍿𓈖𓁷𓂋𓏌𓅭hawkصقر",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tnt",
+    "meaning_en": "Difference",
+    "meaning_ar": "اختلاف",
+    "hieroglyphs_raw": "Tnt𓍿𓈖𓏏𓌙𓅯𓏛Differenceاختلاف",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tntt",
+    "meaning_en": "Sacred cattle",
+    "meaning_ar": "ماشية مكرسة",
+    "hieroglyphs_raw": "Tntt𓍿𓈖𓏏𓏏𓃒𓏥Sacred cattleماشية مكرسة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "TnTAt",
+    "meaning_en": "Sedan, base of throne, bed, dais",
+    "meaning_ar": "محفة، قاعدة العرش، سرير، منصة",
+    "hieroglyphs_raw": "TnTAt𓍿𓈖𓅷𓏏𓊍𓍿𓈖𓏏𓏏𓊍𓅷𓈖𓍿𓇌𓏏𓊍𓏏𓈖𓅷𓊎𓏏𓏤Sedan, base of throne, bed, daisمحفة، قاعدة العرش، سرير، منصة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tr",
+    "meaning_en": "Red material",
+    "meaning_ar": "مادة حمراء اللون",
+    "hieroglyphs_raw": "Tr𓍿𓂋𓏟𓍿𓂋𓈒𓏥Red materialمادة حمراء اللون",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tryt",
+    "meaning_en": "Complain",
+    "meaning_ar": "يشكي",
+    "hieroglyphs_raw": "Tryt𓍿𓂋𓇌𓏏𓀢Complainيشكي",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Trp",
+    "meaning_en": "Kind of goose or duck",
+    "meaning_ar": "نوع من الإوز أو البط",
+    "hieroglyphs_raw": "Trp𓍿𓂋𓊪𓅬Kind of goose or duckنوع من الإوز أو البط",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Trp",
+    "meaning_en": "An edible bird (goose)",
+    "meaning_ar": "طائر صالح للأكل (وزة)",
+    "hieroglyphs_raw": "Trp𓍿𓂋𓊪𓅾𓏏𓂋𓊪𓅯An edible bird (goose)طائر صالح للأكل (وزة)",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Trf",
+    "meaning_en": "Dance, luxury",
+    "meaning_ar": "رقص، ترف",
+    "hieroglyphs_raw": "Trf𓍿𓂋𓆑Dance, luxuryرقص، ترف",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Trm",
+    "meaning_en": "wink",
+    "meaning_ar": "غمزة بالعين",
+    "hieroglyphs_raw": "Trm𓍿𓂋𓅓𓁻winkغمزة بالعين",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Trt",
+    "meaning_en": "Willow",
+    "meaning_ar": "مرج، مرعى، صفصاف",
+    "hieroglyphs_raw": "Trt𓍿𓂋𓏏𓆭𓍘𓂋𓏏𓆭Willowمرج، مرعى، صفصاف",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Thm",
+    "meaning_en": "hunt",
+    "meaning_ar": "يصطاد",
+    "hieroglyphs_raw": "Thm𓍿𓉔𓅓𓂻huntيصطاد",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Thm",
+    "meaning_en": "Harry",
+    "meaning_ar": "يضايق، ينهك، يغزو، يغير على",
+    "hieroglyphs_raw": "Thm𓍿𓉔𓅓𓀁Harryيضايق، ينهك، يغزو، يغير على",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THw",
+    "meaning_en": "Rejoice",
+    "meaning_ar": "يفرح",
+    "hieroglyphs_raw": "THw𓍿𓎛𓅱𓀁𓍿𓎛𓅱𓄏𓏥𓍿𓎛𓅱𓄏𓏛𓏥Rejoiceيفرح",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THn",
+    "meaning_en": "Gleam",
+    "meaning_ar": "ومض، وميض",
+    "hieroglyphs_raw": "THn𓍿𓎛𓈖𓋣𓋣Gleamومض، وميض",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THn",
+    "meaning_en": "Lance (?) (infected place)",
+    "meaning_ar": "يطعن بالرمح )؟( (مكان مصاب)",
+    "hieroglyphs_raw": "THn𓍿𓎛𓈖𓂝Lance (?) (infected place)يطعن بالرمح )؟( (مكان مصاب)",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THn",
+    "meaning_en": "Meet, engage",
+    "meaning_ar": "يقابل، يلقى",
+    "hieroglyphs_raw": "THn𓍿𓎛𓈖𓂻Meet, engageيقابل، يلقى",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THnw",
+    "meaning_en": "One of the seven sacred oils",
+    "meaning_ar": "زيت من الزيوت المقدسة السبعة",
+    "hieroglyphs_raw": "THnw𓌙𓏌𓏌𓏌𓎯One of the seven sacred oilsزيت من الزيوت المقدسة السبعة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THnw",
+    "meaning_en": "Libyans",
+    "meaning_ar": "ليبيين",
+    "hieroglyphs_raw": "THnw𓋣𓈖𓏌𓍢𓌙𓀀𓁐𓏥Libyansليبيين",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THnw",
+    "meaning_en": "Libya",
+    "meaning_ar": "(تحنو) ليبيا",
+    "hieroglyphs_raw": "THnw𓍿𓌙𓎛𓏌𓏌𓏌𓈀𓍘𓎛𓈖𓏌𓍢𓌙𓈉𓏥𓌙𓏌𓏌𓏌𓈉𓌙𓏌𓈀Libya(تحنو) ليبيا",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THnt",
+    "meaning_en": "Faience",
+    "meaning_ar": "فيانس، القشاني",
+    "hieroglyphs_raw": "THnt𓍿𓎛𓇶𓈖𓏏𓈗𓍘𓎛𓈖𓏏𓋣𓋣𓈖𓏏𓈒𓏥𓍘𓎛𓈖𓏏𓈒𓏥Faienceفيانس، القشاني",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THH",
+    "meaning_en": "Exult",
+    "meaning_ar": "يزغرد، يحتفل",
+    "hieroglyphs_raw": "THH𓍿𓎛𓎛𓄑Exultيزغرد، يحتفل",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "THHwt",
+    "meaning_en": "Exultation",
+    "meaning_ar": "ابتهاج، تهليل",
+    "hieroglyphs_raw": "THHwt𓍿𓎛𓎛𓏏𓀁𓏪𓍿𓎛𓎛𓏏𓅱𓏛𓏥Exultationابتهاج، تهليل",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Support",
+    "meaning_ar": "سند، دعم",
+    "hieroglyphs_raw": "Ts𓍿𓊃𓌙Supportسند، دعم",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "As prefix forming abstract",
+    "meaning_ar": "آداة إسنادية تأتي في أول الكلام",
+    "hieroglyphs_raw": "Ts𓋭𓊃𓏛As prefix forming abstractآداة إسنادية تأتي في أول الكلام",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Speech, utterance, phrase, sentence, maxim",
+    "meaning_ar": "حديث ، نطق، عبارة، جملة، حكمة",
+    "hieroglyphs_raw": "Ts𓋭𓊃𓍢𓀁Speech, utterance, phrase, sentence, maximحديث ، نطق، عبارة، جملة، حكمة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Blame, fault, mistake",
+    "meaning_ar": "لوم، خطأ، غلطة",
+    "hieroglyphs_raw": "Ts𓍿𓊃𓍞𓅪Blame, fault, mistakeلوم، خطأ، غلطة",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Tie (knot), weave (cloth), join, rejoin, knit together, form, build (monument),unit (the two lands) model (the face of the sphinx), marshal (troops), levy (troops), order, arrange, colt, become constricted (?)",
+    "meaning_ar": "يربط (عقدة)، ينسج (ملابس)، يوصل، يعيد توصيل أو دمج، عقد سوياً ، يربط سوياً، شكل، يبني (أثراً)، يوحد (الأرضين)، نموذج أو مخطط او مثال (لوجه أبو الهول )، قائد عسكري، يشن حرب، أمر، ترتيب، مُهر، أصبح ضيق (؟)",
+    "hieroglyphs_raw": "Ts𓋭𓊃𓍢𓂡𓍿𓊃𓋭𓍿𓊃𓌙𓍿𓊃𓍞Tie (knot), weave (cloth), join, rejoin, knit together, form, build (monument),unit (the two lands) model (the face of the sphinx), marshal (troops), levy (troops), order, arrange, colt, become constricted (?)يربط (عقدة)، ينسج (ملابس)، يوصل، يعيد توصيل أو دمج، عقد سوياً ، يربط سوياً، شكل، يبني (أثراً)، يوحد (الأرضين)، نموذج أو مخطط او مثال (لوجه أبو الهول )، قائد عسكري، يشن حرب، أمر، ترتيب، مُهر، أصبح ضيق (؟)",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Sandbank",
+    "meaning_ar": "ضفة رملية",
+    "hieroglyphs_raw": "Ts𓋭𓊃𓈇𓋭𓏤Sandbankضفة رملية",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Neck",
+    "meaning_ar": "رقبة، عنق",
+    "hieroglyphs_raw": "Ts𓋭𓅿Neckرقبة، عنق",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "Vertebra, spine",
+    "meaning_ar": "فقارة (واحدة من عظام السلسلة الفقارية)، العمود الفقري",
+    "hieroglyphs_raw": "Ts𓋭𓏤𓋭𓊃𓄹𓍿𓊃𓋭𓏤Vertebra, spineفقارة (واحدة من عظام السلسلة الفقارية)، العمود الفقري",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts",
+    "meaning_en": "sit",
+    "meaning_ar": "جلس",
+    "hieroglyphs_raw": "Ts𓍿𓋴𓀉sitجلس",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts pri",
+    "meaning_en": "fighting",
+    "meaning_ar": "قتال",
+    "hieroglyphs_raw": "Ts pri𓋭𓊃𓏛𓊪𓂋𓇋𓈅𓏤fightingقتال",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts-pXr",
+    "meaning_en": "Vice-versa",
+    "meaning_ar": "والعكس صحيح",
+    "hieroglyphs_raw": "Ts-pXr𓋭𓄲Vice-versaوالعكس صحيح",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts-Hwrw",
+    "meaning_en": "reproach",
+    "meaning_ar": "تأنيب",
+    "hieroglyphs_raw": "Ts-Hwrw𓋭𓊃𓏛𓎛𓅨𓂋𓅱𓅪reproachتأنيب",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Ts-Hwrw",
+    "meaning_en": "Blame, reprimand",
+    "meaning_ar": "يؤنب، يلوم، يعاتب",
+    "hieroglyphs_raw": "Ts-Hwrw𓋭𓊃𓏛𓎛𓅨𓂋𓍢𓅪Blame, reprimandيؤنب، يلوم، يعاتب",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tsi",
+    "meaning_en": "Be angry, bear a grudge",
+    "meaning_ar": "يغضب، يظهر حقد، يحسد",
+    "hieroglyphs_raw": "Tsi𓍿𓊃𓏏𓍞𓏛𓍿𓊃𓍞𓀁𓍿𓊃𓀁𓍿𓊃𓌙Be angry, bear a grudgeيغضب، يظهر حقد، يحسد",
+    "phnid": 22,
+    "page": 2
+  },
+  {
+    "transliteration": "Tsi",
+    "meaning_en": "Go up",
+    "meaning_ar": "يرتفع",
+    "hieroglyphs_raw": "Tsi𓍿𓊃𓍞𓂻Go upيرتفع",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tsi",
+    "meaning_en": "Raise, lift up, set up (ruined walls)",
+    "meaning_ar": "رفع، وإنشاء (الجدران المهدمة)",
+    "hieroglyphs_raw": "Tsi𓍿𓊃𓍞𓂝𓍿𓊃𓍞𓏛Raise, lift up, set up (ruined walls)رفع، وإنشاء (الجدران المهدمة)",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tsw",
+    "meaning_en": "Commander, protector (of poor)",
+    "meaning_ar": "قائد",
+    "hieroglyphs_raw": "Tsw𓋭𓊃𓅱𓀜𓀀Commander, protector (of poor)قائد",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tswt",
+    "meaning_en": "Whines, complaints",
+    "meaning_ar": "أنَّات، شكوى",
+    "hieroglyphs_raw": "Tswt𓍿𓊃𓏏𓍟𓏛𓏥Whines, complaintsأنَّات، شكوى",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tsm",
+    "meaning_en": "the capital of the building (in castles and temple)",
+    "meaning_ar": "تاج البناء (في الحصون و المعابد)",
+    "hieroglyphs_raw": "Tsm𓍿𓊃𓅓𓏏𓊈𓉐the capital of the building (in castles and temple)تاج البناء (في الحصون و المعابد)",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tsm",
+    "meaning_en": "train (?) troops (originally of the hounds)",
+    "meaning_ar": "سلسلة من كلاب الصيد",
+    "hieroglyphs_raw": "Tsm𓃩𓏏𓏛train (?) troops (originally of the hounds)سلسلة من كلاب الصيد",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tsm",
+    "meaning_en": "hound",
+    "meaning_ar": "كلب صيد",
+    "hieroglyphs_raw": "Tsm𓍿𓊃𓅓𓃡𓍿𓊃𓅓𓄛houndكلب صيد",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Complaint",
+    "meaning_ar": "يشتكي، يتذمر",
+    "hieroglyphs_raw": "Tst𓍿𓊃𓏏𓍞𓏛𓏥Complaintيشتكي، يتذمر",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "hill",
+    "meaning_ar": "تل",
+    "hieroglyphs_raw": "Tst𓋭𓊃𓏏𓈅𓏤hillتل",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Station in life",
+    "meaning_ar": "موقف في الحياة، مرحلة في العمر",
+    "hieroglyphs_raw": "Tst𓍿𓊃𓌙𓏏𓏥Station in lifeموقف في الحياة، مرحلة في العمر",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Table (of food)",
+    "meaning_ar": "مائدة (طعام)",
+    "hieroglyphs_raw": "Tst𓏏𓏤Table (of food)مائدة (طعام)",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Troop, battalion, gang of (workmen)",
+    "meaning_ar": "فيلق، كتيبة، مجموعة (من العمال)",
+    "hieroglyphs_raw": "Tst𓋭𓏏𓀀Troop, battalion, gang of (workmen)فيلق، كتيبة، مجموعة (من العمال)",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Ridge, range",
+    "meaning_ar": "سلسة تلال أو جبال",
+    "hieroglyphs_raw": "Tst𓍿𓊃𓋭𓏏𓈉𓋭𓏏𓈅𓏤Ridge, rangeسلسة تلال أو جبال",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "Knot, vertebra",
+    "meaning_ar": "عقد، عقدة، فقارة (واحدة من عظام السلسلة الفقارية)",
+    "hieroglyphs_raw": "Tst𓋭𓏏𓏤Knot, vertebraعقد، عقدة، فقارة (واحدة من عظام السلسلة الفقارية)",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tst",
+    "meaning_en": "tooth",
+    "meaning_ar": "سِنَّة",
+    "hieroglyphs_raw": "Tst𓍿𓊃𓏏𓄑toothسِنَّة",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tt",
+    "meaning_en": "Collective: staff, gang, transcribers accumulated,",
+    "meaning_ar": "جمع: فريق، تجمع، مجمع الكُتَاب، مجمع النساخين",
+    "hieroglyphs_raw": "Tt𓍿𓏏𓏤𓀀𓏥Collective: staff, gang, transcribers accumulated,جمع: فريق، تجمع، مجمع الكُتَاب، مجمع النساخين",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Tt",
+    "meaning_en": "Board, woodwork",
+    "meaning_ar": "لوح، أشغال الخشب، نجارة",
+    "hieroglyphs_raw": "Tt𓍿𓏏𓏤𓆱Board, woodworkلوح، أشغال الخشب، نجارة",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Ttf",
+    "meaning_en": "pour, flow",
+    "meaning_ar": "يصب، يسيل، يفيض",
+    "hieroglyphs_raw": "Ttf𓍿𓏏𓆑𓈗pour, flowيصب، يسيل، يفيض",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "Ttf",
+    "meaning_en": "flow down, overflow",
+    "meaning_ar": "يسيل، يتدفق، يغمر",
+    "hieroglyphs_raw": "Ttf𓍿𓏏𓆑𓂻𓍿𓏏𓆑𓈗flow down, overflowيسيل، يتدفق، يغمر",
+    "phnid": 22,
+    "page": 3
+  },
+  {
+    "transliteration": "TtTt",
+    "meaning_en": "fight, quarrel",
+    "meaning_ar": "يتعارك، يتخاصم",
+    "hieroglyphs_raw": "TtTt𓍿𓏏𓍿𓏏𓄑𓀁fight, quarrelيتعارك، يتخاصم",
+    "phnid": 22,
+    "page": 3
+  }
+]
