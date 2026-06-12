@@ -97,7 +97,7 @@ def main():
     print("=== بناء Tokenizer الهيروغليفي ===\n")
     
     # تحميل البيانات
-    data_path = os.path.join(PROCESSED_DIR, "dictionary_clean.json")
+    data_path = os.path.join(PROCESSED_DIR, "combined_dataset.json")
     with open(data_path, encoding="utf-8") as f:
         data = json.load(f)
     

@@ -41,9 +41,9 @@ class HieroglyphTransformer(nn.Module):
     المخرج:  معنى بالعربي
     """
     
-    def __init__(self, vocab_size, embed_dim=256, num_heads=8,
-                 num_encoder_layers=4, num_decoder_layers=4,
-                 ff_dim=512, max_len=512, dropout=0.1):
+    def __init__(self, vocab_size, embed_dim=512, num_heads=8,
+                 num_encoder_layers=6, num_decoder_layers=6,
+                 ff_dim=1024, max_len=1024, dropout=0.1):
         super().__init__()
         
         self.embed_dim = embed_dim
