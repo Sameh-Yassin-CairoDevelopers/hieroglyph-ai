@@ -63,7 +63,7 @@ def main():
     
     # تحميل النموذج
     model = HieroglyphTransformer(vocab_size=vocab_size)
-    model_path = os.path.join(TRAINING_DIR, "best_model.pt")
+    model_path = os.path.join(TRAINING_DIR, "best_model_v2.pt")
     model.load_state_dict(torch.load(model_path, map_location="cpu"))
     model.eval()
     print("✅ النموذج محمّل\n")
