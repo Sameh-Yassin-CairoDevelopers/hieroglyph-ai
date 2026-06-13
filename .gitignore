@@ -1,1 +1,5 @@
 training/best_model_v4.pt 
+training/best_model.pt 
+training/best_model_gpu.pt 
+training/best_model_v2.pt 
+training/best_model_v3.pt 
