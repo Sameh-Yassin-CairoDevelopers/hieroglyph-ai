@@ -72,11 +72,27 @@ for item in demotic:
         })
 print(f"TLA Demotic:        {len([d for d in all_data if d['source']=='tla_demotic'])}")
 
+
+# 5 — القاموس العربي الجديد
+with open(os.path.join(PROC_DIR, "dictionary_arabic_clean.json"), encoding="utf-8") as f:
+    arabic_data = json.load(f)
+for item in arabic_data:
+    if item.get("hieroglyphs") and item.get("meaning_ar"):
+        all_data.append({
+            "hieroglyphs":     item["hieroglyphs"],
+            "transliteration": item.get("transliteration", ""),
+            "meaning_ar":      item.get("meaning_ar", ""),
+            "meaning_en":      item.get("meaning_en", ""),
+            "meaning_de":      "",
+            "source":          "bibliotheca_alexandrina_ar"
+        })
+print(f"القاموس العربي:     {len([d for d in all_data if d['source']=='bibliotheca_alexandrina_ar'])}")
+
 # إزالة المكررات بناءً على الهيروغليفية
 seen = set()
 unique = []
 for item in all_data:
-    key = item["hieroglyphs"] + item["transliteration"]
+    key = item["hieroglyphs"] + item["transliteration"] + item.get("meaning_ar", "") + item.get("meaning_en", "")
     if key not in seen:
         seen.add(key)
         unique.append(item)
